@@ -1,65 +1,139 @@
-import Image from "next/image";
+import Link from "next/link";
+import { chefs, stops, restaurants, groups } from "@/lib/data";
 
 export default function Home() {
+  const currentStops = stops.filter((s) => s.is_current);
+  const starredRestaurants = restaurants.filter(
+    (r) => r.ratings && "michelin_stars" in r.ratings && (r.ratings as Record<string, unknown>).michelin_stars
+  );
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div>
+      <div className="mb-12">
+        <h1 className="text-4xl font-bold tracking-tight text-stone-900 mb-2">
+          Internet Chef Database
+        </h1>
+        <p className="text-lg text-stone-500 max-w-2xl">
+          The pedigree and lineage of chefs, mapped. Verified career stops,
+          mentor-protégé networks, and restaurant group intelligence.
+        </p>
+      </div>
+
+      <div className="grid grid-cols-4 gap-6 mb-12">
+        <div className="rounded-lg border border-stone-200 bg-white p-5">
+          <div className="text-3xl font-bold text-stone-900">{chefs.length}</div>
+          <div className="text-sm text-stone-500 mt-1">Chef profiles</div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+        <div className="rounded-lg border border-stone-200 bg-white p-5">
+          <div className="text-3xl font-bold text-stone-900">{restaurants.length}</div>
+          <div className="text-sm text-stone-500 mt-1">Restaurants</div>
         </div>
-      </main>
+        <div className="rounded-lg border border-stone-200 bg-white p-5">
+          <div className="text-3xl font-bold text-stone-900">{stops.length}</div>
+          <div className="text-sm text-stone-500 mt-1">Career stops</div>
+        </div>
+        <div className="rounded-lg border border-stone-200 bg-white p-5">
+          <div className="text-3xl font-bold text-stone-900">{groups.length}</div>
+          <div className="text-sm text-stone-500 mt-1">Restaurant groups</div>
+        </div>
+      </div>
+
+      <div className="grid grid-cols-2 gap-12">
+        <div>
+          <h2 className="text-xl font-semibold text-stone-900 mb-4">Chefs</h2>
+          <div className="space-y-3">
+            {chefs.map((chef) => {
+              const chefStops = stops.filter(
+                (s) => s.chef_id === chef.id && s.is_current
+              );
+              return (
+                <Link
+                  key={chef.id}
+                  href={`/chefs/${chef.id}`}
+                  className="block rounded-lg border border-stone-200 bg-white p-4 no-underline hover:border-stone-300 transition-colors"
+                >
+                  <div className="font-semibold text-stone-900">
+                    {chef.name.display}
+                  </div>
+                  <div className="text-sm text-stone-500 mt-1">
+                    {chef.cuisine_tags.slice(0, 3).join(" · ")}
+                  </div>
+                  {chefStops.length > 0 && (
+                    <div className="text-sm text-amber-700 mt-1">
+                      {chefStops
+                        .map((s) => {
+                          const r = restaurants.find(
+                            (r) => r.id === s.restaurant_id
+                          );
+                          return r?.name;
+                        })
+                        .filter(Boolean)
+                        .join(", ")}
+                    </div>
+                  )}
+                </Link>
+              );
+            })}
+          </div>
+        </div>
+
+        <div>
+          <h2 className="text-xl font-semibold text-stone-900 mb-4">
+            Michelin-Starred Restaurants
+          </h2>
+          <div className="space-y-3">
+            {starredRestaurants
+              .sort(
+                (a, b) =>
+                  ((b.ratings as Record<string, number>).michelin_stars || 0) -
+                  ((a.ratings as Record<string, number>).michelin_stars || 0)
+              )
+              .map((r) => {
+                const stars = (r.ratings as Record<string, number>)
+                  .michelin_stars;
+                const staff = stops.filter(
+                  (s) => s.restaurant_id === r.id && s.is_current
+                );
+                return (
+                  <Link
+                    key={r.id}
+                    href={`/restaurants/${r.id}`}
+                    className="block rounded-lg border border-stone-200 bg-white p-4 no-underline hover:border-stone-300 transition-colors"
+                  >
+                    <div className="flex items-center justify-between">
+                      <div className="font-semibold text-stone-900">
+                        {r.name}
+                      </div>
+                      <div className="text-yellow-500 text-sm">
+                        {"★".repeat(stars)}
+                      </div>
+                    </div>
+                    <div className="text-sm text-stone-500 mt-1">
+                      {r.neighborhood ? `${r.neighborhood}, ` : ""}
+                      {r.city}
+                      {r.status === "closed" && (
+                        <span className="ml-2 text-red-500">(Closed)</span>
+                      )}
+                    </div>
+                    {staff.length > 0 && (
+                      <div className="text-sm text-amber-700 mt-1">
+                        {staff
+                          .map((s) => {
+                            const c = chefs.find((c) => c.id === s.chef_id);
+                            return c
+                              ? `${c.name.display} — ${s.position}`
+                              : null;
+                          })
+                          .filter(Boolean)
+                          .join(", ")}
+                      </div>
+                    )}
+                  </Link>
+                );
+              })}
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

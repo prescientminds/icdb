@@ -1,0 +1,111 @@
+[
+  {"id": "stop_001", "chef_id": "chef_michael_cimarusti", "restaurant_id": "rest_providence", "position": "Executive Chef & Co-Owner", "start_year": 2005, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_002", "chef_id": "chef_michael_cimarusti", "restaurant_id": "rest_connie_teds", "position": "Chef & Co-Owner", "start_year": 2013, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_003", "chef_id": "chef_michael_cimarusti", "restaurant_id": "rest_spago", "position": "Chef de Cuisine", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_wolfgang_puck"},
+  {"id": "stop_004", "chef_id": "chef_michael_cimarusti", "restaurant_id": "rest_le_cirque", "position": "Sous Chef", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": null, "notes": "3 years. Worked under Sottah Khunn and Sylvain Portay. Cooked alongside Bocuse, Boyer, Verge."},
+  {"id": "stop_005", "chef_id": "chef_michael_cimarusti", "restaurant_id": "rest_water_grill", "position": "Executive Chef", "start_year": 1997, "end_year": 2004, "is_current": false, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_006", "chef_id": "chef_michael_cimarusti", "restaurant_id": "rest_arpege", "position": "Stage", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_alain_passard"},
+
+  {"id": "stop_010", "chef_id": "chef_niki_nakayama", "restaurant_id": "rest_nnaka", "position": "Chef & Owner", "start_year": 2011, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_011", "chef_id": "chef_niki_nakayama", "restaurant_id": "rest_nsoto", "position": "Chef & Owner", "start_year": 2021, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_012", "chef_id": "chef_niki_nakayama", "restaurant_id": "rest_takao", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_morihiro_onodera", "notes": "Also worked with Takao Izumida."},
+  {"id": "stop_013", "chef_id": "chef_niki_nakayama", "restaurant_id": "rest_azami", "position": "Chef & Owner", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": null, "notes": "8 years. Developed kaiseki style."},
+
+  {"id": "stop_020", "chef_id": "chef_dave_beran", "restaurant_id": "rest_pasjoli", "position": "Chef & Owner", "start_year": 2019, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_021", "chef_id": "chef_dave_beran", "restaurant_id": "rest_seline", "position": "Chef & Owner", "start_year": 2024, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_022", "chef_id": "chef_dave_beran", "restaurant_id": "rest_dialogue", "position": "Chef & Owner", "start_year": 2017, "end_year": 2020, "is_current": false, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_023", "chef_id": "chef_dave_beran", "restaurant_id": "rest_next", "position": "Executive Chef", "start_year": 2011, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_grant_achatz", "notes": "Tapped by Grant Achatz. Developed 15 menus, 14 earned 4-star Tribune ratings."},
+  {"id": "stop_024", "chef_id": "chef_dave_beran", "restaurant_id": "rest_alinea", "position": "Chef de Cuisine", "start_year": 2006, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_grant_achatz", "notes": "Promoted to CdC July 2008."},
+
+  {"id": "stop_030", "chef_id": "chef_aitor_zabala", "restaurant_id": "rest_somni", "position": "Chef & Owner", "start_year": 2024, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_031", "chef_id": "chef_aitor_zabala", "restaurant_id": "rest_somni_original", "position": "Chef", "start_year": 2018, "end_year": 2020, "is_current": false, "verification": "unverified", "mentor_id": null, "notes": "Partnership with Jose Andres / ThinkFoodGroup."},
+  {"id": "stop_032", "chef_id": "chef_aitor_zabala", "restaurant_id": "rest_elbullli", "position": "Creative Team", "start_year": 2008, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_ferran_adria", "notes": "Took pay cut and demotion to work there."},
+  {"id": "stop_033", "chef_id": "chef_aitor_zabala", "restaurant_id": "rest_arzak", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_juan_mari_arzak"},
+  {"id": "stop_034", "chef_id": "chef_aitor_zabala", "restaurant_id": "rest_akelarre", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_pedro_subijana"},
+
+  {"id": "stop_040", "chef_id": "chef_jon_yao", "restaurant_id": "rest_kato", "position": "Chef & Owner", "start_year": 2016, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_041", "chef_id": "chef_jon_yao", "restaurant_id": "rest_benu", "position": "Stage", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_corey_lee"},
+  {"id": "stop_042", "chef_id": "chef_jon_yao", "restaurant_id": "rest_coi", "position": "Stage", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_daniel_patterson"},
+
+  {"id": "stop_050", "chef_id": "chef_jordan_kahn", "restaurant_id": "rest_vespertine", "position": "Chef & Owner", "start_year": 2017, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_051", "chef_id": "chef_jordan_kahn", "restaurant_id": "rest_meteora", "position": "Chef & Owner", "start_year": 2022, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_052", "chef_id": "chef_jordan_kahn", "restaurant_id": "rest_destroyer", "position": "Chef & Owner", "start_year": 2016, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_053", "chef_id": "chef_jordan_kahn", "restaurant_id": "rest_red_medicine", "position": "Chef & Owner", "start_year": 2010, "end_year": 2014, "is_current": false, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_054", "chef_id": "chef_jordan_kahn", "restaurant_id": "rest_french_laundry", "position": "Pastry Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_thomas_keller", "notes": "Started at age 17."},
+  {"id": "stop_055", "chef_id": "chef_jordan_kahn", "restaurant_id": "rest_per_se", "position": "Opening Pastry Team", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_thomas_keller"},
+  {"id": "stop_056", "chef_id": "chef_jordan_kahn", "restaurant_id": "rest_alinea", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_grant_achatz"},
+
+  {"id": "stop_060", "chef_id": "chef_ki_kim", "restaurant_id": "rest_restaurant_ki", "position": "Chef & Owner", "start_year": 2025, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_061", "chef_id": "chef_ki_kim", "restaurant_id": "rest_meteora", "position": "Chef de Cuisine", "start_year": null, "end_year": 2024, "is_current": false, "verification": "unverified", "mentor_id": "chef_jordan_kahn"},
+  {"id": "stop_062", "chef_id": "chef_ki_kim", "restaurant_id": "rest_kinn", "position": "Chef & Owner", "start_year": 2021, "end_year": 2023, "is_current": false, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_063", "chef_id": "chef_ki_kim", "restaurant_id": "rest_morihiro", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_morihiro_onodera"},
+  {"id": "stop_064", "chef_id": "chef_ki_kim", "restaurant_id": "rest_jungsik", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_065", "chef_id": "chef_ki_kim", "restaurant_id": "rest_atomix", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": null},
+
+  {"id": "stop_070", "chef_id": "chef_ori_menashe", "restaurant_id": "rest_bestia", "position": "Chef & Co-Owner", "start_year": 2012, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_071", "chef_id": "chef_ori_menashe", "restaurant_id": "rest_bavel", "position": "Chef & Co-Owner", "start_year": 2018, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_072", "chef_id": "chef_ori_menashe", "restaurant_id": "rest_saffys", "position": "Chef & Co-Owner", "start_year": 2022, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_073", "chef_id": "chef_ori_menashe", "restaurant_id": "rest_angelini_osteria", "position": "Chef de Cuisine", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_gino_angelini", "notes": "4 years."},
+  {"id": "stop_074", "chef_id": "chef_ori_menashe", "restaurant_id": "rest_pizzeria_mozza", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": null},
+
+  {"id": "stop_075", "chef_id": "chef_genevieve_gergis", "restaurant_id": "rest_bestia", "position": "Pastry Chef & Co-Owner", "start_year": 2012, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_076", "chef_id": "chef_genevieve_gergis", "restaurant_id": "rest_bavel", "position": "Pastry Chef & Co-Owner", "start_year": 2018, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+
+  {"id": "stop_080", "chef_id": "chef_nancy_silverton", "restaurant_id": "rest_osteria_mozza", "position": "Chef & Co-Owner", "start_year": 2007, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_081", "chef_id": "chef_nancy_silverton", "restaurant_id": "rest_pizzeria_mozza", "position": "Chef & Co-Owner", "start_year": 2007, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_082", "chef_id": "chef_nancy_silverton", "restaurant_id": "rest_chi_spacca", "position": "Chef & Co-Owner", "start_year": 2013, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_083", "chef_id": "chef_nancy_silverton", "restaurant_id": "rest_campanile", "position": "Chef & Co-Owner", "start_year": 1989, "end_year": 2012, "is_current": false, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_084", "chef_id": "chef_nancy_silverton", "restaurant_id": "rest_la_brea_bakery", "position": "Founder", "start_year": 1989, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_085", "chef_id": "chef_nancy_silverton", "restaurant_id": "rest_spago", "position": "Opening Pastry Chef", "start_year": 1982, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_wolfgang_puck"},
+  {"id": "stop_086", "chef_id": "chef_nancy_silverton", "restaurant_id": "rest_michaels", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_jonathan_waxman"},
+
+  {"id": "stop_090", "chef_id": "chef_chad_colby", "restaurant_id": "rest_antico_nuovo", "position": "Chef & Owner", "start_year": null, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_091", "chef_id": "chef_chad_colby", "restaurant_id": "rest_chi_spacca", "position": "Executive Chef", "start_year": null, "end_year": 2015, "is_current": false, "verification": "unverified", "mentor_id": "chef_nancy_silverton", "notes": "Built the salumi program from scratch. Cured whole prosciutto starting 2012."},
+  {"id": "stop_092", "chef_id": "chef_chad_colby", "restaurant_id": "rest_campanile", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_nancy_silverton"},
+
+  {"id": "stop_100", "chef_id": "chef_brian_dunsmoor", "restaurant_id": "rest_dunsmoor", "position": "Chef & Owner", "start_year": 2022, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_101", "chef_id": "chef_brian_dunsmoor", "restaurant_id": "rest_hatchet_hall", "position": "Executive Chef", "start_year": 2015, "end_year": 2021, "is_current": false, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_102", "chef_id": "chef_brian_dunsmoor", "restaurant_id": "rest_providence", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_michael_cimarusti"},
+
+  {"id": "stop_110", "chef_id": "chef_brandon_hayato_go", "restaurant_id": "rest_hayato", "position": "Chef & Owner", "start_year": 2018, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_111", "chef_id": "chef_brandon_hayato_go", "restaurant_id": "rest_ishikawa", "position": "Apprentice", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_hideki_ishikawa", "notes": "3 Michelin stars. Primary mentor."},
+
+  {"id": "stop_120", "chef_id": "chef_mei_lin", "restaurant_id": "rest_88_club", "position": "Chef & Partner", "start_year": 2025, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_121", "chef_id": "chef_mei_lin", "restaurant_id": "rest_daybird", "position": "Chef & Partner", "start_year": null, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_122", "chef_id": "chef_mei_lin", "restaurant_id": "rest_nightshade", "position": "Chef & Owner", "start_year": 2019, "end_year": 2020, "is_current": false, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_123", "chef_id": "chef_mei_lin", "restaurant_id": "rest_ink", "position": "Sous Chef", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_michael_voltaggio", "notes": "Opening team. Promoted within 6 months."},
+  {"id": "stop_124", "chef_id": "chef_mei_lin", "restaurant_id": "rest_spago_vegas", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_wolfgang_puck"},
+
+  {"id": "stop_130", "chef_id": "chef_gilberto_cetina", "restaurant_id": "rest_holbox", "position": "Chef & Owner", "start_year": 2017, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_131", "chef_id": "chef_gilberto_cetina", "restaurant_id": "rest_chichen_itza", "position": "Chef", "start_year": 2013, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null, "notes": "Took over from father. Family opened 2001."},
+
+  {"id": "stop_140", "chef_id": "chef_fatima_juarez", "restaurant_id": "rest_komal", "position": "Chef & Co-Founder", "start_year": 2024, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_141", "chef_id": "chef_fatima_juarez", "restaurant_id": "rest_holbox", "position": "Apprentice", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_gilberto_cetina"},
+  {"id": "stop_142", "chef_id": "chef_fatima_juarez", "restaurant_id": "rest_chichen_itza", "position": "Apprentice", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_gilberto_cetina"},
+  {"id": "stop_143", "chef_id": "chef_fatima_juarez", "restaurant_id": "rest_damian", "position": "Sous Chef", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_enrique_olvera"},
+
+  {"id": "stop_150", "chef_id": "chef_morihiro_onodera", "restaurant_id": "rest_morihiro", "position": "Chef & Owner", "start_year": 2025, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_151", "chef_id": "chef_morihiro_onodera", "restaurant_id": "rest_matsuhisa", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_nobu_matsuhisa"},
+  {"id": "stop_152", "chef_id": "chef_morihiro_onodera", "restaurant_id": "rest_mori_sushi", "position": "Chef & Owner", "start_year": null, "end_year": 2011, "is_current": false, "verification": "unverified", "mentor_id": null},
+
+  {"id": "stop_160", "chef_id": "chef_charles_namba", "restaurant_id": "rest_tsubaki", "position": "Chef & Co-Owner", "start_year": 2017, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_161", "chef_id": "chef_charles_namba", "restaurant_id": "rest_ototo", "position": "Co-Owner", "start_year": null, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_162", "chef_id": "chef_charles_namba", "restaurant_id": "rest_camelia", "position": "Chef & Co-Owner", "start_year": null, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_163", "chef_id": "chef_charles_namba", "restaurant_id": "rest_bouchon_bh", "position": "Opening Team", "start_year": 2010, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_thomas_keller"},
+  {"id": "stop_164", "chef_id": "chef_charles_namba", "restaurant_id": "rest_chanterelle", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_david_waltuck"},
+
+  {"id": "stop_170", "chef_id": "chef_sara_kramer", "restaurant_id": "rest_kismet", "position": "Chef & Co-Owner", "start_year": 2017, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_171", "chef_id": "chef_sara_kramer", "restaurant_id": "rest_blue_hill_stone_barns", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_dan_barber"},
+  {"id": "stop_172", "chef_id": "chef_sara_kramer", "restaurant_id": "rest_glasserie", "position": "Opening Chef", "start_year": 2013, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": null},
+
+  {"id": "stop_175", "chef_id": "chef_sarah_hymanson", "restaurant_id": "rest_kismet", "position": "Chef & Co-Owner", "start_year": 2017, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_176", "chef_id": "chef_sarah_hymanson", "restaurant_id": "rest_blue_hill_stone_barns", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_dan_barber"},
+
+  {"id": "stop_180", "chef_id": "chef_curtis_stone", "restaurant_id": "rest_gwen", "position": "Chef & Co-Owner", "start_year": 2016, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_181", "chef_id": "chef_curtis_stone", "restaurant_id": "rest_maude", "position": "Chef & Owner", "start_year": 2014, "end_year": 2024, "is_current": false, "verification": "unverified", "mentor_id": null, "notes": "Converted to The Pie Room Sep 2024."},
+  {"id": "stop_182", "chef_id": "chef_curtis_stone", "restaurant_id": "rest_marco_pierre_white", "position": "Cook", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_marco_pierre_white", "notes": "8 years training in London."},
+
+  {"id": "stop_190", "chef_id": "chef_nozomi_mori", "restaurant_id": "rest_mori_nozomi", "position": "Chef & Co-Owner", "start_year": 2024, "end_year": null, "is_current": true, "verification": "unverified", "mentor_id": null},
+  {"id": "stop_191", "chef_id": "chef_nozomi_mori", "restaurant_id": "rest_moto_azabu", "position": "Chef", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": "chef_takamichi_arai", "notes": "Applied for waitress job, got hired as chef."},
+  {"id": "stop_192", "chef_id": "chef_nozomi_mori", "restaurant_id": "rest_sushi_ginza_onodera", "position": "Chef", "start_year": null, "end_year": null, "is_current": false, "verification": "unverified", "mentor_id": null}
+]

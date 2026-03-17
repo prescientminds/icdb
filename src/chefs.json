@@ -1,0 +1,509 @@
+[
+  {
+    "id": "chef_michael_cimarusti",
+    "name": {
+      "first": "Michael",
+      "last": "Cimarusti",
+      "display": "Michael Cimarusti",
+      "nickname": null
+    },
+    "bio": "Seafood-driven fine dining chef whose classical French training and sustainability philosophy produced LA's first 3-Michelin-star restaurant. CIA-trained, shaped by Le Cirque and Arpege before building Providence into a 20-year institution.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "New Brunswick, NJ",
+    "cuisine_tags": ["seafood", "california", "fine-dining", "french-classical", "sustainable"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": 1990,
+        "credential": "Culinary Arts (honors)"
+      }
+    ]
+  },
+  {
+    "id": "chef_niki_nakayama",
+    "name": {
+      "first": "Niki",
+      "last": "Nakayama",
+      "display": "Niki Nakayama",
+      "nickname": null
+    },
+    "bio": "Modern kaiseki practitioner who trained across Japan for three years before building n/naka into a 2-star institution. One of the few women leading a kaiseki kitchen in the world. Family roots in LA's wholesale seafood trade.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": ["kaiseki", "japanese", "fine-dining", "seasonal"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary school",
+        "city": "Pasadena, CA",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_dave_beran",
+    "name": {
+      "first": "Dave",
+      "last": "Beran",
+      "display": "Dave Beran",
+      "nickname": null
+    },
+    "bio": "Grant Achatz's top lieutenant at Alinea and Next, where he developed 15 menus and earned 14 four-star Tribune ratings. Moved to LA and built Pasjoli as a French bistro counterpoint to his modernist training. Consulted on FX's The Bear.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": ["french", "modernist", "tasting-menu", "fine-dining"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Lake Forest College",
+        "city": "Lake Forest, IL",
+        "year": null,
+        "credential": "B.A. in Business"
+      }
+    ]
+  },
+  {
+    "id": "chef_aitor_zabala",
+    "name": {
+      "first": "Aitor",
+      "last": "Zabala",
+      "display": "Aitor Zabala",
+      "nickname": null
+    },
+    "bio": "Basque-born chef who trained through Spain's greatest kitchens — Akelarre, Arzak, elBulli — before partnering with Jose Andres to launch Somni. After a five-year rebuild following pandemic closure, reopened Somni to 3 Michelin stars within 7 months.",
+    "birth_year": 1979,
+    "birth_country": "ES",
+    "birth_city": "Barcelona",
+    "cuisine_tags": ["avant-garde", "spanish", "basque", "catalan", "tasting-menu"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Hoffman School of Gastronomy",
+        "city": "Barcelona",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_jon_yao",
+    "name": {
+      "first": "Jon",
+      "last": "Yao",
+      "display": "Jon Yao",
+      "nickname": "Jonathan"
+    },
+    "bio": "Self-taught Taiwanese-American chef who opened Kato at 24 in his parents' former strip-mall space. No culinary school — staged at Benu and Coi, then built a tasting menu that topped the LA Times 101 twice. Anthropology degree.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "San Gabriel Valley, CA",
+    "cuisine_tags": ["taiwanese", "californian", "tasting-menu", "fine-dining"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "UC Riverside",
+        "city": "Riverside, CA",
+        "year": null,
+        "credential": "B.A. in Anthropology"
+      }
+    ]
+  },
+  {
+    "id": "chef_jordan_kahn",
+    "name": {
+      "first": "Jordan",
+      "last": "Kahn",
+      "display": "Jordan Kahn",
+      "nickname": null
+    },
+    "bio": "Trained under Thomas Keller and Grant Achatz before age 20. Pastry background evolved into multi-sensory fine dining at Vespertine — housed in Eric Owen Moss's Waffle building in Culver City. Runs three concepts across the avant-garde-to-casual spectrum.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Savannah, GA",
+    "cuisine_tags": ["avant-garde", "multi-sensory", "fine-dining", "californian"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Johnson & Wales University",
+        "city": null,
+        "year": null,
+        "credential": "Culinary Arts (completed 2-year program in 8 months)"
+      }
+    ]
+  },
+  {
+    "id": "chef_ki_kim",
+    "name": {
+      "first": "Ki",
+      "last": "Kim",
+      "display": "Ki Kim",
+      "nickname": null
+    },
+    "bio": "Korean-born, Colorado-raised chef who dropped out of school at 18 and trained through NYC's top Korean fine dining kitchens — Jungsik, Atomix — before landing in LA. Earned a Michelin star at his 10-seat counter within his first year.",
+    "birth_year": null,
+    "birth_country": "KR",
+    "birth_city": null,
+    "cuisine_tags": ["korean", "fine-dining", "tasting-menu", "contemporary"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_ori_menashe",
+    "name": {
+      "first": "Ori",
+      "last": "Menashe",
+      "display": "Ori Menashe",
+      "nickname": null
+    },
+    "bio": "Israeli-American chef who quit culinary school after two weeks, trained under Gino Angelini, and built Bestia into the hardest reservation in LA. Three restaurants in the Arts District spanning Italian, Middle Eastern, and Mediterranean.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Southern California",
+    "cuisine_tags": ["italian", "middle-eastern", "mediterranean"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_genevieve_gergis",
+    "name": {
+      "first": "Genevieve",
+      "last": "Gergis",
+      "display": "Genevieve Gergis",
+      "nickname": null
+    },
+    "bio": "Pastry chef and co-owner of the Bestia/Bavel/Saffy's group. Started as a hostess, developed the pastry programs across all three restaurants. Works as creative and operational partner alongside Ori Menashe.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": ["pastry", "italian", "middle-eastern"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_nancy_silverton",
+    "name": {
+      "first": "Nancy",
+      "last": "Silverton",
+      "display": "Nancy Silverton",
+      "nickname": null
+    },
+    "bio": "Godmother of LA's artisan bread movement. Built La Brea Bakery into a national brand, ran Campanile for two decades, then launched the Mozza empire with Joe Bastianich. JBF Outstanding Chef 2014. Trained under Wolfgang Puck and Jonathan Waxman.",
+    "birth_year": 1954,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": ["italian", "pastry", "bread", "pizza"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Le Cordon Bleu",
+        "city": "London",
+        "year": null,
+        "credential": null
+      },
+      {
+        "institution": "Ecole Lenotre",
+        "city": "France",
+        "year": null,
+        "credential": "Pastry"
+      }
+    ]
+  },
+  {
+    "id": "chef_chad_colby",
+    "name": {
+      "first": "Chad",
+      "last": "Colby",
+      "display": "Chad Colby",
+      "nickname": null
+    },
+    "bio": "Silverton protégé who ran Chi Spacca's butchery and salumi program — curing whole prosciutto from 2012. Launched Antico Nuovo as a wood-fired Italian in Larchmont, earning a 2026 JBF Outstanding Restaurant semifinal nod.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Southern California",
+    "cuisine_tags": ["italian", "wood-fired", "whole-animal", "salumi"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_brian_dunsmoor",
+    "name": {
+      "first": "Brian",
+      "last": "Dunsmoor",
+      "display": "Brian Dunsmoor",
+      "nickname": null
+    },
+    "bio": "Georgia-born, fire-driven chef who trained under Hugh Acheson and Michael Cimarusti before building Hatchet Hall into a Culver City institution. Opened his eponymous restaurant in Glassell Park — heritage American cooking over live fire.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Georgia",
+    "cuisine_tags": ["southern", "heritage-american", "fire-driven", "seasonal"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Johnson & Wales University",
+        "city": "Charleston, SC",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_brandon_hayato_go",
+    "name": {
+      "first": "Brandon",
+      "last": "Go",
+      "display": "Brandon Hayato Go",
+      "nickname": "Hayato"
+    },
+    "bio": "Trained under Hideki Ishikawa at the 3-Michelin-star Ishikawa in Tokyo. Returned to LA and opened an 8-seat kappo counter — one of the only authentic kaiseki experiences in the US. Family ran a Japanese restaurant in Seal Beach.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Santa Monica, CA",
+    "cuisine_tags": ["kaiseki", "kappo", "japanese", "fine-dining", "seasonal"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Sake Education Council",
+        "city": null,
+        "year": 2009,
+        "credential": "Sake certification"
+      },
+      {
+        "institution": "Tsukiji Soba Academy",
+        "city": "Tokyo",
+        "year": 2009,
+        "credential": "Soba"
+      }
+    ]
+  },
+  {
+    "id": "chef_mei_lin",
+    "name": {
+      "first": "Mei",
+      "last": "Lin",
+      "display": "Mei Lin",
+      "nickname": null
+    },
+    "bio": "Born in Guangdong, raised in Dearborn. Trained through the Voltaggio-Puck pipeline, won Top Chef Season 12, and opened Nightshade (famous for mapo tofu lasagna) before it fell to COVID. Now running 88 Club in Beverly Hills with Francis Miranda.",
+    "birth_year": null,
+    "birth_country": "CN",
+    "birth_city": "Guangdong",
+    "cuisine_tags": ["chinese", "szechuan", "fine-dining", "pan-asian"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Schoolcraft College",
+        "city": "Michigan",
+        "year": null,
+        "credential": "Culinary certification"
+      }
+    ]
+  },
+  {
+    "id": "chef_gilberto_cetina",
+    "name": {
+      "first": "Gilberto",
+      "last": "Cetina",
+      "display": "Gilberto Cetina",
+      "nickname": null
+    },
+    "bio": "Family-taught Yucatecan chef who built a Michelin-starred restaurant inside a South LA garment-factory-turned-market. No formal training — learned cooking from his father at Chichen Itza, spent teenage summers diving for conch and octopus in Yucatan.",
+    "birth_year": null,
+    "birth_country": "MX",
+    "birth_city": null,
+    "cuisine_tags": ["yucatecan", "mexican", "seafood", "coastal"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_fatima_juarez",
+    "name": {
+      "first": "Fatima",
+      "last": "Juarez",
+      "display": "Fatima Juarez",
+      "nickname": null
+    },
+    "bio": "Pre-Hispanic Mexican cooking rooted in heirloom corn — 22+ varieties nixtamalized through LA's first dedicated craft molino. Trained under Gilberto Cetina and Enrique Olvera. Family background in Mexico City and Oaxacan cooking.",
+    "birth_year": null,
+    "birth_country": "MX",
+    "birth_city": null,
+    "cuisine_tags": ["mexican", "pre-hispanic", "masa", "heirloom-corn"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_morihiro_onodera",
+    "name": {
+      "first": "Morihiro",
+      "last": "Onodera",
+      "display": "Morihiro Onodera",
+      "nickname": null
+    },
+    "bio": "40-year veteran of LA Japanese dining. Grew up on a farm in Iwate making soy sauce and tofu from scratch. Trained under Nobu Matsuhisa in the 1980s. Mentored Niki Nakayama. Mills his own rice daily, imported from his hometown.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": "Fujisawa, Iwate Prefecture",
+    "cuisine_tags": ["japanese", "omakase", "sushi", "fine-dining"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_charles_namba",
+    "name": {
+      "first": "Charles",
+      "last": "Namba",
+      "display": "Charles Namba",
+      "nickname": null
+    },
+    "bio": "Beverly Hills-raised, Japanese-American chef who trained at Chanterelle in NYC and helped Thomas Keller open Bouchon Beverly Hills. Runs three restaurants spanning Japanese izakaya, sake, and French-Japanese fusion.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Beverly Hills, CA",
+    "cuisine_tags": ["japanese", "french-japanese", "izakaya", "sake"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Sushi school",
+        "city": "Pasadena, CA",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_sara_kramer",
+    "name": {
+      "first": "Sara",
+      "last": "Kramer",
+      "display": "Sara Kramer",
+      "nickname": null
+    },
+    "bio": "Former Broadway performer turned chef. Trained at Blue Hill at Stone Barns under Dan Barber, then through Andrew Tarlow's Brooklyn restaurant ecosystem. Co-founded Kismet with Sarah Hymanson after moving to LA.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "New York",
+    "cuisine_tags": ["vegetable-forward", "middle-eastern", "californian"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_sarah_hymanson",
+    "name": {
+      "first": "Sarah",
+      "last": "Hymanson",
+      "display": "Sarah Hymanson",
+      "nickname": null
+    },
+    "bio": "Blue Hill at Stone Barns alum who partnered with Sara Kramer to build Kismet into one of LA's most celebrated vegetable-forward restaurants. Co-authored the Kismet cookbook.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": ["vegetable-forward", "middle-eastern", "californian"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_curtis_stone",
+    "name": {
+      "first": "Curtis",
+      "last": "Stone",
+      "display": "Curtis Stone",
+      "nickname": null
+    },
+    "bio": "Australian chef who trained under Marco Pierre White for 8 years in London before building Gwen in Hollywood — a butcher shop and fine dining restaurant. European-style whole-animal philosophy.",
+    "birth_year": null,
+    "birth_country": "AU",
+    "birth_city": "Melbourne",
+    "cuisine_tags": ["californian", "european", "whole-animal", "fine-dining"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_nozomi_mori",
+    "name": {
+      "first": "Nozomi",
+      "last": "Mori",
+      "display": "Nozomi Mori",
+      "nickname": null
+    },
+    "bio": "Non-traditional path — luxury fashion in Tokyo, then moved to LA and fell into cooking. Earned a Michelin star within her first year at Mori Nozomi, an 8-seat omakase counter. One of the rarest profiles in fine dining: female-led, Michelin-starred sushi.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": "Amagasaki, Hyogo Prefecture",
+    "cuisine_tags": ["japanese", "omakase", "sushi", "fine-dining"],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "group_sprout_la",
+    "name": "Sprout LA",
+    "type": "development",
+    "key_people": ["Bill Chait"],
+    "city": "Los Angeles",
+    "portfolio": ["rest_bestia", "rest_meteora"],
+    "description": "Restaurant development and incubation. Helps chefs launch concepts, then steps back. Chait has since departed.",
+    "active": true
+  },
+  {
+    "id": "group_thinkfoodgroup",
+    "name": "ThinkFoodGroup",
+    "type": "restaurant-group",
+    "key_people": ["Jose Andres", "Rob Wilder"],
+    "city": "Washington, DC",
+    "portfolio": ["rest_somni_original"],
+    "description": "Jose Andres's restaurant group. DC-based. Backed original Somni at SLS Beverly Hills.",
+    "active": true
+  },
+  {
+    "id": "group_bb_hospitality",
+    "name": "B&B Hospitality Group",
+    "type": "restaurant-group",
+    "key_people": ["Joe Bastianich"],
+    "city": "New York",
+    "portfolio": ["rest_osteria_mozza", "rest_pizzeria_mozza", "rest_chi_spacca"],
+    "description": "Bastianich family Italian hospitality empire. NYC-based. Partners with Nancy Silverton on Mozza group.",
+    "active": true
+  },
+  {
+    "id": "group_last_word",
+    "name": "Last Word Hospitality",
+    "type": "restaurant-group",
+    "key_people": ["Holly Fox", "Adam Weisblatt"],
+    "city": "Los Angeles",
+    "portfolio": [],
+    "description": "Founded 2014. Backs chef-driven concepts: Found Oyster, Rasarumah, Barra Santos, Queen St., Shins Pizza, The Copper Room. 2026 JBF semifinalist: Outstanding Restaurateur.",
+    "active": true
+  },
+  {
+    "id": "group_shook_dotolo",
+    "name": "Jon Shook & Vinny Dotolo",
+    "type": "restaurant-group",
+    "key_people": ["Jon Shook", "Vinny Dotolo"],
+    "city": "Los Angeles",
+    "portfolio": ["rest_kismet"],
+    "description": "Animal, Son of a Gun, Jon & Vinny's, Trois Familia. Former Kismet partners (split 2021).",
+    "active": true,
+    "notes": "Kismet partnership ended May 2021."
+  },
+  {
+    "id": "group_francis_miranda",
+    "name": "Francis Miranda",
+    "type": "restaurateur",
+    "key_people": ["Francis Miranda"],
+    "city": "Los Angeles",
+    "portfolio": ["rest_88_club", "rest_daybird", "rest_nightshade"],
+    "description": "Restaurateur partnering with chefs on casual-to-fine concepts. Also behind Trophies Burger Club.",
+    "active": true
+  },
+  {
+    "id": "group_tkrg",
+    "name": "Thomas Keller Restaurant Group",
+    "type": "restaurant-group",
+    "key_people": ["Thomas Keller"],
+    "city": "Yountville, CA",
+    "portfolio": ["rest_french_laundry"],
+    "description": "French Laundry, Per Se, Bouchon, Ad Hoc. Training ground for multiple LA chefs.",
+    "active": true
+  },
+  {
+    "id": "group_alinea_group",
+    "name": "Alinea Group",
+    "type": "restaurant-group",
+    "key_people": ["Grant Achatz", "Nick Kokonas"],
+    "city": "Chicago",
+    "portfolio": ["rest_alinea"],
+    "description": "Alinea, Next, The Aviary, Roister. Training ground for Dave Beran and Jordan Kahn.",
+    "active": true
+  },
+  {
+    "id": "group_wolfgang_puck",
+    "name": "Wolfgang Puck Fine Dining Group",
+    "type": "restaurant-group",
+    "key_people": ["Wolfgang Puck"],
+    "city": "Los Angeles",
+    "portfolio": ["rest_spago"],
+    "description": "Spago, CUT, and global operations. Training ground for Nancy Silverton and Michael Cimarusti.",
+    "active": true
+  }
+]
