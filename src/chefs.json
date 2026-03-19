@@ -11,7 +11,13 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": "New Brunswick, NJ",
-    "cuisine_tags": ["seafood", "california", "fine-dining", "french-classical", "sustainable"],
+    "cuisine_tags": [
+      "seafood",
+      "california",
+      "fine-dining",
+      "french-classical",
+      "sustainable"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -37,7 +43,12 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": "Los Angeles, CA",
-    "cuisine_tags": ["kaiseki", "japanese", "fine-dining", "seasonal"],
+    "cuisine_tags": [
+      "kaiseki",
+      "japanese",
+      "fine-dining",
+      "seasonal"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -63,7 +74,12 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": null,
-    "cuisine_tags": ["french", "modernist", "tasting-menu", "fine-dining"],
+    "cuisine_tags": [
+      "french",
+      "modernist",
+      "tasting-menu",
+      "fine-dining"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -89,7 +105,13 @@
     "birth_year": 1979,
     "birth_country": "ES",
     "birth_city": "Barcelona",
-    "cuisine_tags": ["avant-garde", "spanish", "basque", "catalan", "tasting-menu"],
+    "cuisine_tags": [
+      "avant-garde",
+      "spanish",
+      "basque",
+      "catalan",
+      "tasting-menu"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -115,7 +137,12 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": "San Gabriel Valley, CA",
-    "cuisine_tags": ["taiwanese", "californian", "tasting-menu", "fine-dining"],
+    "cuisine_tags": [
+      "taiwanese",
+      "californian",
+      "tasting-menu",
+      "fine-dining"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -141,7 +168,12 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": "Savannah, GA",
-    "cuisine_tags": ["avant-garde", "multi-sensory", "fine-dining", "californian"],
+    "cuisine_tags": [
+      "avant-garde",
+      "multi-sensory",
+      "fine-dining",
+      "californian"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -167,7 +199,12 @@
     "birth_year": null,
     "birth_country": "KR",
     "birth_city": null,
-    "cuisine_tags": ["korean", "fine-dining", "tasting-menu", "contemporary"],
+    "cuisine_tags": [
+      "korean",
+      "fine-dining",
+      "tasting-menu",
+      "contemporary"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -186,7 +223,11 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": "Southern California",
-    "cuisine_tags": ["italian", "middle-eastern", "mediterranean"],
+    "cuisine_tags": [
+      "italian",
+      "middle-eastern",
+      "mediterranean"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -205,7 +246,11 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": null,
-    "cuisine_tags": ["pastry", "italian", "middle-eastern"],
+    "cuisine_tags": [
+      "pastry",
+      "italian",
+      "middle-eastern"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -224,7 +269,12 @@
     "birth_year": 1954,
     "birth_country": "US",
     "birth_city": null,
-    "cuisine_tags": ["italian", "pastry", "bread", "pizza"],
+    "cuisine_tags": [
+      "italian",
+      "pastry",
+      "bread",
+      "pizza"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -256,7 +306,12 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": "Southern California",
-    "cuisine_tags": ["italian", "wood-fired", "whole-animal", "salumi"],
+    "cuisine_tags": [
+      "italian",
+      "wood-fired",
+      "whole-animal",
+      "salumi"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -275,7 +330,12 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": "Georgia",
-    "cuisine_tags": ["southern", "heritage-american", "fire-driven", "seasonal"],
+    "cuisine_tags": [
+      "southern",
+      "heritage-american",
+      "fire-driven",
+      "seasonal"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -301,7 +361,13 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": "Santa Monica, CA",
-    "cuisine_tags": ["kaiseki", "kappo", "japanese", "fine-dining", "seasonal"],
+    "cuisine_tags": [
+      "kaiseki",
+      "kappo",
+      "japanese",
+      "fine-dining",
+      "seasonal"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -333,7 +399,12 @@
     "birth_year": null,
     "birth_country": "CN",
     "birth_city": "Guangdong",
-    "cuisine_tags": ["chinese", "szechuan", "fine-dining", "pan-asian"],
+    "cuisine_tags": [
+      "chinese",
+      "szechuan",
+      "fine-dining",
+      "pan-asian"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -359,7 +430,12 @@
     "birth_year": null,
     "birth_country": "MX",
     "birth_city": null,
-    "cuisine_tags": ["yucatecan", "mexican", "seafood", "coastal"],
+    "cuisine_tags": [
+      "yucatecan",
+      "mexican",
+      "seafood",
+      "coastal"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -378,7 +454,12 @@
     "birth_year": null,
     "birth_country": "MX",
     "birth_city": null,
-    "cuisine_tags": ["mexican", "pre-hispanic", "masa", "heirloom-corn"],
+    "cuisine_tags": [
+      "mexican",
+      "pre-hispanic",
+      "masa",
+      "heirloom-corn"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -397,7 +478,12 @@
     "birth_year": null,
     "birth_country": "JP",
     "birth_city": "Fujisawa, Iwate Prefecture",
-    "cuisine_tags": ["japanese", "omakase", "sushi", "fine-dining"],
+    "cuisine_tags": [
+      "japanese",
+      "omakase",
+      "sushi",
+      "fine-dining"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -416,7 +502,12 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": "Beverly Hills, CA",
-    "cuisine_tags": ["japanese", "french-japanese", "izakaya", "sake"],
+    "cuisine_tags": [
+      "japanese",
+      "french-japanese",
+      "izakaya",
+      "sake"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -442,7 +533,11 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": "New York",
-    "cuisine_tags": ["vegetable-forward", "middle-eastern", "californian"],
+    "cuisine_tags": [
+      "vegetable-forward",
+      "middle-eastern",
+      "californian"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -461,7 +556,11 @@
     "birth_year": null,
     "birth_country": "US",
     "birth_city": null,
-    "cuisine_tags": ["vegetable-forward", "middle-eastern", "californian"],
+    "cuisine_tags": [
+      "vegetable-forward",
+      "middle-eastern",
+      "californian"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -480,7 +579,12 @@
     "birth_year": null,
     "birth_country": "AU",
     "birth_city": "Melbourne",
-    "cuisine_tags": ["californian", "european", "whole-animal", "fine-dining"],
+    "cuisine_tags": [
+      "californian",
+      "european",
+      "whole-animal",
+      "fine-dining"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
@@ -499,11 +603,4517 @@
     "birth_year": null,
     "birth_country": "JP",
     "birth_city": "Amagasaki, Hyogo Prefecture",
-    "cuisine_tags": ["japanese", "omakase", "sushi", "fine-dining"],
+    "cuisine_tags": [
+      "japanese",
+      "omakase",
+      "sushi",
+      "fine-dining"
+    ],
     "photo_url": null,
     "instagram": null,
     "website": null,
     "status": "active",
     "education": []
+  },
+  {
+    "id": "chef_wolfgang_puck",
+    "name": {
+      "first": "Wolfgang",
+      "last": "Puck",
+      "display": "Wolfgang Puck",
+      "nickname": null
+    },
+    "bio": "Austrian-born architect of California cuisine and the modern celebrity-chef model. Arrived in LA at 25, cooked at Ma Maison, then opened Spago in 1982 — the restaurant that rewrote fine dining as a spectator sport. Built a global empire spanning fine dining (CUT, Spago) and casual (airport concessions, frozen pizza). JBF Outstanding Chef 1998. Trained Nancy Silverton and Michael Cimarusti.",
+    "birth_year": 1949,
+    "birth_country": "AT",
+    "birth_city": "Sankt Veit an der Glan",
+    "cuisine_tags": [
+      "californian",
+      "french",
+      "austrian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Hotel & Restaurant Apprenticeship",
+        "city": "Austria",
+        "year": null,
+        "credential": "Classical training"
+      }
+    ]
+  },
+  {
+    "id": "chef_gino_angelini",
+    "name": {
+      "first": "Gino",
+      "last": "Angelini",
+      "display": "Gino Angelini",
+      "nickname": null
+    },
+    "bio": "Italian-born chef who established Angelini Osteria as LA's benchmark for regional Italian cooking. Trained Ori Menashe for four years — the foundation Menashe built Bestia on.",
+    "birth_year": null,
+    "birth_country": "IT",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "regional-italian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_enrique_olvera",
+    "name": {
+      "first": "Enrique",
+      "last": "Olvera",
+      "display": "Enrique Olvera",
+      "nickname": null
+    },
+    "bio": "Mexico City-born chef who transformed Mexican fine dining through Pujol — a perennial World's 50 Best restaurant. Expanded to NYC (Cosme) and LA (Damian, Ditroit). Trained Fatima Juarez. CIA-educated.",
+    "birth_year": 1976,
+    "birth_country": "MX",
+    "birth_city": "Mexico City",
+    "cuisine_tags": [
+      "mexican",
+      "fine-dining",
+      "contemporary"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_michael_voltaggio",
+    "name": {
+      "first": "Michael",
+      "last": "Voltaggio",
+      "display": "Michael Voltaggio",
+      "nickname": null
+    },
+    "bio": "Top Chef Season 6 winner who opened Ink in West Hollywood — modernist California cuisine that earned a cult following. Trained Mei Lin, who won Top Chef Season 12. Maryland-born, self-made through the Charlie Palmer pipeline.",
+    "birth_year": 1978,
+    "birth_country": "US",
+    "birth_city": "Frederick, MD",
+    "cuisine_tags": [
+      "modernist",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_walter_manzke",
+    "name": {
+      "first": "Walter",
+      "last": "Manzke",
+      "display": "Walter Manzke",
+      "nickname": null
+    },
+    "bio": "Filipino-American chef who trained through LA and NYC's French kitchens — Patina, L'Orangerie, Daniel — before opening République in the former Campanile building on La Brea. JBF Best Chef: California 2024. Builds menus across French, Filipino, and California registers.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "filipino",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_margarita_manzke",
+    "name": {
+      "first": "Margarita",
+      "last": "Manzke",
+      "display": "Margarita Manzke",
+      "nickname": null
+    },
+    "bio": "Filipino-born pastry chef whose croissants and viennoiserie anchor République's morning identity. JBF Outstanding Pastry Chef 2024. Runs Sari Sari Store — Filipino baked goods and comfort food adjacent to République.",
+    "birth_year": null,
+    "birth_country": "PH",
+    "birth_city": null,
+    "cuisine_tags": [
+      "pastry",
+      "filipino",
+      "french"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_evan_funke",
+    "name": {
+      "first": "Evan",
+      "last": "Funke",
+      "display": "Evan Funke",
+      "nickname": null
+    },
+    "bio": "Pasta obsessive who trained under sfogline (traditional pasta makers) in Bologna, then brought that discipline to Venice Beach. Felix Trattoria earned a Michelin star on handmade pasta alone. Opened Mother Wolf at the Hollywood Roosevelt — Roman-inspired, larger format.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "pasta",
+      "roman"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_josiah_citrin",
+    "name": {
+      "first": "Josiah",
+      "last": "Citrin",
+      "display": "Josiah Citrin",
+      "nickname": null
+    },
+    "bio": "Built Mélisse into LA's most durable fine-dining institution — 2 Michelin stars since the guide arrived in California, open since 1999. French-trained through LA's golden-era kitchens (Patina, the French fine dining pipeline). Also runs Charcoal in Venice.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_ludo_lefebvre",
+    "name": {
+      "first": "Ludovic",
+      "last": "Lefebvre",
+      "display": "Ludo Lefebvre",
+      "nickname": "Ludo"
+    },
+    "bio": "Burgundy-born chef who earned his stripes under Marc Meneau at the 3-star L'Espérance, then landed in LA at L'Orangerie. Built Trois Mec into a ticket-only sensation (1 star) with Jon Shook and Vinny Dotolo, then pivoted to Petit Trois — a no-reservation French counter that democratized bistro cooking in LA.",
+    "birth_year": 1971,
+    "birth_country": "FR",
+    "birth_city": "Auxerre, Burgundy",
+    "cuisine_tags": [
+      "french",
+      "bistro",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_tim_hollingsworth",
+    "name": {
+      "first": "Tim",
+      "last": "Hollingsworth",
+      "display": "Tim Hollingsworth",
+      "nickname": null
+    },
+    "bio": "Spent a decade as chef de cuisine at The French Laundry under Thomas Keller — the longest CdC tenure in the restaurant's history. Moved to LA and opened Otium adjacent to The Broad in DTLA. Competed in the Bocuse d'Or representing the US.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_nyesha_arrington",
+    "name": {
+      "first": "Nyesha",
+      "last": "Arrington",
+      "display": "Nyesha Arrington",
+      "nickname": null
+    },
+    "bio": "LA native who opened Native in Santa Monica — earned a Michelin star in its first year. California-driven fine dining rooted in her multicultural background (African-American, Korean, German). Previously led the kitchen at Wilshire.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": [
+      "californian",
+      "fine-dining",
+      "multicultural"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_suzanne_goin",
+    "name": {
+      "first": "Suzanne",
+      "last": "Goin",
+      "display": "Suzanne Goin",
+      "nickname": null
+    },
+    "bio": "JBF Outstanding Chef 2016. Built three restaurants with partner Caroline Styne — Lucques (1998–2020), a.o.c. (2002), and Tavern (2009–2020). Trained at Chez Panisse and in France. Defined a generation of wine-centric, Mediterranean-inflected California cooking.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "french",
+      "mediterranean",
+      "wine-centric"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_jon_shook",
+    "name": {
+      "first": "Jon",
+      "last": "Shook",
+      "display": "Jon Shook",
+      "nickname": null
+    },
+    "bio": "One half of the Shook-Dotolo partnership that opened Animal in 2008 — a no-vegetable, no-reservation meat manifesto that broke LA dining wide open. Expanded to Jon & Vinny's, Son of a Gun, and co-founded Trois Mec with Ludo Lefebvre. Met Dotolo at culinary school in Florida.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Florida",
+    "cuisine_tags": [
+      "american",
+      "eclectic",
+      "meat-forward"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Art Institute of Fort Lauderdale",
+        "city": "Fort Lauderdale, FL",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_vinny_dotolo",
+    "name": {
+      "first": "Vinny",
+      "last": "Dotolo",
+      "display": "Vinny Dotolo",
+      "nickname": null
+    },
+    "bio": "Other half of the Shook-Dotolo partnership. Animal, Jon & Vinny's, Son of a Gun. Co-founded Trois Mec with Ludo Lefebvre and Jon Shook. The pair met at culinary school in Fort Lauderdale and have operated as an inseparable unit since.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Florida",
+    "cuisine_tags": [
+      "american",
+      "eclectic",
+      "meat-forward"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Art Institute of Fort Lauderdale",
+        "city": "Fort Lauderdale, FL",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_jeremy_fox",
+    "name": {
+      "first": "Jeremy",
+      "last": "Fox",
+      "display": "Jeremy Fox",
+      "nickname": null
+    },
+    "bio": "Vegetable-forward pioneer who first earned JBF Rising Star recognition at Ubuntu in Napa. Moved to LA and took over Rustic Canyon, then opened Birdie G's — Jewish-American comfort food in Santa Monica. Part of the Rustic Canyon Family group with Zoe Nathan and Josh Loeb.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "vegetable-forward",
+      "californian",
+      "jewish-american"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_kevin_meehan",
+    "name": {
+      "first": "Kevin",
+      "last": "Meehan",
+      "display": "Kevin Meehan",
+      "nickname": null
+    },
+    "bio": "Quiet operator who built Kali into a Michelin-starred tasting-menu restaurant on a residential stretch of Mid-Wilshire. Seasonal California cooking with French precision. Previously ran a private dining practice.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_nobu_matsuhisa",
+    "name": {
+      "first": "Nobu",
+      "last": "Matsuhisa",
+      "display": "Nobu Matsuhisa",
+      "nickname": null
+    },
+    "bio": "Japanese chef who opened Matsuhisa in Beverly Hills in 1987 — Japanese-Peruvian fusion that became a global brand. Trained Morihiro Onodera. The Nobu empire now spans 50+ restaurants worldwide, but Matsuhisa on La Cienega remains the original.",
+    "birth_year": 1949,
+    "birth_country": "JP",
+    "birth_city": "Saitama",
+    "cuisine_tags": [
+      "japanese",
+      "peruvian-japanese",
+      "fusion",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_thomas_keller",
+    "name": {
+      "first": "Thomas",
+      "last": "Keller",
+      "display": "Thomas Keller",
+      "nickname": null
+    },
+    "bio": "The French Laundry (3 stars) and Per Se (3 stars). Only American chef to simultaneously hold two 3-star restaurants. Training ground for Jordan Kahn, Tim Hollingsworth, Grant Achatz, Corey Lee, and dozens of LA-working chefs.",
+    "birth_year": 1955,
+    "birth_country": "US",
+    "birth_city": "Camp Pendleton, CA",
+    "cuisine_tags": [
+      "french",
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_grant_achatz",
+    "name": {
+      "first": "Grant",
+      "last": "Achatz",
+      "display": "Grant Achatz",
+      "nickname": null
+    },
+    "bio": "Alinea (3 stars) and Next. Defined American modernist cuisine. Trained under Thomas Keller at The French Laundry. Training ground for Dave Beran and Jordan Kahn.",
+    "birth_year": 1974,
+    "birth_country": "US",
+    "birth_city": "St. Clair, MI",
+    "cuisine_tags": [
+      "modernist",
+      "avant-garde",
+      "tasting-menu"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": 1994,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_alain_passard",
+    "name": {
+      "first": "Alain",
+      "last": "Passard",
+      "display": "Alain Passard",
+      "nickname": null
+    },
+    "bio": "L'Arpège, Paris. 3 Michelin stars. Pivoted to vegetable-focused haute cuisine in 2001. Training ground for Michael Cimarusti.",
+    "birth_year": 1956,
+    "birth_country": "FR",
+    "birth_city": "La Guerche-de-Bretagne",
+    "cuisine_tags": [
+      "french",
+      "vegetable-forward",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_ferran_adria",
+    "name": {
+      "first": "Ferran",
+      "last": "Adrià",
+      "display": "Ferran Adrià",
+      "nickname": null
+    },
+    "bio": "elBulli, Roses, Spain. Invented molecular gastronomy. 3 Michelin stars. #1 on World's 50 Best five times. Training ground for Aitor Zabala.",
+    "birth_year": 1962,
+    "birth_country": "ES",
+    "birth_city": "L'Hospitalet de Llobregat",
+    "cuisine_tags": [
+      "molecular",
+      "avant-garde",
+      "spanish"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_juan_mari_arzak",
+    "name": {
+      "first": "Juan Mari",
+      "last": "Arzak",
+      "display": "Juan Mari Arzak",
+      "nickname": null
+    },
+    "bio": "Arzak, San Sebastián. 3 Michelin stars since 1989. Patriarch of New Basque Cuisine. Training ground for Aitor Zabala.",
+    "birth_year": 1942,
+    "birth_country": "ES",
+    "birth_city": "San Sebastián",
+    "cuisine_tags": [
+      "basque",
+      "avant-garde",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_pedro_subijana",
+    "name": {
+      "first": "Pedro",
+      "last": "Subijana",
+      "display": "Pedro Subijana",
+      "nickname": null
+    },
+    "bio": "Akelarre, San Sebastián. 3 Michelin stars. Pioneer of New Basque Cuisine alongside Juan Mari Arzak. Training ground for Aitor Zabala.",
+    "birth_year": 1948,
+    "birth_country": "ES",
+    "birth_city": "San Sebastián",
+    "cuisine_tags": [
+      "basque",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_hideki_ishikawa",
+    "name": {
+      "first": "Hideki",
+      "last": "Ishikawa",
+      "display": "Hideki Ishikawa",
+      "nickname": null
+    },
+    "bio": "Ishikawa, Kagurazaka, Tokyo. 3 Michelin stars. Kaiseki master. Training ground for Brandon Hayato Go.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "kaiseki",
+      "japanese",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_corey_lee",
+    "name": {
+      "first": "Corey",
+      "last": "Lee",
+      "display": "Corey Lee",
+      "nickname": null
+    },
+    "bio": "Benu, San Francisco. 3 Michelin stars. Korean-American. Former chef de cuisine at The French Laundry under Thomas Keller. Training ground for Jon Yao.",
+    "birth_year": null,
+    "birth_country": "KR",
+    "birth_city": "Seoul",
+    "cuisine_tags": [
+      "asian-american",
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_daniel_patterson",
+    "name": {
+      "first": "Daniel",
+      "last": "Patterson",
+      "display": "Daniel Patterson",
+      "nickname": null
+    },
+    "bio": "Coi, San Francisco. 2 Michelin stars. California fine dining rooted in foraging and local ingredients. Also co-founded Locol with Roy Choi. Training ground for Jon Yao.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "fine-dining",
+      "foraging"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_jonathan_waxman",
+    "name": {
+      "first": "Jonathan",
+      "last": "Waxman",
+      "display": "Jonathan Waxman",
+      "nickname": null
+    },
+    "bio": "Original chef at Michael's in Santa Monica — co-architect of California cuisine with Michael McCarty and Alice Waters. Later opened Barbuto in NYC. Training ground for Nancy Silverton.",
+    "birth_year": 1950,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "italian",
+      "farm-to-table"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_david_waltuck",
+    "name": {
+      "first": "David",
+      "last": "Waltuck",
+      "display": "David Waltuck",
+      "nickname": null
+    },
+    "bio": "Chanterelle, Tribeca, NYC (1979–2009). French-inflected New American fine dining. Training ground for Charles Namba.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "new-american",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "retired",
+    "education": []
+  },
+  {
+    "id": "chef_dan_barber",
+    "name": {
+      "first": "Dan",
+      "last": "Barber",
+      "display": "Dan Barber",
+      "nickname": null
+    },
+    "bio": "Blue Hill at Stone Barns. 2 Michelin stars. Farm-to-table pioneer. Training ground for Sara Kramer and Sarah Hymanson.",
+    "birth_year": 1969,
+    "birth_country": "US",
+    "birth_city": "New York",
+    "cuisine_tags": [
+      "farm-to-table",
+      "fine-dining",
+      "seasonal"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_marco_pierre_white",
+    "name": {
+      "first": "Marco Pierre",
+      "last": "White",
+      "display": "Marco Pierre White",
+      "nickname": null
+    },
+    "bio": "Youngest chef to earn 3 Michelin stars (1995, age 33). Retired from cooking 1999. Harvey's, The Restaurant, Mirabelle — London. Training ground for Curtis Stone (8 years), Gordon Ramsay, Mario Batali.",
+    "birth_year": 1961,
+    "birth_country": "GB",
+    "birth_city": "Leeds",
+    "cuisine_tags": [
+      "french",
+      "british",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "retired",
+    "education": []
+  },
+  {
+    "id": "chef_hugh_acheson",
+    "name": {
+      "first": "Hugh",
+      "last": "Acheson",
+      "display": "Hugh Acheson",
+      "nickname": null
+    },
+    "bio": "Five & Ten, Athens, GA. JBF Best Chef: Southeast 2012. Canadian-born, Georgia-based. Training ground for Brian Dunsmoor.",
+    "birth_year": null,
+    "birth_country": "CA",
+    "birth_city": "Ottawa",
+    "cuisine_tags": [
+      "southern",
+      "european",
+      "farm-to-table"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_takamichi_arai",
+    "name": {
+      "first": "Takamichi",
+      "last": "Arai",
+      "display": "Takamichi Arai",
+      "nickname": null
+    },
+    "bio": "Moto Azabu, Marina del Rey. Japanese chef based in LA. Training ground for Nozomi Mori.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_joachim_splichal",
+    "name": {
+      "first": "Joachim",
+      "last": "Splichal",
+      "display": "Joachim Splichal",
+      "nickname": null
+    },
+    "bio": "German-born architect of LA's French fine dining pipeline. Opened Patina in 1989 and built it into the city's benchmark for French-Californian cooking. JBF Best Chef: California 1991. Founded the Patina Group, which grew to 50+ venues before Sodexo acquired it. Trained Walter Manzke and Josiah Citrin.",
+    "birth_year": 1954,
+    "birth_country": "DE",
+    "birth_city": "Spaichingen",
+    "cuisine_tags": [
+      "french",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_mark_peel",
+    "name": {
+      "first": "Mark",
+      "last": "Peel",
+      "display": "Mark Peel",
+      "nickname": null
+    },
+    "bio": "Co-founded Campanile with Nancy Silverton in 1989 and ran it for 23 years — the kitchen that trained a generation. CIA-educated, shaped by Chez Panisse, Spago, and La Tour d'Argent before building his own institution. JBF Best Chef: California nominee. Died 2022.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "french",
+      "wood-fired"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "deceased",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_alice_waters",
+    "name": {
+      "first": "Alice",
+      "last": "Waters",
+      "display": "Alice Waters",
+      "nickname": null
+    },
+    "bio": "Opened Chez Panisse in 1971 and invented California cuisine — the idea that restaurants should cook from local farms, not frozen supply chains. JBF Outstanding Chef 1992. Trained or influenced nearly every important California chef of the next 40 years, including Suzanne Goin and Mark Peel.",
+    "birth_year": 1944,
+    "birth_country": "US",
+    "birth_city": "Chatham, NJ",
+    "cuisine_tags": [
+      "farm-to-table",
+      "californian",
+      "french"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "UC Berkeley",
+        "city": "Berkeley, CA",
+        "year": 1967,
+        "credential": "French Cultural Studies"
+      }
+    ]
+  },
+  {
+    "id": "chef_roy_choi",
+    "name": {
+      "first": "Roy",
+      "last": "Choi",
+      "display": "Roy Choi",
+      "nickname": null
+    },
+    "bio": "Started the Kogi BBQ truck in 2008 and rewrote the rules — Korean-Mexican tacos served from a parking lot became the template for food-truck culture worldwide. CIA-trained, Le Bernardin under Eric Ripert. Co-founded Locol with Daniel Patterson to bring real food to food deserts. LA-born, LA-defining.",
+    "birth_year": 1970,
+    "birth_country": "KR",
+    "birth_city": "Seoul",
+    "cuisine_tags": [
+      "korean",
+      "mexican",
+      "street-food",
+      "fusion"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_jose_andres",
+    "name": {
+      "first": "José",
+      "last": "Andrés",
+      "display": "José Andrés",
+      "nickname": null
+    },
+    "bio": "Spanish-born chef who trained under Ferran Adrià at elBulli, then brought avant-garde Spanish cooking to America. Opened The Bazaar in LA and backed Aitor Zabala's Somni through ThinkFoodGroup. JBF Outstanding Chef 2011. Founded World Central Kitchen.",
+    "birth_year": 1969,
+    "birth_country": "ES",
+    "birth_city": "Mieres, Asturias",
+    "cuisine_tags": [
+      "spanish",
+      "avant-garde",
+      "tapas",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Escola de Restauració i Hostalatge de Barcelona",
+        "city": "Barcelona",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_kazunori_nozawa",
+    "name": {
+      "first": "Kazunori",
+      "last": "Nozawa",
+      "display": "Kazunori Nozawa",
+      "nickname": null
+    },
+    "bio": "Opened Sushi Nozawa in Studio City in 1988 and built the 'trust me' omakase into an LA institution. Partnered with Lele Massimini to scale the concept as SUGARFISH — now 30+ locations. One of the most commercially successful chef brands in Los Angeles history.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_david_kinch",
+    "name": {
+      "first": "David",
+      "last": "Kinch",
+      "display": "David Kinch",
+      "nickname": null
+    },
+    "bio": "Built Manresa in Los Gatos into a 3-Michelin-star institution over 20 years before closing it in 2022. Farm-driven California fine dining rooted in Catalan and Japanese traditions. JBF Best Chef: West 2010. Trained Jessica Largey.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "fine-dining",
+      "farm-to-table",
+      "tasting-menu"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_charlie_palmer",
+    "name": {
+      "first": "Charlie",
+      "last": "Palmer",
+      "display": "Charlie Palmer",
+      "nickname": null
+    },
+    "bio": "Opened Aureole in NYC in 1988 — progressive American fine dining. CIA-trained. Built a multi-restaurant empire. Trained Michael Voltaggio, who went on to win Top Chef and open Ink in LA.",
+    "birth_year": 1959,
+    "birth_country": "US",
+    "birth_city": "Smyrna, NY",
+    "cuisine_tags": [
+      "american",
+      "fine-dining",
+      "progressive"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_daniel_boulud",
+    "name": {
+      "first": "Daniel",
+      "last": "Boulud",
+      "display": "Daniel Boulud",
+      "nickname": null
+    },
+    "bio": "Lyon-born chef who built Daniel in NYC into a 2-Michelin-star institution. JBF Outstanding Chef 1994. Trained Walter Manzke, who brought French precision to République in LA.",
+    "birth_year": 1955,
+    "birth_country": "FR",
+    "birth_city": "Saint-Pierre-de-Chandieu",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_marc_meneau",
+    "name": {
+      "first": "Marc",
+      "last": "Meneau",
+      "display": "Marc Meneau",
+      "nickname": null
+    },
+    "bio": "L'Espérance in Vézelay, Burgundy. 3 Michelin stars. Self-taught. Built one of France's great restaurants in a tiny village. Trained Ludo Lefebvre, who carried the discipline to L'Orangerie and Petit Trois in LA. Died 2020.",
+    "birth_year": 1943,
+    "birth_country": "FR",
+    "birth_city": "Avallon, Burgundy",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "deceased",
+    "education": []
+  },
+  {
+    "id": "chef_eric_ripert",
+    "name": {
+      "first": "Eric",
+      "last": "Ripert",
+      "display": "Eric Ripert",
+      "nickname": null
+    },
+    "bio": "Le Bernardin, NYC. 3 Michelin stars since 2005. French-born seafood master who became co-owner after Gilbert Le Coze's death in 1994. Trained Roy Choi, who took classical technique and applied it to a taco truck.",
+    "birth_year": 1965,
+    "birth_country": "FR",
+    "birth_city": "Antibes",
+    "cuisine_tags": [
+      "french",
+      "seafood",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_travis_lett",
+    "name": {
+      "first": "Travis",
+      "last": "Lett",
+      "display": "Travis Lett",
+      "nickname": null
+    },
+    "bio": "Opened Gjelina on Abbot Kinney in 2008 and made it the prototype for California's wood-fired, vegetable-forward casual fine dining. Added Gjusta (deli/bakery) in 2014. The pair defined Venice's restaurant identity for a decade.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "wood-fired",
+      "italian-influenced",
+      "vegetable-forward"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_sang_yoon",
+    "name": {
+      "first": "Sang",
+      "last": "Yoon",
+      "display": "Sang Yoon",
+      "nickname": null
+    },
+    "bio": "Took over Father's Office on Montana Ave in 2000 and turned a dive bar into the birthplace of the gourmet burger in LA — the Office Burger with Gruyère, arugula, and caramelized onions, no substitutions. Classically French-trained. Pioneer of LA's fine-casual movement.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "gastropub",
+      "californian",
+      "french"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_bryant_ng",
+    "name": {
+      "first": "Bryant",
+      "last": "Ng",
+      "display": "Bryant Ng",
+      "nickname": null
+    },
+    "bio": "Chinese-Jamaican-American chef who built Cassia into Santa Monica's anchor — Southeast Asian brasserie that merges Singaporean, Vietnamese, and French cooking. Part of the Rustic Canyon Family. Previously ran The Spice Table in DTLA.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "southeast-asian",
+      "french",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_wes_avila",
+    "name": {
+      "first": "Wes",
+      "last": "Avila",
+      "display": "Wes Avila",
+      "nickname": null
+    },
+    "bio": "LA-born chef who trained in fine dining kitchens, then took that technique to the street. Started Guerrilla Tacos as a cart in 2012 — uni tostadas, sweet potato tacos — and built it into a brick-and-mortar. Opened Angry Egret Dinette in DTLA as a Chicano diner.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": [
+      "mexican",
+      "street-food",
+      "fine-casual",
+      "chicano"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_jessica_largey",
+    "name": {
+      "first": "Jessica",
+      "last": "Largey",
+      "display": "Jessica Largey",
+      "nickname": null
+    },
+    "bio": "Chef de cuisine at Manresa under David Kinch — JBF Rising Star Chef 2015. Moved to LA and opened Simone in the Arts District, earning a Michelin star before COVID closed it. Seasonal California cooking shaped by 3-star precision.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "fine-dining",
+      "seasonal"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_ray_garcia",
+    "name": {
+      "first": "Ray",
+      "last": "Garcia",
+      "display": "Ray Garcia",
+      "nickname": null
+    },
+    "bio": "LA-born, Mexican-American chef who opened Broken Spanish in DTLA in 2015 — fine dining that took Mexican cooking seriously without reducing it to upscale tacos. CIA-trained. Closed during COVID. Important figure in LA's Mexican fine dining legitimacy.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": [
+      "mexican",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_matt_molina",
+    "name": {
+      "first": "Matt",
+      "last": "Molina",
+      "display": "Matt Molina",
+      "nickname": null
+    },
+    "bio": "Started at Campanile, then ran the kitchen at Osteria Mozza under Nancy Silverton for nine years — JBF Best Chef: Pacific 2012. Opened Hippo in Highland Park. The Campanile-to-Mozza pipeline personified.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "californian",
+      "pizza"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_govind_armstrong",
+    "name": {
+      "first": "Govind",
+      "last": "Armstrong",
+      "display": "Govind Armstrong",
+      "nickname": null
+    },
+    "bio": "Apprenticed at Spago at age 13 — the youngest cook in a professional kitchen in LA. Went on to train at Campanile under Silverton and Peel, then Patina under Splichal. The three-kitchen pedigree is unmatched. Opened Table 8, Post & Beam, and now runs The Lobster on Santa Monica Pier.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": [
+      "californian",
+      "american",
+      "multicultural"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_gary_menes",
+    "name": {
+      "first": "Gary",
+      "last": "Menes",
+      "display": "Gary Menes",
+      "nickname": null
+    },
+    "bio": "Filipino-American from Long Beach. Cooked at Patina under Splichal, then The French Laundry under Keller. Opened Le Comptoir — a 10-seat vegetable-forward counter in Koreatown — and earned a Michelin star. Grows 80% of his produce on a 5,000 sq ft urban farm in Long Beach.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Long Beach, CA",
+    "cuisine_tags": [
+      "californian",
+      "vegetable-forward",
+      "fine-dining",
+      "farm-to-table"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Cal State Dominguez Hills",
+        "city": "Carson, CA",
+        "year": null,
+        "credential": "Business (Art History minor)"
+      }
+    ]
+  },
+  {
+    "id": "chef_suzanne_tracht",
+    "name": {
+      "first": "Suzanne",
+      "last": "Tracht",
+      "display": "Suzanne Tracht",
+      "nickname": null
+    },
+    "bio": "Chef de cuisine at Campanile under Mark Peel, then opened Jar on Beverly Blvd in 2001 — a modern chophouse that's been running for 24 years. Food & Wine Best New Chef 2002. Her pot roast hasn't left the menu since opening night.",
+    "birth_year": 1963,
+    "birth_country": "US",
+    "birth_city": "Phoenix, AZ",
+    "cuisine_tags": [
+      "american",
+      "chophouse",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_keith_corbin",
+    "name": {
+      "first": "Keith",
+      "last": "Corbin",
+      "display": "Keith Corbin",
+      "nickname": null
+    },
+    "bio": "Grew up in Jordan Downs, Watts. Started cooking in prison. Hired at LocoL by Roy Choi and Daniel Patterson — rose from line cook to kitchen manager. Partnered with Patterson to open Alta Adams in West Adams. Two-time JBF nominee. Published California Soul cookbook.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": [
+      "soul-food",
+      "californian",
+      "american"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_sherry_yard",
+    "name": {
+      "first": "Sherry",
+      "last": "Yard",
+      "display": "Sherry Yard",
+      "nickname": null
+    },
+    "bio": "Executive pastry chef at Spago for 19 years — built the pastry program across the entire Wolfgang Puck empire and oversaw the Academy Awards desserts. JBF Outstanding Pastry Chef 2002. Now runs Bakery by the Yard in Manhattan Beach.",
+    "birth_year": 1964,
+    "birth_country": "US",
+    "birth_city": "Brooklyn, NY",
+    "cuisine_tags": [
+      "pastry",
+      "baking"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Pastry Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_david_myers",
+    "name": {
+      "first": "David",
+      "last": "Myers",
+      "display": "David Myers",
+      "nickname": null
+    },
+    "bio": "Trained under Joachim Splichal at Patina and Daniel Boulud in New York. Opened Sona in 2002 — earned a Michelin star and Food & Wine Best New Chef. Built an international empire (20+ restaurants across Tokyo, Singapore, Dubai). LA footprint contracted but global reach expanded.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "japanese-inflected",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_raphael_lunetta",
+    "name": {
+      "first": "Raphael",
+      "last": "Lunetta",
+      "display": "Raphael Lunetta",
+      "nickname": null
+    },
+    "bio": "Santa Monica native who trained in Paris, then under Splichal at Patina and Puck at Chinois on Main. Co-opened JiRaffe with Josiah Citrin in 1997 — Food & Wine Best New Chef. 35 years in the Santa Monica restaurant scene. Now runs Marelle on Ocean Ave.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Santa Monica, CA",
+    "cuisine_tags": [
+      "french",
+      "californian",
+      "seafood"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_kris_yenbamroong",
+    "name": {
+      "first": "Kris",
+      "last": "Yenbamroong",
+      "display": "Kris Yenbamroong",
+      "nickname": null
+    },
+    "bio": "Thai-American. Parents ran Talesai, the first mainstream Thai restaurant in LA. NYU film degree, then took over the family business and built Night + Market into a three-location empire. Food & Wine Best New Chef 2016. JBF semifinalist. Natural wine evangelist. Published the Night + Market cookbook.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": [
+      "thai",
+      "street-food",
+      "wine-bar"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "NYU Tisch School of the Arts",
+        "city": "New York",
+        "year": null,
+        "credential": "Film"
+      }
+    ]
+  },
+  {
+    "id": "chef_miles_thompson",
+    "name": {
+      "first": "Miles",
+      "last": "Thompson",
+      "display": "Miles Thompson",
+      "nickname": null
+    },
+    "bio": "Started cooking at 13. Trained at Animal and Son of a Gun under Jon Shook and Vinny Dotolo. Opened Allumette in Echo Park — Bon Appetit Best New Restaurant 2013. Then ran the kitchen at Michael's Santa Monica. JBF Rising Star semifinalist.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Westchester, NY",
+    "cuisine_tags": [
+      "californian",
+      "fine-dining",
+      "produce-forward"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_michael_mccarty",
+    "name": {
+      "first": "Michael",
+      "last": "McCarty",
+      "display": "Michael McCarty",
+      "nickname": null
+    },
+    "bio": "Opened Michael's in Santa Monica in 1979 — the restaurant that co-invented California cuisine with Chez Panisse. Le Cordon Bleu Paris, Ecole Lenôtre. Hired Jonathan Waxman as his first chef. The room launched careers for four decades.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Le Cordon Bleu",
+        "city": "Paris",
+        "year": null,
+        "credential": "Culinary Arts"
+      },
+      {
+        "institution": "Ecole Lenôtre",
+        "city": "Paris",
+        "year": null,
+        "credential": "Pastry"
+      }
+    ]
+  },
+  {
+    "id": "chef_quinn_hatfield",
+    "name": {
+      "first": "Quinn",
+      "last": "Hatfield",
+      "display": "Quinn Hatfield",
+      "nickname": null
+    },
+    "bio": "Spago cook in the late 90s where he met Karen Hatfield. Opened Hatfield's in 2006 — earned a Michelin star in the inaugural California guide. The Sycamore Kitchen, Odys + Penelope followed.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_karen_hatfield",
+    "name": {
+      "first": "Karen",
+      "last": "Hatfield",
+      "display": "Karen Hatfield",
+      "nickname": null
+    },
+    "bio": "Pastry chef who worked at Spago Hollywood before co-founding Hatfield's (Michelin star) and The Sycamore Kitchen with Quinn Hatfield. Bon Appétit Best New Restaurant.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "pastry",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_gilles_epie",
+    "name": {
+      "first": "Gilles",
+      "last": "Epié",
+      "display": "Gilles Epié",
+      "nickname": null
+    },
+    "bio": "French chef who ran L'Orangerie's kitchen starting 1995 and lifted it to five stars within a year. Food & Wine Best New Chef 1996. Mentored Ludo Lefebvre at L'Orangerie. Cooked for four US presidents. Now in Washington, DC.",
+    "birth_year": null,
+    "birth_country": "FR",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_christophe_eme",
+    "name": {
+      "first": "Christophe",
+      "last": "Emé",
+      "display": "Christophe Emé",
+      "nickname": null
+    },
+    "bio": "Executive chef at L'Orangerie after a stint in NYC. Opened Ortolan on West 3rd in 2005 — earned a Michelin star and Food & Wine Best New Chef. Continued the L'Orangerie-to-independent pipeline that defined LA French cooking.",
+    "birth_year": null,
+    "birth_country": "FR",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_octavio_becerra",
+    "name": {
+      "first": "Octavio",
+      "last": "Becerra",
+      "display": "Octavio Becerra",
+      "nickname": null
+    },
+    "bio": "Joachim Splichal's culinary lieutenant for 21 years — co-founded and helped build the Patina Group from a single restaurant to 50+ venues. Opened Palate Food + Wine in Glendale with Gary Menes.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_eric_ziebold",
+    "name": {
+      "first": "Eric",
+      "last": "Ziebold",
+      "display": "Eric Ziebold",
+      "nickname": null
+    },
+    "bio": "Worked at Spago Beverly Hills, then became chef de cuisine at The French Laundry under Thomas Keller. Helped open Per Se. Moved to DC and opened CityZen, Kinship, Metier — all Michelin-starred. JBF Best Chef: Mid-Atlantic 2008. The Puck-to-Keller connector.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "american",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_hiro_sone",
+    "name": {
+      "first": "Hiro",
+      "last": "Sone",
+      "display": "Hiro Sone",
+      "nickname": null
+    },
+    "bio": "Japanese-born chef selected by Wolfgang Puck to open Tokyo Spago. Returned to the US and opened Terra in St. Helena with Lissa Doumani — Michelin-starred, JBF Best Chef: California 2003. Three decades in Napa Valley.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "french",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_lissa_doumani",
+    "name": {
+      "first": "Lissa",
+      "last": "Doumani",
+      "display": "Lissa Doumani",
+      "nickname": null
+    },
+    "bio": "Apprenticed under Nancy Silverton as pastry chef at Spago Hollywood in the 1980s. Co-founded Terra in St. Helena with Hiro Sone — Michelin-starred for over a decade.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "pastry",
+      "californian",
+      "wine-country"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_carole_iida_nakayama",
+    "name": {
+      "first": "Carole",
+      "last": "Iida-Nakayama",
+      "display": "Carole Iida-Nakayama",
+      "nickname": null
+    },
+    "bio": "Co-owner and sous chef at n/naka alongside Niki Nakayama. Featured together on Chef's Table. Built n/soto as the second expression of their kaiseki practice.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "kaiseki",
+      "japanese",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_josef_centeno",
+    "name": {
+      "first": "Josef",
+      "last": "Centeno",
+      "display": "Josef Centeno",
+      "nickname": null
+    },
+    "bio": "San Antonio-born, CIA-trained chef who built three restaurants in DTLA — Bäco Mercat (the bäco flatbread), Orsa & Winston (Michelin star, Japanese-Italian tasting menu), and Bar Amá (Tex-Mex). Multi-concept operator who helped define the DTLA dining scene.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "San Antonio, TX",
+    "cuisine_tags": [
+      "japanese",
+      "italian",
+      "tex-mex",
+      "multi-concept"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_jason_fullilove",
+    "name": {
+      "first": "Jason",
+      "last": "Fullilove",
+      "display": "Jason Fullilove",
+      "nickname": null
+    },
+    "bio": "CIA-trained chef who served as executive chef at Campanile under Mark Peel. Opened Barbara Jean in Leimert Park — globally inspired soul food named after his mother.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "soul-food",
+      "global",
+      "american"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_zoe_nathan",
+    "name": {
+      "first": "Zoe",
+      "last": "Nathan",
+      "display": "Zoe Nathan",
+      "nickname": null
+    },
+    "bio": "Baker and co-founder of Huckleberry Café & Bakery in Santa Monica. Part of the Rustic Canyon Family with Josh Loeb and Jeremy Fox. JBF Outstanding Baker semifinalist. Her pastries anchor the morning identity of the whole group.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "bakery",
+      "pastry",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_makoto_tanaka",
+    "name": {
+      "first": "Makoto",
+      "last": "Tanaka",
+      "display": "Makoto Tanaka",
+      "nickname": null
+    },
+    "bio": "Executive chef at Spago in the early 1990s under Wolfgang Puck. Previously at China Grill NYC. Opened Mako in Beverly Hills — Japanese fine dining that ran for 11 years. Pioneered Asian fusion in LA alongside Puck.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "asian-fusion",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_ricardo_zarate",
+    "name": {
+      "first": "Ricardo",
+      "last": "Zarate",
+      "display": "Ricardo Zarate",
+      "nickname": null
+    },
+    "bio": "Peruvian-born chef who brought Peruvian cuisine to LA fine dining. Opened Mo-Chica in DTLA (2009) and Picca (Peruvian-Japanese). Food & Wine Best New Chef 2011. JBF nominee. Pioneered the Peruvian wave in Los Angeles.",
+    "birth_year": null,
+    "birth_country": "PE",
+    "birth_city": "Lima",
+    "cuisine_tags": [
+      "peruvian",
+      "japanese-peruvian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_charlie_trotter",
+    "name": {
+      "first": "Charlie",
+      "last": "Trotter",
+      "display": "Charlie Trotter",
+      "nickname": null
+    },
+    "bio": "Charlie Trotter's, Chicago (1987-2012). 2 Michelin stars. JBF Outstanding Chef 1999. Defined progressive American fine dining. Trained David Myers, Graham Elliot, Curtis Duffy, and dozens of others. Died 2013.",
+    "birth_year": 1959,
+    "birth_country": "US",
+    "birth_city": "Wilmette, IL",
+    "cuisine_tags": [
+      "american",
+      "fine-dining",
+      "progressive"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "deceased",
+    "education": []
+  },
+  {
+    "id": "chef_masa_takayama",
+    "name": {
+      "first": "Masa",
+      "last": "Takayama",
+      "display": "Masa Takayama",
+      "nickname": null
+    },
+    "bio": "Opened Ginza Sushiko in Beverly Hills in the 1980s — the most expensive sushi in America at the time. Moved to NYC in 2004 and opened Masa at the Time Warner Center — 3 Michelin stars, $595 omakase. Trained in Tokyo under master Sugiyama Toshiaki.",
+    "birth_year": 1954,
+    "birth_country": "JP",
+    "birth_city": "Tochigi Prefecture",
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_lee_hefter",
+    "name": {
+      "first": "Lee",
+      "last": "Hefter",
+      "display": "Lee Hefter",
+      "nickname": null
+    },
+    "bio": "Managing partner and executive corporate chef of Wolfgang Puck Fine Dining Group for nearly 30 years. Ran Spago, CUT, and the global fine dining operations. Created the CUT concept. Departed the Puck organization in 2021. The operational backbone behind Puck's empire.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "french",
+      "fine-dining",
+      "steakhouse"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_traci_des_jardins",
+    "name": {
+      "first": "Traci",
+      "last": "Des Jardins",
+      "display": "Traci Des Jardins",
+      "nickname": null
+    },
+    "bio": "Opening chef de cuisine at Patina under Joachim Splichal in 1989. Moved to San Francisco and opened Jardinière (1997) — JBF award winner. Top Chef Masters contestant. Splichal's first protégé.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_sam_baxter",
+    "name": {
+      "first": "Sam",
+      "last": "Baxter",
+      "display": "Sam Baxter",
+      "nickname": null
+    },
+    "bio": "Started at Water Grill under Michael Cimarusti, followed him to Providence at opening in 2005, rose to chef de cuisine. Moved to Connie & Ted's as CdC. Part of the Providence crew that earned the restaurant its third Michelin star.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "seafood",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_john_hong",
+    "name": {
+      "first": "John",
+      "last": "Hong",
+      "display": "John Hong",
+      "nickname": null
+    },
+    "bio": "Korean-American chef who trained at Mélisse under Josiah Citrin and Alinea under Grant Achatz, then ran the kitchen at Meadowood before opening Yangban in DTLA — Korean-Californian cooking that earned a JBF semifinal nod. The Citrin-to-Achatz pipeline in one career.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "korean",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_johnny_yoo",
+    "name": {
+      "first": "Johnny",
+      "last": "Yoo",
+      "display": "Johnny Yoo",
+      "nickname": null
+    },
+    "bio": "Trained through three of LA's most important French kitchens — Ortolan under Christophe Emé, Mélisse under Josiah Citrin, Sona under David Myers. The L'Orangerie pipeline's second generation, filtered through every major French training kitchen in the city.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_isa_fabro",
+    "name": {
+      "first": "Isa",
+      "last": "Fabro",
+      "display": "Isa Fabro",
+      "nickname": null
+    },
+    "bio": "Pastry path through LA's best kitchens: Water Grill, Café Pinot (Splichal), Hatfield's under Karen Hatfield, then executive pastry chef at Orsa & Winston under Josef Centeno. Six restaurants in 12 years, each a step up.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "pastry",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_paul_shoemaker",
+    "name": {
+      "first": "Paul",
+      "last": "Shoemaker",
+      "display": "Paul Shoemaker",
+      "nickname": null
+    },
+    "bio": "Sous chef at Water Grill, then chef de cuisine at Providence during its opening years (2005-2007). Ran the kitchen at Bastide. One of the first Cimarusti protégés to go independent.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "seafood",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_yu_min_lin",
+    "name": {
+      "first": "Yu Min",
+      "last": "Lin",
+      "display": "Yu Min Lin",
+      "nickname": null
+    },
+    "bio": "Chef de cuisine at Providence from 2007 to 2012 — the five-year stretch when the restaurant established itself as one of LA's best. Another Cimarusti CdC who went on to run his own kitchen, now executive chef at The Sea by Alexander's in Palo Alto.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "seafood",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_phillip_frankland_lee",
+    "name": {
+      "first": "Phillip Frankland",
+      "last": "Lee",
+      "display": "Phillip Frankland Lee",
+      "nickname": null
+    },
+    "bio": "Trained at Alinea under Grant Achatz, then built Scratch Bar in Encino — a no-menu tasting counter that earned a loyal following. Expanded to Sushi by Scratch, Pasta by Scratch. The Achatz discipline applied to intimate LA counter dining.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "tasting-menu",
+      "modernist",
+      "sushi"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_alex_moreno",
+    "name": {
+      "first": "Alex",
+      "last": "Moreno",
+      "display": "Alex Moreno",
+      "nickname": null
+    },
+    "bio": "Trained at Mélisse under Josiah Citrin and JiRaffe under Raphael Lunetta — the Santa Monica French pipeline. Also worked at Bastide. Now executive chef at Border Grill.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "mexican",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_philip_pretty",
+    "name": {
+      "first": "Philip",
+      "last": "Pretty",
+      "display": "Philip Pretty",
+      "nickname": null
+    },
+    "bio": "Trained at Providence under Cimarusti and Sona under David Myers. Worked under Gordon Ramsay at The London West Hollywood. Built his career in Long Beach — Restauration, then Heritage Sandwich Shop. The fine-dining-to-casual arc.",
+    "birth_year": 1980,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "casual",
+      "american"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_chris_ford",
+    "name": {
+      "first": "Chris",
+      "last": "Ford",
+      "display": "Chris Ford",
+      "nickname": null
+    },
+    "bio": "Trained at L'Orangerie under both Gilles Epié and Christophe Emé — two generations of that kitchen's chefs. The L'Orangerie pipeline at its deepest.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_sydney_hunter",
+    "name": {
+      "first": "Sydney",
+      "last": "Hunter III",
+      "display": "Sydney Hunter III",
+      "nickname": null
+    },
+    "bio": "L'Orangerie → Café Pinot → Bastide → Petit Trois. Four training kitchens deep in the French pipeline.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_kevin_meehan_fix",
+    "name": {
+      "first": "Clinton",
+      "last": "Huntsman",
+      "display": "Clinton Huntsman",
+      "nickname": null
+    },
+    "bio": "L'Orangerie alumnus.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_gavin_mills",
+    "name": {
+      "first": "Gavin",
+      "last": "Mills",
+      "display": "Gavin Mills",
+      "nickname": null
+    },
+    "bio": "Bastide alumnus.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_charles_olalia",
+    "name": {
+      "first": "Charles",
+      "last": "Olalia",
+      "display": "Charles Olalia",
+      "nickname": null
+    },
+    "bio": "Filipino-American. Patina sous → exec chef. Now runs Ma'am Sir in Silver Lake. JBF semifinalist.",
+    "birth_year": null,
+    "birth_country": "PH",
+    "birth_city": null,
+    "cuisine_tags": [
+      "filipino",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_tony_esnault",
+    "name": {
+      "first": "Tony",
+      "last": "Esnault",
+      "display": "Tony Esnault",
+      "nickname": null
+    },
+    "bio": "French-born. Church & State → Patina exec chef → Spring (DTLA, Michelin star). Classical French in LA.",
+    "birth_year": null,
+    "birth_country": "FR",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_eric_greenspan",
+    "name": {
+      "first": "Eric",
+      "last": "Greenspan",
+      "display": "Eric Greenspan",
+      "nickname": null
+    },
+    "bio": "Patina exec chef. Opened The Foundry. Beat Bobby Flay on Iron Chef. TV personality.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "american",
+      "eclectic"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_christopher_eddy",
+    "name": {
+      "first": "Christopher",
+      "last": "Eddy",
+      "display": "Christopher Eddy",
+      "nickname": null
+    },
+    "bio": "Wolfgang Puck Catering → Campanile chef de cuisine under Peel. Multi-pipeline.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "french"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_kuniko_yagi",
+    "name": {
+      "first": "Kuniko",
+      "last": "Yagi",
+      "display": "Kuniko Yagi",
+      "nickname": null
+    },
+    "bio": "Sona chef de cuisine under David Myers. Ran Hinoki & the Bird. Japanese-born.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_zach_pollack",
+    "name": {
+      "first": "Zach",
+      "last": "Pollack",
+      "display": "Zach Pollack",
+      "nickname": null
+    },
+    "bio": "Sona line cook under Myers. Opened Alimento and Cosa Buona in Silver Lake. Italian-focused.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_amanda_baumgarten",
+    "name": {
+      "first": "Amanda",
+      "last": "Baumgarten",
+      "display": "Amanda Baumgarten",
+      "nickname": null
+    },
+    "bio": "Water Grill sous → exec chef. Cimarusti-era alumnus.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "seafood",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_christopher_gore",
+    "name": {
+      "first": "Christopher",
+      "last": "Gore",
+      "display": "Christopher Gore",
+      "nickname": null
+    },
+    "bio": "Le Cirque → Patina → Church & State → JiRaffe. French pipeline across multiple LA kitchens.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_daniel_newell",
+    "name": {
+      "first": "Daniel",
+      "last": "Newell",
+      "display": "Daniel Newell",
+      "nickname": null
+    },
+    "bio": "Patina sous → CdC under Splichal. Also Meson G. Now in Seattle.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Dubrulle International Culinary Institute",
+        "city": "Vancouver",
+        "year": 2000,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_hugo_bolanos",
+    "name": {
+      "first": "Hugo",
+      "last": "Bolanos",
+      "display": "Hugo Bolanos",
+      "nickname": null
+    },
+    "bio": "Spago → Wolfgang Puck Catering → Hotel Bel-Air → CUT. Deep in the Puck system.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_elizabeth_hong",
+    "name": {
+      "first": "Elizabeth",
+      "last": "Hong",
+      "display": "Elizabeth Hong",
+      "nickname": null
+    },
+    "bio": "Chef de cuisine at Osteria Mozza and Pizzeria Mozza under Nancy Silverton. Current.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_dahlia_narvaez",
+    "name": {
+      "first": "Dahlia",
+      "last": "Narvaez",
+      "display": "Dahlia Narvaez",
+      "nickname": null
+    },
+    "bio": "Pastry chef at Osteria Mozza and Pizzeria Mozza since opening. Nancy Silverton's pastry anchor.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "pastry",
+      "italian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_marcel_vigneron",
+    "name": {
+      "first": "Marcel",
+      "last": "Vigneron",
+      "display": "Marcel Vigneron",
+      "nickname": null
+    },
+    "bio": "Top Chef Season 2. The Bazaar under Andrés. Opened Wolf in LA. Molecular approach.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "modernist",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_robbie_nowlin",
+    "name": {
+      "first": "Robbie",
+      "last": "Nowlin",
+      "display": "Robbie Nowlin",
+      "nickname": null
+    },
+    "bio": "French Laundry → Otium CdC under Hollingsworth. TFL-to-LA pipeline.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_antonia_lofaso",
+    "name": {
+      "first": "Antonia",
+      "last": "Lofaso",
+      "display": "Antonia Lofaso",
+      "nickname": null
+    },
+    "bio": "Top Chef Season 4. Exec chef at Damian (Olvera). Opened Black Market Liquor Bar, Scopa Italian Roots.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_andrew_ponce",
+    "name": {
+      "first": "Andrew",
+      "last": "Ponce",
+      "display": "Andrew Ponce",
+      "nickname": null
+    },
+    "bio": "13 years at Jon & Vinny's. Italian technique from Bestia. Second-gen Mexican-American. Opened A TÍ in Echo Park.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": [
+      "mexican",
+      "italian",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_sarah_durning",
+    "name": {
+      "first": "Sarah",
+      "last": "Durning",
+      "display": "Sarah Durning",
+      "nickname": null
+    },
+    "bio": "Dunsmoor (pastry) → Gwen (Stone) → Rustic Canyon (Fox). CdC at Wilde's, Los Feliz. Three training kitchens.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Chicago area",
+    "cuisine_tags": [
+      "pastry",
+      "californian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_johnny_lee",
+    "name": {
+      "first": "Johnny",
+      "last": "Lee",
+      "display": "Johnny Lee",
+      "nickname": null
+    },
+    "bio": "Pearl River Deli (Cantonese) → Rasarumah (Malaysian). Last Word Hospitality. HiFi Town.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "cantonese",
+      "malaysian",
+      "asian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_michael_leonard",
+    "name": {
+      "first": "Michael",
+      "last": "Leonard",
+      "display": "Michael Leonard",
+      "nickname": null
+    },
+    "bio": "Mother Wolf under Evan Funke. Now exec chef at Beethoven Market, Mar Vista. Handmade pasta.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_craig_hopson",
+    "name": {
+      "first": "Craig",
+      "last": "Hopson",
+      "display": "Craig Hopson",
+      "nickname": null
+    },
+    "bio": "Le Cirque (NYC). Opened Electric Bleu, Mar Vista. French bistro.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "bistro"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_michael_fiorelli",
+    "name": {
+      "first": "Michael",
+      "last": "Fiorelli",
+      "display": "Michael Fiorelli",
+      "nickname": null
+    },
+    "bio": "Love & Salt, Olivetta. Opened Fiorelli Pizza, Beverly Grove. Neapolitan-NY hybrid.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "pizza"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_dominique_crenn",
+    "name": {
+      "first": "Dominique",
+      "last": "Crenn",
+      "display": "Dominique Crenn",
+      "nickname": null
+    },
+    "bio": "Atelier Crenn, SF. 3 Michelin stars. First female chef in US with 3 stars. Opening Monsieur Dior, Beverly Hills.",
+    "birth_year": 1965,
+    "birth_country": "FR",
+    "birth_city": "Versailles",
+    "cuisine_tags": [
+      "french",
+      "fine-dining",
+      "avant-garde"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_katianna_hong",
+    "name": {
+      "first": "Katianna",
+      "last": "Hong",
+      "display": "Katianna Hong",
+      "nickname": null
+    },
+    "bio": "First woman chef de cuisine at a 3-Michelin-star restaurant in the US (Meadowood). CIA-trained, shaped by Josiah Citrin at Mélisse and Christopher Kostow at Meadowood. Runs Yangban with husband John Hong.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "korean-american",
+      "modern-american",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      },
+      {
+        "institution": "UNLV School of Hospitality",
+        "city": "Las Vegas, NV",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_michael_reed",
+    "name": {
+      "first": "Michael",
+      "last": "Reed",
+      "display": "Michael Reed",
+      "nickname": null
+    },
+    "bio": "CIA-trained, rose through The Modern (under Gabriel Kreuther), Sona (under David Myers), and became exec chef at Osteria Mozza at 26 under Nancy Silverton. Runs Poppy + Rose and Poppy & Seed.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "american",
+      "southern",
+      "scratch-cooking"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "New York, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_brooke_williamson",
+    "name": {
+      "first": "Brooke",
+      "last": "Williamson",
+      "display": "Brooke Williamson",
+      "nickname": null
+    },
+    "bio": "Youngest sous chef at Michael's Santa Monica under Michael McCarty. Staged at Daniel under Daniel Boulud. Top Chef Season 14 winner. Runs Playa Provisions and Hudson House.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "california",
+      "coastal",
+      "american"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_adam_sobel",
+    "name": {
+      "first": "Adam",
+      "last": "Sobel",
+      "display": "Adam Sobel",
+      "nickname": null
+    },
+    "bio": "CIA-trained, shaped by Charlie Trotter, Daniel Boulud, and Guy Savoy (chef de cuisine at his 2-star Las Vegas restaurant). Runs Osteria Cal Mare with Michael Mina.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "sicilian",
+      "california",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_max_lesser",
+    "name": {
+      "first": "Max",
+      "last": "Lesser",
+      "display": "Max Lesser",
+      "nickname": null
+    },
+    "bio": "Chi Spacca alum, first-time owner. Opened Henrietta, a Roman-inspired salumeria and cucina in Silver Lake.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "roman",
+      "charcuterie"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_mckenna_lelah",
+    "name": {
+      "first": "McKenna",
+      "last": "Lelah",
+      "display": "McKenna Lelah",
+      "nickname": null
+    },
+    "bio": "Osteria Mozza alum. Co-runs Lapaba in Koreatown, blending Italian pasta with Korean ingredients.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "korean",
+      "pasta"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_paco_moran",
+    "name": {
+      "first": "Paco",
+      "last": "Moran",
+      "display": "Paco Moran",
+      "nickname": null
+    },
+    "bio": "Born in El Salvador, raised in Watts. 13 years in the Patina Group under Joachim Splichal, trained under Martin Berasategui in San Sebastián. Chopped champion. Runs LA Cha Cha Cha and Loreto.",
+    "birth_year": null,
+    "birth_country": "SV",
+    "birth_city": null,
+    "cuisine_tags": [
+      "latin",
+      "salvadoran",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Le Cordon Bleu",
+        "city": null,
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_joel_stovall",
+    "name": {
+      "first": "Joel",
+      "last": "Stovall",
+      "display": "Joel Stovall",
+      "nickname": null
+    },
+    "bio": "Orsa & Winston alum. Runs Bacetti, a Roman-inspired Italian restaurant in Echo Park.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "roman"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_dk_kolender",
+    "name": {
+      "first": "David",
+      "last": "Kolender",
+      "display": "DK Kolender",
+      "nickname": "DK"
+    },
+    "bio": "Tartine and Dudley Market alum. Part of the Last Word Hospitality team (Found Oyster, Rasarumah). Opened Hermon's in the Hermon neighborhood.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "american",
+      "contemporary",
+      "chophouse"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_junya_yamasaki",
+    "name": {
+      "first": "Junya",
+      "last": "Yamasaki",
+      "display": "Junya Yamasaki",
+      "nickname": null
+    },
+    "bio": "Formerly of London's Koya. Practiced cooking at a Zen monastery outside Kyoto. Sources fish directly from Ventura and Newport Beach fishermen. Runs Yess in the Arts District.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "seafood",
+      "seasonal"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_shirley_chung",
+    "name": {
+      "first": "Shirley",
+      "last": "Chung",
+      "display": "Shirley Chung",
+      "nickname": null
+    },
+    "bio": "Trained under Thomas Keller, Guy Savoy, and José Andrés (China Poblano). Top Chef Season 11 (3rd) and Season 14 (finalist). Ran Ms Chi Cafe in Culver City.",
+    "birth_year": null,
+    "birth_country": null,
+    "birth_city": null,
+    "cuisine_tags": [
+      "chinese-american",
+      "dumplings",
+      "progressive"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "California Culinary Academy",
+        "city": "San Francisco, CA",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_andy_doubrava",
+    "name": {
+      "first": "Andy",
+      "last": "Doubrava",
+      "display": "Andy Doubrava",
+      "nickname": null
+    },
+    "bio": "Berklee-trained drummer turned cook. Line cook to executive chef at Rustic Canyon (2015–present). Michelin star under Jeremy Fox's oversight. NYC stints at Reynard, Spotted Pig, Salt & Fat.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "california",
+      "seasonal",
+      "farm-to-table"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_ilan_hall",
+    "name": {
+      "first": "Ilan",
+      "last": "Hall",
+      "display": "Ilan Hall",
+      "nickname": null
+    },
+    "bio": "CIA grad, Top Chef Season 2 winner. Trained under Charlie Palmer at Aureole and at Casa Mono. Opened The Gorbals in DTLA (2009), co-founded Ramen Hood at Grand Central Market (2015).",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "New York, NY",
+    "cuisine_tags": [
+      "global",
+      "vegan",
+      "eclectic"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": 2002,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_stephanie_izard",
+    "name": {
+      "first": "Stephanie",
+      "last": "Izard",
+      "display": "Stephanie Izard",
+      "nickname": null
+    },
+    "bio": "First woman to win Top Chef (Season 4). Chicago-based, expanded Girl & the Goat to LA in 2021. Scottsdale Culinary Institute. Early career at Vong (Vongerichten) in Chicago.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Evanston, IL",
+    "cuisine_tags": [
+      "new-american",
+      "global",
+      "bold-flavors"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Scottsdale Culinary Institute",
+        "city": "Scottsdale, AZ",
+        "year": 1999,
+        "credential": "Culinary Arts"
+      }
+    ]
+  },
+  {
+    "id": "chef_aarti_sequeira",
+    "name": {
+      "first": "Aarti",
+      "last": "Sequeira",
+      "display": "Aarti Sequeira",
+      "nickname": null
+    },
+    "bio": "Food Network Star Season 6 winner. Trained at New School of Cooking in Culver City, interned under Suzanne Goin at Lucques. Mumbai-born, Northwestern journalism grad turned chef and TV personality.",
+    "birth_year": null,
+    "birth_country": "IN",
+    "birth_city": "Mumbai, India",
+    "cuisine_tags": [
+      "indian",
+      "fusion",
+      "comfort"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "New School of Cooking",
+        "city": "Culver City, CA",
+        "year": 2007,
+        "credential": "Professional Certificate"
+      }
+    ]
+  },
+  {
+    "id": "chef_jet_tila",
+    "name": {
+      "first": "Jet",
+      "last": "Tila",
+      "display": "Jet Tila",
+      "nickname": null
+    },
+    "bio": "LA-born Thai-Chinese chef. Family founded Bangkok Market (1972) and Royal Thai (1978). Le Cordon Bleu Paris, California Sushi Academy. TV personality (Iron Chef America, Cutthroat Kitchen). Culinary ambassador for Thai cuisine.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": [
+      "thai",
+      "asian",
+      "chinese"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Le Cordon Bleu",
+        "city": "Paris, France",
+        "year": null,
+        "credential": null
+      },
+      {
+        "institution": "California Sushi Academy",
+        "city": "Los Angeles, CA",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_max_boonthanakit",
+    "name": {
+      "first": "Max",
+      "last": "Boonthanakit",
+      "display": "Max Boonthanakit",
+      "nickname": null
+    },
+    "bio": "Thai-Taiwanese chef, Alain Ducasse-trained. Exec pastry chef at Blue by Alain Ducasse (Bangkok). Co-opened Camphor in 2022, earned Michelin star within first year.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Atlanta, GA",
+    "cuisine_tags": [
+      "french",
+      "thai",
+      "fine-dining",
+      "contemporary"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_lijo_george",
+    "name": {
+      "first": "Lijo",
+      "last": "George",
+      "display": "Lijo George",
+      "nickname": null
+    },
+    "bio": "Kerala-born, trained at Kuttukaran Institute of Hotel Management (Kochi). Worked at Blue by Alain Ducasse (Bangkok) alongside Boonthanakit. Co-chef and co-owner of Camphor.",
+    "birth_year": null,
+    "birth_country": "IN",
+    "birth_city": "Thrissur, Kerala",
+    "cuisine_tags": [
+      "french",
+      "indian-influenced",
+      "fine-dining",
+      "contemporary"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Kuttukaran Institute of Hotel Management",
+        "city": "Kochi, Kerala",
+        "year": 2005,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_taketoshi_azumi",
+    "name": {
+      "first": "Taketoshi",
+      "last": "Azumi",
+      "display": "Taketoshi Azumi",
+      "nickname": null
+    },
+    "bio": "Michelin-starred sushi chef. Trained at Sushi of Gari, Asanebo, and Mori Sushi before opening Shin Sushi in Encino (2018).",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_yasuhiro_hirano",
+    "name": {
+      "first": "Yasuhiro",
+      "last": "Hirano",
+      "display": "Yasuhiro Hirano",
+      "nickname": null
+    },
+    "bio": "Michelin-starred sushi chef operating Sushi Inaba out of sister restaurant Inaba in Torrance. Specializes in dry-aged fish and Edomae technique.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "edomae",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_yoshiyuki_inoue",
+    "name": {
+      "first": "Yoshiyuki",
+      "last": "Inoue",
+      "display": "Yoshiyuki Inoue",
+      "nickname": null
+    },
+    "bio": "Michelin-starred sushi chef. Trained under Kuwano Tatsuya (Sushi Kuwano, Ginza). Worked at Sushi Ginza Onodera (2 stars) and Mori Sushi (1 star). Moved to US in 1997, spent years in South Bay sushi bars before opening Sushi Kaneyoshi.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "edomae",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_alain_ducasse",
+    "name": {
+      "first": "Alain",
+      "last": "Ducasse",
+      "display": "Alain Ducasse",
+      "nickname": null
+    },
+    "bio": "French master chef, 21 Michelin stars across career. Louis XV (Monte Carlo), Plaza Athénée, Essex House. Mentor to Tony Esnault, Max Boonthanakit, Lijo George.",
+    "birth_year": null,
+    "birth_country": "FR",
+    "birth_city": "Orthez, France",
+    "cuisine_tags": [
+      "french",
+      "fine-dining",
+      "classical"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_yoshitaka_mitsue",
+    "name": {
+      "first": "Yoshitaka",
+      "last": "Mitsue",
+      "display": "Yoshitaka Mitsue",
+      "nickname": null
+    },
+    "bio": "Osaka-trained kaiseki chef. Ran Suzaku in Kobe (2007–2014), then served as chef at Japan's UN Mission (NYC) and Consul General residence (Strasbourg). Opened Uka at Japan House LA. Michelin star 2024.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": "Imari, Japan",
+    "cuisine_tags": [
+      "japanese",
+      "kaiseki",
+      "omakase",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_deau_arpapornnopparat",
+    "name": {
+      "first": "Deau",
+      "last": "Arpapornnopparat",
+      "display": "Deau Arpapornnopparat",
+      "nickname": null
+    },
+    "bio": "Bangkok-born, Le Cordon Bleu-trained. Food & Wine Best New Chef 2024. Opened Holy Basil as a takeout window in 2020, full restaurant in Atwater Village 2024, expanded to Santa Monica.",
+    "birth_year": null,
+    "birth_country": "TH",
+    "birth_city": "Bangkok, Thailand",
+    "cuisine_tags": [
+      "thai",
+      "street-food",
+      "bangkok"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Le Cordon Bleu",
+        "city": null,
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_daniel_son",
+    "name": {
+      "first": "Daniel",
+      "last": "Son",
+      "display": "Daniel Son",
+      "nickname": null
+    },
+    "bio": "Sushi chef. Trained at Spago under Wolfgang Puck and Ryugin (3 Michelin stars) in Tokyo. Father owned Kura sushi.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_lord_maynard_llera",
+    "name": {
+      "first": "Lord",
+      "last": "Maynard Llera",
+      "display": "Lord Maynard Llera",
+      "nickname": null
+    },
+    "bio": "James Beard Award winner. Former sous chef at Bestia. Filipino cuisine.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "filipino"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_kevin_de_los_santos",
+    "name": {
+      "first": "Kevin",
+      "last": "De Los Santos",
+      "display": "Kevin De Los Santos",
+      "nickname": null
+    },
+    "bio": "Co-chef of Vin Folk. Former Somni under Aitor Zabala. Michelin Bib Gourmand.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "fine-dining",
+      "california"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_katya_shastova",
+    "name": {
+      "first": "Katya",
+      "last": "Shastova",
+      "display": "Katya Shastova",
+      "nickname": null
+    },
+    "bio": "Co-chef of Vin Folk. Former Somni under Aitor Zabala.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "fine-dining",
+      "california"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_justin_pichetrungsi",
+    "name": {
+      "first": "Justin",
+      "last": "Pichetrungsi",
+      "display": "Justin Pichetrungsi",
+      "nickname": null
+    },
+    "bio": "James Beard Award-winning chef. Took over father's decades-old restaurant. Conceptual artist. Installed premier wine program.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "thai"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_kwang_uh",
+    "name": {
+      "first": "Kwang",
+      "last": "Uh",
+      "display": "Kwang Uh",
+      "nickname": null
+    },
+    "bio": "Korean chef known for fermentation-forward tasting menus. Reopened Baroo in 2024 after 2018 closure.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "korean",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_chris_bianco",
+    "name": {
+      "first": "Chris",
+      "last": "Bianco",
+      "display": "Chris Bianco",
+      "nickname": null
+    },
+    "bio": "James Beard Award-winning pizza chef. Opened original Pizzeria Bianco in Phoenix.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "pizza"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_diego_hernandez",
+    "name": {
+      "first": "Diego",
+      "last": "Hernandez",
+      "display": "Diego Hernandez",
+      "nickname": null
+    },
+    "bio": "Baja California chef. Alta California cuisine. Partnered with Dudley Market in Venice.",
+    "birth_year": null,
+    "birth_country": "MX",
+    "birth_city": null,
+    "cuisine_tags": [
+      "mexican",
+      "california",
+      "baja"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_casey_lane",
+    "name": {
+      "first": "Casey",
+      "last": "Lane",
+      "display": "Casey Lane",
+      "nickname": null
+    },
+    "bio": "Former chef of The Tasting Kitchen in Venice. Now at Ghisallo in Santa Monica.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "california"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_jihee_kim",
+    "name": {
+      "first": "Jihee",
+      "last": "Kim",
+      "display": "Jihee Kim",
+      "nickname": null
+    },
+    "bio": "Korean chef. Rustic Canyon alum. Farm-to-table banchan.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "korean",
+      "california"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_akira_back",
+    "name": {
+      "first": "Akira",
+      "last": "Back",
+      "display": "Akira Back",
+      "nickname": null
+    },
+    "bio": "Celebrity chef. Elevated Korean BBQ concept.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "korean",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_william_joo",
+    "name": {
+      "first": "William",
+      "last": "Joo",
+      "display": "William Joo",
+      "nickname": null
+    },
+    "bio": "Tokyo-trained pizza chef. Created pizza omakase concept.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "pizza",
+      "japanese"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_tyler_j_wells",
+    "name": {
+      "first": "Tyler",
+      "last": "J. Wells",
+      "display": "Tyler J. Wells",
+      "nickname": null
+    },
+    "bio": "Founded All Time in Los Feliz. Opened Betsy in Altadena.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "california",
+      "wood-fired"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_cody_ma",
+    "name": {
+      "first": "Cody",
+      "last": "Ma",
+      "display": "Cody Ma",
+      "nickname": null
+    },
+    "bio": "From Pine & Crane. Opened Azizam with Misha Sesar.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "persian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_josé_olmedo_carles_rojas",
+    "name": {
+      "first": "José",
+      "last": "Olmedo Carles Rojas",
+      "display": "José Olmedo Carles Rojas",
+      "nickname": null
+    },
+    "bio": "Panamanian chef. Founded Fonda Lo Que Hay in Panama City.",
+    "birth_year": null,
+    "birth_country": "PA",
+    "birth_city": null,
+    "cuisine_tags": [
+      "latin-american",
+      "panamanian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_marcus_jernmark",
+    "name": {
+      "first": "Marcus",
+      "last": "Jernmark",
+      "display": "Marcus Jernmark",
+      "nickname": null
+    },
+    "bio": "Swedish chef. Four-course tasting menu restaurant.",
+    "birth_year": null,
+    "birth_country": "SE",
+    "birth_city": null,
+    "cuisine_tags": [
+      "california",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_curtis_park",
+    "name": {
+      "first": "Curtis",
+      "last": "Park",
+      "display": "Curtis Park",
+      "nickname": null
+    },
+    "bio": "Korean American chef. Updated homey Korean dishes with California ingredients.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "korean",
+      "california"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_gabriel_lindsey",
+    "name": {
+      "first": "Gabriel",
+      "last": "Lindsey",
+      "display": "Gabriel Lindsey",
+      "nickname": null
+    },
+    "bio": "Dudley Market alum. French bistro cooking.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_sandra_cordero",
+    "name": {
+      "first": "Sandra",
+      "last": "Cordero",
+      "display": "Sandra Cordero",
+      "nickname": null
+    },
+    "bio": "Spanish chef. Pan-Spanish tapas cooking.",
+    "birth_year": null,
+    "birth_country": "ES",
+    "birth_city": null,
+    "cuisine_tags": [
+      "spanish"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_karla_subero_pittol",
+    "name": {
+      "first": "Karla",
+      "last": "Subero Pittol",
+      "display": "Karla Subero Pittol",
+      "nickname": null
+    },
+    "bio": "Venezuelan chef. Pop-up turned permanent. Arepas, empanadas, pabellón criollo.",
+    "birth_year": null,
+    "birth_country": "VE",
+    "birth_city": null,
+    "cuisine_tags": [
+      "venezuelan"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_anthony_plascencia",
+    "name": {
+      "first": "Anthony",
+      "last": "Plascencia",
+      "display": "Anthony Plascencia",
+      "nickname": null
+    },
+    "bio": "Family-run coastal Mexican. From Nayarit, Mexico. Sustainable practices.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "mexican",
+      "seafood"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_lennon_silvers_lee",
+    "name": {
+      "first": "Lennon",
+      "last": "Silvers Lee",
+      "display": "Lennon Silvers Lee",
+      "nickname": null
+    },
+    "bio": "Michelin-starred sushi chef. Brother of Phillip Frankland Lee. Only US sibling pair with concurrent Michelin stars.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_keith_phillips",
+    "name": {
+      "first": "Keith",
+      "last": "Phillips",
+      "display": "Keith Phillips",
+      "nickname": null
+    },
+    "bio": "Former Rustic Canyon chef. Now at Bar Siesta in Silver Lake.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "spanish",
+      "california"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_ari_kolender",
+    "name": {
+      "first": "Ari",
+      "last": "Kolender",
+      "display": "Ari Kolender",
+      "nickname": null
+    },
+    "bio": "Chef of Found Oyster. Brother of David Kolender (Hermon's).",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "seafood"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_seigo_tamaru",
+    "name": {
+      "first": "Seigo",
+      "last": "Tamaru",
+      "display": "Seigo Tamaru",
+      "nickname": null
+    },
+    "bio": "Michelin-starred sushi chef from Osaka.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_hisashi_udatsu",
+    "name": {
+      "first": "Hisashi",
+      "last": "Udatsu",
+      "display": "Hisashi Udatsu",
+      "nickname": null
+    },
+    "bio": "Michelin-starred sushi chef from Tokyo.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_david_schlosser",
+    "name": {
+      "first": "David",
+      "last": "Schlosser",
+      "display": "David Schlosser",
+      "nickname": null
+    },
+    "bio": "Michelin-starred kappo-style Japanese chef.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_evan_algorri",
+    "name": {
+      "first": "Evan",
+      "last": "Algorri",
+      "display": "Evan Algorri",
+      "nickname": null
+    },
+    "bio": "Previously at Lupa and Marea in NYC.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_miles_shorey",
+    "name": {
+      "first": "Miles",
+      "last": "Shorey",
+      "display": "Miles Shorey",
+      "nickname": null
+    },
+    "bio": "Roberta's alum. Indian-Italian fusion.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "indian",
+      "italian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_steve_samson",
+    "name": {
+      "first": "Steve",
+      "last": "Samson",
+      "display": "Steve Samson",
+      "nickname": null
+    },
+    "bio": "Bologna-inspired Italian chef.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_kian_samyani",
+    "name": {
+      "first": "Kian",
+      "last": "Samyani",
+      "display": "Kian Samyani",
+      "nickname": null
+    },
+    "bio": "Iranian chef from London. Michelin Bib Gourmand in London.",
+    "birth_year": null,
+    "birth_country": "GB",
+    "birth_city": null,
+    "cuisine_tags": [
+      "persian",
+      "middle-eastern"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_ari_rosenson",
+    "name": {
+      "first": "Ari",
+      "last": "Rosenson",
+      "display": "Ari Rosenson",
+      "nickname": null
+    },
+    "bio": "Current executive chef and VP of Food & Beverage at Wolfgang Puck Fine Dining Group. Runs Spago Beverly Hills. Trained under Puck.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "california",
+      "fine-dining",
+      "french"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_drew_rosenberg",
+    "name": {
+      "first": "Drew",
+      "last": "Rosenberg",
+      "display": "Drew Rosenberg",
+      "nickname": null
+    },
+    "bio": "Executive chef at CUT Beverly Hills. Steakhouse specialist within the Wolfgang Puck Fine Dining empire.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "steakhouse",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_andreas_roller",
+    "name": {
+      "first": "Andreas",
+      "last": "Roller",
+      "display": "Andreas Roller",
+      "nickname": null
+    },
+    "bio": "Executive chef at Patina (Walt Disney Concert Hall). Runs the flagship of Joachim Splichal's 60-restaurant group.",
+    "birth_year": null,
+    "birth_country": "DE",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "california",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_brendan_collins",
+    "name": {
+      "first": "Brendan",
+      "last": "Collins",
+      "display": "Brendan Collins",
+      "nickname": null
+    },
+    "bio": "Executive chef at BOA Steakhouse for Innovative Dining Group. UK-trained. Formerly ran Waterloo & City (Culver City) and Larry's (Venice) — both earned critical acclaim.",
+    "birth_year": null,
+    "birth_country": "GB",
+    "birth_city": null,
+    "cuisine_tags": [
+      "steakhouse",
+      "british",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_hiroshi_shima",
+    "name": {
+      "first": "Hiroshi",
+      "last": "Shima",
+      "display": "Hiroshi Shima",
+      "nickname": null
+    },
+    "bio": "Executive sushi chef at Sushi Roku for Innovative Dining Group. Oversees sushi program across all IDG Japanese concepts.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_jose_melendez",
+    "name": {
+      "first": "Jose",
+      "last": "Melendez",
+      "display": "Jose Melendez",
+      "nickname": "Junior"
+    },
+    "bio": "Executive chef at Katana on Sunset Blvd for Innovative Dining Group. Known as Junior Melendez.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "robata"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_gregorio_stephenson",
+    "name": {
+      "first": "Gregorio",
+      "last": "Stephenson",
+      "display": "Gregorio Stephenson",
+      "nickname": null
+    },
+    "bio": "Executive chef at Nobu Malibu. Trained under Nobu Matsuhisa within the Nobu Hospitality system.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_james_bailey",
+    "name": {
+      "first": "James",
+      "last": "Bailey",
+      "display": "James Bailey",
+      "nickname": null
+    },
+    "bio": "Executive chef at Majordomo in the Arts District. Runs David Chang's only LA restaurant.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "korean",
+      "california",
+      "large-format"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_steve_benjamin",
+    "name": {
+      "first": "Steve",
+      "last": "Benjamin",
+      "display": "Steve Benjamin",
+      "nickname": null
+    },
+    "bio": "Executive chef at Waldorf Astoria Beverly Hills, operating The Rooftop by JG under Jean-Georges Vongerichten.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "california",
+      "fine-dining",
+      "hotel"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_yoji_tajima",
+    "name": {
+      "first": "Yoji",
+      "last": "Tajima",
+      "display": "Yoji Tajima",
+      "nickname": null
+    },
+    "bio": "Head chef at n/soto, the izakaya concept by Niki Nakayama and Carole Iida-Nakayama. 1 Michelin star.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "izakaya"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_katsuya_uechi",
+    "name": {
+      "first": "Katsuya",
+      "last": "Uechi",
+      "display": "Katsuya Uechi",
+      "nickname": null
+    },
+    "bio": "Master sushi chef and brand chef for all Katsuya restaurants under sbe/Disruptive Restaurant Group. 4 LA locations plus global expansion.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_ken_takayama",
+    "name": {
+      "first": "Ken",
+      "last": "Takayama",
+      "display": "Ken Takayama",
+      "nickname": null
+    },
+    "bio": "Chef/Partner at Citrin and Mélisse. Started at Kayo (Monterey Park), Patina Pastry under Christophe Moreau, then 20+ years at Mélisse — extern to sous to CdC to partner. Day-to-day kitchen leader across both Citrin Hospitality properties.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": [
+      "california",
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_johncarlos_kuramoto",
+    "name": {
+      "first": "John-Carlos",
+      "last": "Kuramoto",
+      "display": "John-Carlos Kuramoto",
+      "nickname": null
+    },
+    "bio": "CIA-trained chef running food for the h.wood Group. Apprenticed under Ming Tsai at Blue Ginger, cooked at Michael Mina's Bellagio, Campanile, and was EC at Michael's Santa Monica at 23. Joined h.wood with The Nice Guy opening in 2014.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "american",
+      "japanese",
+      "supper-club"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_jacob_solomon",
+    "name": {
+      "first": "Jacob",
+      "last": "Solomon",
+      "display": "Jacob Solomon",
+      "nickname": null
+    },
+    "bio": "Executive chef at Orla (Mina Group) at Regent Santa Monica. LA native. Previously corporate chef at Lettuce Entertain You, ran Testaccio in Chicago. Egyptian-Mediterranean focus.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Los Angeles, CA",
+    "cuisine_tags": [
+      "mediterranean",
+      "middle-eastern",
+      "egyptian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_sean_tan",
+    "name": {
+      "first": "Sean",
+      "last": "Tan",
+      "display": "Sean Tan",
+      "nickname": null
+    },
+    "bio": "Executive chef at Nobu Los Angeles. Malaysian-born. Came up through the Nobu system — Nobu Melbourne, then EC at Nobu Hotel Chicago. Culinary lead for Australian Open and BNP Paribas Open events.",
+    "birth_year": null,
+    "birth_country": "MY",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "peruvian",
+      "sushi",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_hans_rockenwagner",
+    "name": {
+      "first": "Hans",
+      "last": "Rockenwagner",
+      "display": "Hans Rockenwagner",
+      "nickname": null
+    },
+    "bio": "German-trained chef with 40-year LA career. Black Forest Academy (classical French/nouvelle), then Michelin 2-star Zum Adler near Basel. Recruited to Le Perroquet in Chicago at 22. Opened Rockenwagner in LA in 1984. JBF Rising Star Chef. Now co-owns Dear John's and Dear Jane's with Josiah Citrin.",
+    "birth_year": null,
+    "birth_country": "DE",
+    "birth_city": null,
+    "cuisine_tags": [
+      "german",
+      "french",
+      "american",
+      "bakery"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_brandon_gray",
+    "name": {
+      "first": "Brandon",
+      "last": "Gray",
+      "display": "Brandon Gray",
+      "nickname": null
+    },
+    "bio": "Culinary director at Cape Seafood & Provisions. Trained at Providence under Michael Cimarusti, then Trois Mec under Ludo Lefebvre. Two-mentor pedigree. Runs the day-to-day at Cimarusti's seafood market.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "seafood",
+      "california",
+      "sustainable"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_thomas_lim",
+    "name": {
+      "first": "Thomas",
+      "last": "Lim",
+      "display": "Thomas Lim",
+      "nickname": null
+    },
+    "bio": "Executive chef at Elephante since opening in 2018. Australian-born. Previously at Goldie's (LA) and Dudley's (NYC). Zagat 30 Under 30 (2014).",
+    "birth_year": null,
+    "birth_country": "AU",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "coastal",
+      "california",
+      "mediterranean"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": []
+  },
+  {
+    "id": "chef_gabriel_pulido",
+    "name": {
+      "first": "Gabriel",
+      "last": "Pulido",
+      "display": "Gabriel Pulido",
+      "nickname": null
+    },
+    "bio": "Executive chef at Bourbon Steak Los Angeles (Mina Group). Art Institute of Los Angeles culinary program.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "steakhouse",
+      "american",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [
+      {
+        "institution": "Art Institute of Los Angeles",
+        "city": null,
+        "year": null,
+        "credential": null
+      }
+    ]
   }
 ]
