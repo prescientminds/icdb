@@ -20,7 +20,7 @@ export default function GroupsPage() {
           return (
             <div
               key={group.id}
-              className="rounded-lg border border-stone-200 bg-white p-6"
+              className="rounded-lg border border-stone-200 bg-surface p-6"
             >
               <div className="flex items-start justify-between">
                 <div>

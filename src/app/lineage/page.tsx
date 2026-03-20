@@ -105,7 +105,7 @@ export default function LineagePage() {
           return (
             <div
               key={rootId}
-              className="rounded-lg border border-stone-200 bg-white p-6"
+              className="rounded-lg border border-stone-200 bg-surface p-6"
             >
               <TreeNode chefId={rootId} />
             </div>

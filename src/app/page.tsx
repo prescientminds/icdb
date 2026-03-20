@@ -78,7 +78,7 @@ export default function Home() {
 
       {/* Featured Connection */}
       {featured && (
-        <div className="mb-12 rounded-xl border border-stone-200 bg-white p-6 md:p-8">
+        <div className="mb-12 rounded-xl border border-stone-200 bg-surface p-6 md:p-8">
           <div className="text-[11px] font-semibold uppercase tracking-wider text-stone-400 mb-4">
             Featured Connection
           </div>
@@ -168,7 +168,7 @@ export default function Home() {
               <Link
                 key={chef.id}
                 href={`/chefs/${chef.id}`}
-                className="block rounded-lg border border-stone-200 bg-white p-5 no-underline hover:border-amber-200 hover:shadow-sm transition-all"
+                className="block rounded-lg border border-stone-200 bg-surface p-5 no-underline hover:border-amber-200 hover:shadow-sm transition-all"
               >
                 <div className="flex items-start justify-between mb-2">
                   <div className="font-semibold text-stone-900">
@@ -240,7 +240,7 @@ export default function Home() {
                 <Link
                   key={restaurant.id}
                   href={`/restaurants/${restaurant.id}`}
-                  className="block rounded-lg border border-stone-200 bg-white p-5 no-underline hover:border-amber-200 hover:shadow-sm transition-all"
+                  className="block rounded-lg border border-stone-200 bg-surface p-5 no-underline hover:border-amber-200 hover:shadow-sm transition-all"
                 >
                   <div className="flex items-start justify-between mb-1">
                     <div className="font-semibold text-stone-900">
@@ -306,7 +306,7 @@ export default function Home() {
               <Link
                 key={r.id}
                 href={`/restaurants/${r.id}`}
-                className="block rounded-lg border border-stone-200 bg-white p-4 no-underline hover:border-amber-200 hover:shadow-sm transition-all"
+                className="block rounded-lg border border-stone-200 bg-surface p-4 no-underline hover:border-amber-200 hover:shadow-sm transition-all"
               >
                 <div className="text-yellow-500 text-sm mb-1">
                   {"★".repeat(stars)}

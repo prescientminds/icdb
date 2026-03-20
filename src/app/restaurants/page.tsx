@@ -34,7 +34,7 @@ export default function RestaurantsPage() {
             <Link
               key={r.id}
               href={`/restaurants/${r.id}`}
-              className="block rounded-lg border border-stone-200 bg-white p-5 no-underline hover:border-amber-200 hover:shadow-sm transition-all"
+              className="block rounded-lg border border-stone-200 bg-surface p-5 no-underline hover:border-amber-200 hover:shadow-sm transition-all"
             >
               <div className="flex items-start justify-between">
                 <div>

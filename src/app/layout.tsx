@@ -29,7 +29,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <nav className="border-b border-stone-200 bg-white sticky top-0 z-40">
+        <nav className="border-b border-stone-200 bg-surface sticky top-0 z-40">
           <div className="mx-auto flex max-w-6xl items-center gap-6 px-6 py-3">
             <Link href="/" className="text-xl font-bold tracking-tight text-stone-900 no-underline hover:no-underline shrink-0">
               ICDB

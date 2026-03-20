@@ -98,7 +98,7 @@ export default async function RestaurantPage({
               return (
                 <div
                   key={stop.id}
-                  className="flex items-center justify-between rounded-lg border border-stone-100 bg-white px-4 py-3"
+                  className="flex items-center justify-between rounded-lg border border-stone-100 bg-surface px-4 py-3"
                 >
                   <div>
                     {chef ? (
@@ -153,7 +153,7 @@ export default async function RestaurantPage({
                 return (
                   <div
                     key={stop.id}
-                    className="flex items-start gap-4 rounded-lg border border-stone-100 bg-white px-4 py-3"
+                    className="flex items-start gap-4 rounded-lg border border-stone-100 bg-surface px-4 py-3"
                   >
                     <div className="text-sm text-stone-400 w-24 shrink-0 tabular-nums">
                       {stop.start_year || "—"}
@@ -193,7 +193,7 @@ export default async function RestaurantPage({
 
       {/* Awards/Recognition */}
       {ratings && Object.keys(ratings).length > 0 && (
-        <div className="mb-8 rounded-lg border border-stone-200 bg-white p-5">
+        <div className="mb-8 rounded-lg border border-stone-200 bg-surface p-5">
           <h2 className="text-sm font-semibold text-stone-400 uppercase tracking-wide mb-3">
             Recognition
           </h2>
@@ -226,7 +226,7 @@ export default async function RestaurantPage({
       )}
 
       {/* Details — moved to bottom */}
-      <div className="mb-8 rounded-lg border border-stone-200 bg-white p-5">
+      <div className="mb-8 rounded-lg border border-stone-200 bg-surface p-5">
         <h2 className="text-sm font-semibold text-stone-400 uppercase tracking-wide mb-3">
           Details
         </h2>
