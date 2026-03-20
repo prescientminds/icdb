@@ -2,16 +2,19 @@ import chefsData from "../chefs.json";
 import restaurantsData from "../restaurants.json";
 import stopsData from "../stops.json";
 import groupsData from "../groups.json";
+import stakesData from "../stakes.json";
 
 export type Chef = (typeof chefsData)[number];
 export type Restaurant = (typeof restaurantsData)[number];
 export type Stop = (typeof stopsData)[number];
 export type Group = (typeof groupsData)[number];
+export type Stake = (typeof stakesData)[number];
 
 export const chefs = chefsData;
 export const restaurants = restaurantsData;
 export const stops = stopsData;
 export const groups = groupsData;
+export const stakes = stakesData;
 
 export function getChef(id: string): Chef | undefined {
   return chefs.find((c) => c.id === id);
@@ -154,4 +157,33 @@ export function getRestaurantSignal(restaurantId: string): string {
     if (chefNames.length > 0) parts.push(chefNames.join(", "));
   }
   return parts.join(" · ");
+}
+
+// Stakes — investment/ownership layer
+
+export function getStakesForTarget(targetId: string): Stake[] {
+  return stakes.filter((s) => s.target_id === targetId);
+}
+
+export function getStakesForInvestor(investorId: string): Stake[] {
+  return stakes.filter((s) => s.investor_id === investorId);
+}
+
+export function getStakesForRestaurant(restaurantId: string): Stake[] {
+  const restaurant = getRestaurant(restaurantId);
+  const directStakes = stakes.filter(
+    (s) => s.target_type === "restaurant" && s.target_id === restaurantId
+  );
+  const groupStakes = restaurant?.group_id
+    ? stakes.filter(
+        (s) => s.target_type === "group" && s.target_id === restaurant.group_id
+      )
+    : [];
+  return [...directStakes, ...groupStakes];
+}
+
+export function getStakesForChef(chefId: string): Stake[] {
+  return stakes.filter(
+    (s) => s.investor_type === "chef" && s.investor_id === chefId
+  );
 }

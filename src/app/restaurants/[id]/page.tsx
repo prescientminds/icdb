@@ -8,6 +8,7 @@ import {
   getStopsForRestaurant,
   getGroup,
   getTrainingKitchenStats,
+  getStakesForRestaurant,
 } from "@/lib/data";
 
 export function generateStaticParams() {
@@ -28,6 +29,7 @@ export default async function RestaurantPage({
   const alumni = restStops.filter((s) => !s.is_current);
   const group = restaurant.group_id ? getGroup(restaurant.group_id) : null;
   const kitchenStats = getTrainingKitchenStats(id);
+  const restaurantStakes = getStakesForRestaurant(id);
 
   const ratings = restaurant.ratings as Record<string, unknown> | undefined;
   const stars = ratings?.michelin_stars as number | undefined;
@@ -221,6 +223,43 @@ export default async function RestaurantPage({
                 </div>
               ))
               : null}
+          </div>
+        </div>
+      )}
+
+      {/* Capital — who backs this restaurant */}
+      {restaurantStakes.length > 0 && (
+        <div className="mb-8 rounded-lg border border-stone-200 bg-surface p-5">
+          <h2 className="text-sm font-semibold text-stone-400 uppercase tracking-wide mb-3">
+            Capital
+          </h2>
+          <div className="space-y-2">
+            {restaurantStakes.map((stake) => (
+              <div key={stake.id} className="flex items-start justify-between text-sm">
+                <div>
+                  <span className="font-medium text-stone-900">
+                    {stake.investor_name}
+                  </span>
+                  <span className="text-stone-500 ml-2">{stake.role}</span>
+                  {stake.year && (
+                    <span className="text-stone-400 ml-1">
+                      ({stake.year}{stake.end_year ? `–${stake.end_year}` : ""})
+                    </span>
+                  )}
+                  {!stake.is_current && (
+                    <span className="text-red-400 ml-1 text-xs">(ended)</span>
+                  )}
+                </div>
+              </div>
+            ))}
+            {restaurantStakes.some((s) => s.details) && (
+              <div className="text-xs text-stone-400 mt-2 pt-2 border-t border-stone-100">
+                {restaurantStakes
+                  .filter((s) => s.details)
+                  .map((s) => s.details)
+                  .join(" · ")}
+              </div>
+            )}
           </div>
         </div>
       )}

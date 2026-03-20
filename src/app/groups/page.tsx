@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { groups, restaurants, stops, chefs } from "@/lib/data";
+import { groups, restaurants, stops, chefs, getStakesForTarget, getStakesForInvestor } from "@/lib/data";
 
 export default function GroupsPage() {
   return (
@@ -98,6 +98,66 @@ export default function GroupsPage() {
                   </div>
                 </div>
               )}
+
+              {/* Incoming stakes — who invests in this group */}
+              {(() => {
+                const incomingStakes = getStakesForTarget(group.id);
+                if (incomingStakes.length === 0) return null;
+                return (
+                  <div className="mt-4 pt-4 border-t border-stone-100">
+                    <div className="text-sm font-medium text-stone-500 mb-2">
+                      Backed by
+                    </div>
+                    <div className="space-y-1">
+                      {incomingStakes.map((stake) => (
+                        <div key={stake.id} className="text-sm flex items-center justify-between">
+                          <div>
+                            <span className="font-medium text-stone-700">{stake.investor_name}</span>
+                            <span className="text-stone-400 ml-2">{stake.role}</span>
+                            {stake.year && (
+                              <span className="text-stone-400 ml-1">({stake.year})</span>
+                            )}
+                          </div>
+                          {stake.details && (
+                            <span className="text-xs text-stone-400">{stake.details}</span>
+                          )}
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                );
+              })()}
+
+              {/* Outgoing stakes — what this group invests in */}
+              {(() => {
+                const outgoingStakes = getStakesForInvestor(group.id);
+                if (outgoingStakes.length === 0) return null;
+                return (
+                  <div className="mt-4 pt-4 border-t border-stone-100">
+                    <div className="text-sm font-medium text-stone-500 mb-2">
+                      Investments
+                    </div>
+                    <div className="space-y-1">
+                      {outgoingStakes.map((stake) => (
+                        <div key={stake.id} className="text-sm flex items-center justify-between">
+                          <div>
+                            <span className="font-medium text-amber-700">{stake.target_name}</span>
+                            <span className="text-stone-400 ml-2">{stake.role}</span>
+                            {stake.year && (
+                              <span className="text-stone-400 ml-1">
+                                ({stake.year}{stake.end_year ? `–${stake.end_year}` : ""})
+                              </span>
+                            )}
+                            {!stake.is_current && (
+                              <span className="text-red-400 ml-1 text-xs">(ended)</span>
+                            )}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                );
+              })()}
             </div>
           );
         })}

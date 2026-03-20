@@ -801,5 +801,52 @@
     "description": "Vespertine (2 Michelin stars + Green Star), Destroyer (breakfast/lunch), Meteora (1 star). All in Culver City/Hancock Park. Ex-Alinea. Vespertine closed 2020, reopened April 2024.",
     "active": true,
     "website": null
+  },
+  {
+    "id": "group_diafa",
+    "name": "DIAFA",
+    "type": "investor",
+    "key_people": [],
+    "city": null,
+    "portfolio": [],
+    "description": "Investment firm. Took stake in h.wood Group at 9-figure valuation (2026).",
+    "active": true,
+    "founded_year": null,
+    "model": "investor",
+    "total_locations": null,
+    "notable_alumni": [],
+    "website": null
+  },
+  {
+    "id": "group_sodexo",
+    "name": "Sodexo / Centerplate",
+    "type": "investor",
+    "key_people": [],
+    "city": "Paris",
+    "portfolio": [],
+    "description": "Global food services corporation. Acquired Patina Restaurant Group via Centerplate subsidiary (2019).",
+    "active": true,
+    "founded_year": 1966,
+    "model": "investor",
+    "total_locations": null,
+    "notable_alumni": [],
+    "website": null
+  },
+  {
+    "id": "group_gusto54",
+    "name": "Gusto 54",
+    "type": "investor",
+    "key_people": [
+      "Janet Zuccarini"
+    ],
+    "city": "Toronto",
+    "portfolio": [],
+    "description": "Toronto-based hospitality group. Capital and operational partner for Evan Funke restaurants (Felix, Mother Wolf, Funke).",
+    "active": true,
+    "founded_year": 2008,
+    "model": "investor",
+    "total_locations": 10,
+    "notable_alumni": [],
+    "website": null
   }
 ]
