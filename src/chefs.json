@@ -29,7 +29,8 @@
         "year": 1990,
         "credential": "Culinary Arts (honors)"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_niki_nakayama",
@@ -60,7 +61,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_dave_beran",
@@ -91,7 +93,8 @@
         "year": null,
         "credential": "B.A. in Business"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_aitor_zabala",
@@ -123,7 +126,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_jon_yao",
@@ -154,7 +158,8 @@
         "year": null,
         "credential": "B.A. in Anthropology"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_jordan_kahn",
@@ -185,7 +190,8 @@
         "year": null,
         "credential": "Culinary Arts (completed 2-year program in 8 months)"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_ki_kim",
@@ -209,7 +215,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_ori_menashe",
@@ -232,7 +239,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "Culinary school (unspecified)",
+        "city": "Los Angeles, CA",
+        "year": 2001,
+        "credential": "Quit after two weeks"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_genevieve_gergis",
@@ -255,7 +270,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_nancy_silverton",
@@ -292,7 +308,8 @@
         "year": null,
         "credential": "Pastry"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_chad_colby",
@@ -316,7 +333,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_brian_dunsmoor",
@@ -347,7 +365,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_brandon_hayato_go",
@@ -385,7 +404,8 @@
         "year": 2009,
         "credential": "Soba"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_mei_lin",
@@ -416,7 +436,8 @@
         "year": null,
         "credential": "Culinary certification"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_gilberto_cetina",
@@ -440,7 +461,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_fatima_juarez",
@@ -464,7 +486,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_morihiro_onodera",
@@ -488,7 +511,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_charles_namba",
@@ -519,7 +543,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_sara_kramer",
@@ -542,7 +567,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_sarah_hymanson",
@@ -565,7 +591,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_curtis_stone",
@@ -589,7 +616,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "Commercial cookery apprenticeship",
+        "city": "Melbourne, Australia",
+        "year": null,
+        "credential": "Vocational certificate"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_nozomi_mori",
@@ -613,7 +648,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_wolfgang_puck",
@@ -644,7 +680,8 @@
         "year": null,
         "credential": "Classical training"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_gino_angelini",
@@ -666,7 +703,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_enrique_olvera",
@@ -696,7 +734,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_michael_voltaggio",
@@ -719,7 +758,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_walter_manzke",
@@ -742,7 +782,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_margarita_manzke",
@@ -765,7 +806,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_evan_funke",
@@ -788,7 +830,21 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "Le Cordon Bleu",
+        "city": "Pasadena, CA",
+        "year": null,
+        "credential": "Left after 6 weeks (recruited by Puck)"
+      },
+      {
+        "institution": "La Vecchia Scuola Bolognese",
+        "city": "Bologna, Italy",
+        "year": 2008,
+        "credential": "Pasta making under Alessandra Spisni"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_josiah_citrin",
@@ -811,7 +867,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "No formal culinary school",
+        "city": null,
+        "year": null,
+        "credential": "Apprenticed in Paris (Vivarois, La Poste)"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_ludo_lefebvre",
@@ -834,7 +898,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "No formal culinary school",
+        "city": null,
+        "year": null,
+        "credential": "Classical French apprenticeship from age 14"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_tim_hollingsworth",
@@ -857,7 +929,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_nyesha_arrington",
@@ -880,7 +953,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_suzanne_goin",
@@ -904,7 +978,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "Brown University",
+        "city": "Providence, RI",
+        "year": 1988,
+        "credential": "BA History"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_jon_shook",
@@ -934,7 +1016,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_vinny_dotolo",
@@ -964,7 +1047,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_jeremy_fox",
@@ -987,7 +1071,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "Johnson & Wales University",
+        "city": "Charleston, SC",
+        "year": null,
+        "credential": "Culinary Arts (did not complete)"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_kevin_meehan",
@@ -1010,7 +1102,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_nobu_matsuhisa",
@@ -1034,7 +1127,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_thomas_keller",
@@ -1057,7 +1151,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "No formal culinary school",
+        "city": null,
+        "year": null,
+        "credential": "Self-taught via apprenticeships"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_grant_achatz",
@@ -1087,7 +1189,8 @@
         "year": 1994,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_alain_passard",
@@ -1110,7 +1213,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_ferran_adria",
@@ -1133,7 +1237,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_juan_mari_arzak",
@@ -1156,7 +1261,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_pedro_subijana",
@@ -1178,7 +1284,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_hideki_ishikawa",
@@ -1201,7 +1308,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_corey_lee",
@@ -1224,7 +1332,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_daniel_patterson",
@@ -1247,7 +1356,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_jonathan_waxman",
@@ -1270,7 +1380,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_david_waltuck",
@@ -1293,7 +1404,8 @@
     "instagram": null,
     "website": null,
     "status": "retired",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_dan_barber",
@@ -1316,7 +1428,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_marco_pierre_white",
@@ -1339,7 +1452,8 @@
     "instagram": null,
     "website": null,
     "status": "retired",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_hugh_acheson",
@@ -1362,7 +1476,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_takamichi_arai",
@@ -1383,7 +1498,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_joachim_splichal",
@@ -1406,7 +1522,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "Hotel Management School",
+        "city": "Montreux, Switzerland",
+        "year": 1972,
+        "credential": "Hotel Management"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_mark_peel",
@@ -1436,7 +1560,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_alice_waters",
@@ -1466,7 +1591,8 @@
         "year": 1967,
         "credential": "French Cultural Studies"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_roy_choi",
@@ -1497,7 +1623,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_jose_andres",
@@ -1528,7 +1655,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_kazunori_nozawa",
@@ -1551,7 +1679,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_david_kinch",
@@ -1575,7 +1704,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_charlie_palmer",
@@ -1605,7 +1735,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_daniel_boulud",
@@ -1627,7 +1758,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_marc_meneau",
@@ -1649,7 +1781,8 @@
     "instagram": null,
     "website": null,
     "status": "deceased",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_eric_ripert",
@@ -1672,7 +1805,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "Lycée du Moulin à Vent",
+        "city": "Perpignan, France",
+        "year": 1982,
+        "credential": "Culinary Arts"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_travis_lett",
@@ -1696,7 +1837,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_sang_yoon",
@@ -1719,7 +1861,21 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Did not complete"
+      },
+      {
+        "institution": "UCLA",
+        "city": "Los Angeles, CA",
+        "year": null,
+        "credential": "BA Psychology"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_bryant_ng",
@@ -1742,7 +1898,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_wes_avila",
@@ -1766,7 +1923,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_jessica_largey",
@@ -1789,7 +1947,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_ray_garcia",
@@ -1819,7 +1978,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_matt_molina",
@@ -1842,7 +2002,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_govind_armstrong",
@@ -1865,7 +2026,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_gary_menes",
@@ -1896,7 +2058,8 @@
         "year": null,
         "credential": "Business (Art History minor)"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_suzanne_tracht",
@@ -1919,7 +2082,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_keith_corbin",
@@ -1942,7 +2106,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_sherry_yard",
@@ -1971,7 +2136,8 @@
         "year": null,
         "credential": "Pastry Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_david_myers",
@@ -1994,7 +2160,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "No formal culinary school",
+        "city": null,
+        "year": null,
+        "credential": "Self-taught, dropped out of business school"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_raphael_lunetta",
@@ -2017,7 +2191,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "No formal culinary school",
+        "city": null,
+        "year": null,
+        "credential": "Apprenticed in Parisian kitchens (1986)"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_kris_yenbamroong",
@@ -2047,7 +2229,8 @@
         "year": null,
         "credential": "Film"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_miles_thompson",
@@ -2070,7 +2253,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_michael_mccarty",
@@ -2106,7 +2290,8 @@
         "year": null,
         "credential": "Pastry"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_quinn_hatfield",
@@ -2129,7 +2314,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_karen_hatfield",
@@ -2151,7 +2337,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_gilles_epie",
@@ -2173,7 +2360,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "CAP Culinaire (apprenticeship)",
+        "city": "France",
+        "year": null,
+        "credential": "French vocational cooking credential"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_christophe_eme",
@@ -2195,7 +2390,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_octavio_becerra",
@@ -2217,7 +2413,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_eric_ziebold",
@@ -2247,7 +2444,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_hiro_sone",
@@ -2271,7 +2469,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_lissa_doumani",
@@ -2294,7 +2493,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_carole_iida_nakayama",
@@ -2317,7 +2517,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_josef_centeno",
@@ -2348,7 +2549,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_jason_fullilove",
@@ -2378,7 +2580,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_zoe_nathan",
@@ -2401,7 +2604,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_makoto_tanaka",
@@ -2424,7 +2628,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_ricardo_zarate",
@@ -2447,7 +2652,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_charlie_trotter",
@@ -2470,7 +2676,8 @@
     "instagram": null,
     "website": null,
     "status": "deceased",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_masa_takayama",
@@ -2494,7 +2701,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_lee_hefter",
@@ -2518,7 +2726,15 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [
+      {
+        "institution": "No formal culinary school",
+        "city": null,
+        "year": null,
+        "credential": "Self-taught from age 16"
+      }
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_traci_des_jardins",
@@ -2541,7 +2757,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_sam_baxter",
@@ -2564,7 +2781,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_john_hong",
@@ -2587,7 +2805,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_johnny_yoo",
@@ -2610,7 +2829,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_isa_fabro",
@@ -2632,7 +2852,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_paul_shoemaker",
@@ -2655,7 +2876,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_yu_min_lin",
@@ -2678,7 +2900,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_phillip_frankland_lee",
@@ -2701,7 +2924,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_alex_moreno",
@@ -2724,7 +2948,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_philip_pretty",
@@ -2747,7 +2972,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_chris_ford",
@@ -2769,7 +2995,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_sydney_hunter",
@@ -2790,7 +3017,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_kevin_meehan_fix",
@@ -2811,7 +3039,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_gavin_mills",
@@ -2833,7 +3062,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_charles_olalia",
@@ -2855,7 +3085,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_tony_esnault",
@@ -2877,7 +3108,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_eric_greenspan",
@@ -2899,7 +3131,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_christopher_eddy",
@@ -2921,7 +3154,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_kuniko_yagi",
@@ -2943,7 +3177,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_zach_pollack",
@@ -2965,7 +3200,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_amanda_baumgarten",
@@ -2987,7 +3223,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_christopher_gore",
@@ -3009,7 +3246,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_daniel_newell",
@@ -3038,7 +3276,8 @@
         "year": 2000,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_hugo_bolanos",
@@ -3061,7 +3300,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_elizabeth_hong",
@@ -3083,7 +3323,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_dahlia_narvaez",
@@ -3105,7 +3346,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_marcel_vigneron",
@@ -3127,7 +3369,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_robbie_nowlin",
@@ -3149,7 +3392,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_antonia_lofaso",
@@ -3171,7 +3415,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_andrew_ponce",
@@ -3194,7 +3439,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_sarah_durning",
@@ -3217,7 +3463,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_johnny_lee",
@@ -3240,7 +3487,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_michael_leonard",
@@ -3262,7 +3510,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_craig_hopson",
@@ -3284,7 +3533,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_michael_fiorelli",
@@ -3306,7 +3556,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_dominique_crenn",
@@ -3329,7 +3580,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_katianna_hong",
@@ -3365,7 +3617,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_michael_reed",
@@ -3395,7 +3648,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_brooke_williamson",
@@ -3425,7 +3679,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_adam_sobel",
@@ -3456,7 +3711,8 @@
         "year": null,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_max_lesser",
@@ -3479,7 +3735,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_mckenna_lelah",
@@ -3502,7 +3759,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_paco_moran",
@@ -3532,7 +3790,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_joel_stovall",
@@ -3554,7 +3813,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_dk_kolender",
@@ -3577,7 +3837,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_junya_yamasaki",
@@ -3600,7 +3861,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_shirley_chung",
@@ -3630,7 +3892,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_andy_doubrava",
@@ -3653,7 +3916,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_ilan_hall",
@@ -3683,7 +3947,8 @@
         "year": 2002,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_stephanie_izard",
@@ -3713,7 +3978,8 @@
         "year": 1999,
         "credential": "Culinary Arts"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_aarti_sequeira",
@@ -3743,7 +4009,8 @@
         "year": 2007,
         "credential": "Professional Certificate"
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_jet_tila",
@@ -3779,7 +4046,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_max_boonthanakit",
@@ -3803,7 +4071,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_lijo_george",
@@ -3834,7 +4103,8 @@
         "year": 2005,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_taketoshi_azumi",
@@ -3857,7 +4127,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_yasuhiro_hirano",
@@ -3881,7 +4152,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_yoshiyuki_inoue",
@@ -3905,7 +4177,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_alain_ducasse",
@@ -3928,7 +4201,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_yoshitaka_mitsue",
@@ -3952,7 +4226,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_deau_arpapornnopparat",
@@ -3982,7 +4257,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_daniel_son",
@@ -4005,7 +4281,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_lord_maynard_llera",
@@ -4026,7 +4303,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_kevin_de_los_santos",
@@ -4049,7 +4327,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_katya_shastova",
@@ -4072,7 +4351,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_justin_pichetrungsi",
@@ -4093,7 +4373,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_kwang_uh",
@@ -4115,7 +4396,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_chris_bianco",
@@ -4137,7 +4419,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_diego_hernandez",
@@ -4160,7 +4443,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_casey_lane",
@@ -4182,7 +4466,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_jihee_kim",
@@ -4204,7 +4489,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_akira_back",
@@ -4226,7 +4512,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_william_joo",
@@ -4249,7 +4536,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_tyler_j_wells",
@@ -4271,7 +4559,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_cody_ma",
@@ -4292,7 +4581,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_josé_olmedo_carles_rojas",
@@ -4314,7 +4604,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_marcus_jernmark",
@@ -4336,7 +4627,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_curtis_park",
@@ -4358,7 +4650,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_gabriel_lindsey",
@@ -4379,7 +4672,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_sandra_cordero",
@@ -4400,7 +4694,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_karla_subero_pittol",
@@ -4421,7 +4716,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_anthony_plascencia",
@@ -4443,7 +4739,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_lennon_silvers_lee",
@@ -4466,7 +4763,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_keith_phillips",
@@ -4488,7 +4786,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_ari_kolender",
@@ -4509,7 +4808,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_seigo_tamaru",
@@ -4532,7 +4832,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_hisashi_udatsu",
@@ -4555,7 +4856,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_david_schlosser",
@@ -4577,7 +4879,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_evan_algorri",
@@ -4598,7 +4901,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_miles_shorey",
@@ -4620,7 +4924,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_steve_samson",
@@ -4641,7 +4946,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_kian_samyani",
@@ -4663,7 +4969,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_ari_rosenson",
@@ -4686,7 +4993,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_drew_rosenberg",
@@ -4708,7 +5016,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_andreas_roller",
@@ -4731,7 +5040,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_brendan_collins",
@@ -4754,7 +5064,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_hiroshi_shima",
@@ -4776,7 +5087,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_jose_melendez",
@@ -4798,7 +5110,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_gregorio_stephenson",
@@ -4821,7 +5134,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_james_bailey",
@@ -4844,7 +5158,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_steve_benjamin",
@@ -4867,7 +5182,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_yoji_tajima",
@@ -4889,7 +5205,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_katsuya_uechi",
@@ -4911,7 +5228,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_ken_takayama",
@@ -4934,7 +5252,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_johncarlos_kuramoto",
@@ -4965,7 +5284,8 @@
         "year": null,
         "credential": null
       }
-    ]
+    ],
+    "tier": "lineage"
   },
   {
     "id": "chef_jacob_solomon",
@@ -4989,7 +5309,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_sean_tan",
@@ -5013,7 +5334,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_hans_rockenwagner",
@@ -5037,7 +5359,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_brandon_gray",
@@ -5060,7 +5383,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_thomas_lim",
@@ -5084,7 +5408,8 @@
     "instagram": null,
     "website": null,
     "status": "active",
-    "education": []
+    "education": [],
+    "tier": "lineage"
   },
   {
     "id": "chef_gabriel_pulido",
@@ -5114,6 +5439,640 @@
         "year": null,
         "credential": null
       }
+    ],
+    "tier": "lineage"
+  },
+  {
+    "id": "chef_gaston_lenotre",
+    "name": {
+      "first": "Gaston",
+      "last": "Lenotre",
+      "display": "Gaston Lenotre",
+      "nickname": null
+    },
+    "bio": "Founder of Maison Lenôtre, one of France's most influential pastry houses. Trained generations of pastry chefs including Michel Richard.",
+    "birth_year": null,
+    "birth_country": "FR",
+    "birth_city": "Saint-Nicolas-du-Bosc, Normandy",
+    "cuisine_tags": [
+      "french",
+      "pastry"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "deceased",
+    "education": [],
+    "tier": "lineage"
+  },
+  {
+    "id": "chef_marc_veyrat",
+    "name": {
+      "first": "Marc",
+      "last": "Veyrat",
+      "display": "Marc Veyrat",
+      "nickname": null
+    },
+    "bio": "Legendary French mountain chef. Earned 3 Michelin stars at Auberge de l'Eridan. Known for foraging Alpine herbs and flowers.",
+    "birth_year": null,
+    "birth_country": "FR",
+    "birth_city": "Annecy, France",
+    "cuisine_tags": [
+      "french",
+      "fine-dining",
+      "foraging",
+      "alpine"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [],
+    "tier": "lineage"
+  },
+  {
+    "id": "chef_michel_richard",
+    "name": {
+      "first": "Michel",
+      "last": "Richard",
+      "display": "Michel Richard",
+      "nickname": null
+    },
+    "bio": "French pastry prodigy turned LA fine dining pioneer. Trained under Gaston Lenôtre in Paris, opened Citrus in 1986 which redefined French cooking in LA. Won JBF Best Chef: California 1992 and Outstanding Chef 2007. Later moved to DC. Died 2016.",
+    "birth_year": null,
+    "birth_country": "FR",
+    "birth_city": "Pabu, Brittany",
+    "cuisine_tags": [
+      "french",
+      "pastry",
+      "fine-dining",
+      "california"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "deceased",
+    "education": [],
+    "tier": "lineage"
+  },
+  {
+    "id": "chef_celestino_drago",
+    "name": {
+      "first": "Celestino",
+      "last": "Drago",
+      "display": "Celestino Drago",
+      "nickname": null
+    },
+    "bio": "Sicilian-born chef who built LA's most enduring Italian restaurant empire. Arrived 1979, worked at Orlando Orsini, opened Drago (Santa Monica, 1991-2011). F&W Best New Chef 1993. Knighted by the Italian government.",
+    "birth_year": null,
+    "birth_country": "IT",
+    "birth_city": "Sicily",
+    "cuisine_tags": [
+      "italian",
+      "fine-dining",
+      "pasta"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [],
+    "tier": "lineage"
+  },
+  {
+    "id": "chef_ari_taymor",
+    "name": {
+      "first": "Ari",
+      "last": "Taymor",
+      "display": "Ari Taymor",
+      "nickname": null
+    },
+    "bio": "Opened Alma in a tiny downtown LA storefront in 2012, earned F&W Best New Chef 2014. Trained at Flour + Water, Bar Tartine, and La Chassagnette. Closed Alma 2015. Advocate for chef mental health.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Hawaii",
+    "cuisine_tags": [
+      "california",
+      "seasonal",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "education": [],
+    "tier": "lineage"
+  },
+  {
+    "id": "chef_jazz_singsanong",
+    "name": {
+      "first": "Jazz",
+      "last": "Singsanong",
+      "display": "Jazz Singsanong",
+      "nickname": null
+    },
+    "bio": "Runs Jitlada, the legendary Southern Thai restaurant her late uncle founded. On Jonathan Gold 101, Bill Addison 101, and Michelin Bib Gourmand.",
+    "birth_year": null,
+    "birth_country": "TH",
+    "birth_city": null,
+    "cuisine_tags": [
+      "thai",
+      "southern-thai"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "notable",
+    "education": []
+  },
+  {
+    "id": "chef_johnny_zone",
+    "name": {
+      "first": "Johnny",
+      "last": "Zone",
+      "display": "Johnny Zone",
+      "nickname": null
+    },
+    "bio": "Nashville hot chicken evangelist who brought the genre to LA. Howlin' Ray's has been on Gold 101, Eater Essential 38, and Michelin Bib Gourmand.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "southern",
+      "hot-chicken"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "notable",
+    "education": []
+  },
+  {
+    "id": "chef_bricia_lopez",
+    "name": {
+      "first": "Bricia",
+      "last": "Lopez",
+      "display": "Bricia Lopez",
+      "nickname": null
+    },
+    "bio": "Second-generation owner of Guelaguetza, LA's most celebrated Oaxacan restaurant. Author of Oaxaca: Home Cooking from the Heart of Mexico.",
+    "birth_year": null,
+    "birth_country": "MX",
+    "birth_city": "Oaxaca, Mexico",
+    "cuisine_tags": [
+      "mexican",
+      "oaxacan"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "notable",
+    "education": []
+  },
+  {
+    "id": "chef_tal_ronnen",
+    "name": {
+      "first": "Tal",
+      "last": "Ronnen",
+      "display": "Tal Ronnen",
+      "nickname": null
+    },
+    "bio": "Vegan fine dining pioneer. Crossroads Kitchen appears on Addison 101 and Eater Essential 38.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "vegan",
+      "fine-dining",
+      "californian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "notable",
+    "education": []
+  },
+  {
+    "id": "chef_jonathan_whitener",
+    "name": {
+      "first": "Jonathan",
+      "last": "Whitener",
+      "display": "Jonathan Whitener",
+      "nickname": null
+    },
+    "bio": "Trained at Le Louis XV under Ducasse and Mirazur under Colagreco before becoming chef de cuisine at Animal. Opened Here's Looking at You to Gold 101 acclaim. Died February 2024 at 36.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Huntington Beach, CA",
+    "cuisine_tags": [
+      "new-american",
+      "eclectic"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "deceased",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_vivian_ku",
+    "name": {
+      "first": "Vivian",
+      "last": "Ku",
+      "display": "Vivian Ku",
+      "nickname": null
+    },
+    "bio": "Runs Pine & Crane in Silver Lake. Taiwanese comfort food. On Gold 101, Addison 101, Michelin Bib Gourmand.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "taiwanese"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "notable",
+    "education": []
+  },
+  {
+    "id": "chef_massimo_bottura",
+    "name": {
+      "first": "Massimo",
+      "last": "Bottura",
+      "display": "Massimo Bottura",
+      "nickname": null
+    },
+    "bio": "Three-Michelin-star chef at Osteria Francescana in Modena, twice ranked #1 on World's 50 Best.",
+    "birth_year": null,
+    "birth_country": "IT",
+    "birth_city": "Modena, Italy",
+    "cuisine_tags": [
+      "italian",
+      "fine-dining",
+      "modernist"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_piero_selvaggio",
+    "name": {
+      "first": "Piero",
+      "last": "Selvaggio",
+      "display": "Piero Selvaggio",
+      "nickname": null
+    },
+    "bio": "Founder of Valentino (1972-2018), one of America's most important Italian restaurants. Revolutionized Italian fine dining in the US.",
+    "birth_year": null,
+    "birth_country": "IT",
+    "birth_city": "Modica, Sicily, Italy",
+    "cuisine_tags": [
+      "italian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "retired",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_shunji_nakao",
+    "name": {
+      "first": "Shunji",
+      "last": "Nakao",
+      "display": "Shunji Nakao",
+      "nickname": null
+    },
+    "bio": "Japan-trained sushi master who worked alongside Nobu Matsuhisa at the original Matsuhisa, co-founded Asanebo, and opened his eponymous restaurant. Michelin 1-star.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": "Yokohama, Japan",
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_hiroyuki_naruke",
+    "name": {
+      "first": "Hiroyuki",
+      "last": "Naruke",
+      "display": "Hiroyuki Naruke",
+      "nickname": null
+    },
+    "bio": "Edomae sushi master trained in Tokyo. Opened Nogizaka Sushi Yuki, lost it in the 2011 tsunami, rebuilt in DTLA as Q Sushi.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": "Tokyo, Japan",
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "edomae"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_david_lefevre",
+    "name": {
+      "first": "David",
+      "last": "LeFevre",
+      "display": "David LeFevre",
+      "nickname": null
+    },
+    "bio": "CIA-trained chef who spent years under Charlie Trotter, trained with Bernard Loiseau in France. Led Water Grill to a Michelin star before opening three Manhattan Beach restaurants.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": "Madison, WI",
+    "cuisine_tags": [
+      "seafood",
+      "new-american",
+      "french"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": [
+      {
+        "institution": "Culinary Institute of America",
+        "city": "Hyde Park, NY",
+        "year": null,
+        "credential": "Culinary Arts"
+      }
     ]
+  },
+  {
+    "id": "chef_mattia_agazzi",
+    "name": {
+      "first": "Mattia",
+      "last": "Agazzi",
+      "display": "Mattia Agazzi",
+      "nickname": null
+    },
+    "bio": "Trained under five 3-Michelin-star chefs before taking the helm at Gucci Osteria Beverly Hills. Michelin 1-star at 32.",
+    "birth_year": null,
+    "birth_country": "IT",
+    "birth_city": "Alzano Lombardo, Bergamo, Italy",
+    "cuisine_tags": [
+      "italian",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_angelo_auriana",
+    "name": {
+      "first": "Angelo",
+      "last": "Auriana",
+      "display": "Angelo Auriana",
+      "nickname": null
+    },
+    "bio": "Bergamo-born chef who spent 18 years as executive chef at Valentino, one of America's most important Italian restaurants. Michelin Bib Gourmand at The Factory Kitchen.",
+    "birth_year": null,
+    "birth_country": "IT",
+    "birth_city": "Bergamo, Italy",
+    "cuisine_tags": [
+      "italian",
+      "regional"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": [
+      {
+        "institution": "San Pellegrino Hotel School",
+        "city": "Bergamo, Italy",
+        "year": null,
+        "credential": "Graduated with honors"
+      }
+    ]
+  },
+  {
+    "id": "chef_daniele_uditi",
+    "name": {
+      "first": "Daniele",
+      "last": "Uditi",
+      "display": "Daniele Uditi",
+      "nickname": null
+    },
+    "bio": "Naples-trained pizzaiolo who trained under Rosanna Marziale at Michelin-starred Le Colonne. Sourdough starter brought from Italy. Bib Gourmand at Pizzana.",
+    "birth_year": null,
+    "birth_country": "IT",
+    "birth_city": "Caserta, Italy",
+    "cuisine_tags": [
+      "italian",
+      "pizza",
+      "neapolitan"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_jessica_koslow",
+    "name": {
+      "first": "Jessica",
+      "last": "Koslow",
+      "display": "Jessica Koslow",
+      "nickname": null
+    },
+    "bio": "Self-taught chef who trained at Anne Quatrano's Bacchanalia before opening Sqirl. Co-runs Onda with Gabriela Camara.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "californian",
+      "breakfast"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": [
+      {
+        "institution": "Georgetown University",
+        "city": "Washington, DC",
+        "year": null,
+        "credential": "MA Media Theory"
+      }
+    ]
+  },
+  {
+    "id": "chef_hiroyuki_urasawa",
+    "name": {
+      "first": "Hiroyuki",
+      "last": "Urasawa",
+      "display": "Hiroyuki Urasawa",
+      "nickname": null
+    },
+    "bio": "Trained in Kyoto kaiseki at Mangamerou, then spent a decade under Masa Takayama at Ginza Sushiko. Took over the Beverly Hills space when Takayama left for NYC. Two Michelin stars, Zagat #1 food in LA (2010, 2012, 2013). Closed 2020, returned to Japan.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": "Tokyo, Japan",
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase",
+      "kaiseki"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "retired",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_keizo_seki",
+    "name": {
+      "first": "Keizo",
+      "last": "Seki",
+      "display": "Keizo Seki",
+      "nickname": null
+    },
+    "bio": "Osaka-born sushi chef who trained in Tokyo edomae style, then spent 15 years in LA kitchens before opening Sushi Zo. Zagat 29/30 food score — highest in LA Zagat history. Michelin star. Expanded to 6 locations worldwide.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": "Osaka, Japan",
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase",
+      "edomae"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_rashida_holmes",
+    "name": {
+      "first": "Rashida",
+      "last": "Holmes",
+      "display": "Rashida Holmes",
+      "nickname": null
+    },
+    "bio": "Bridgetown Roti. JBF semifinalist 3 consecutive years (2023-2025). Trinidadian-inspired.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "caribbean",
+      "trinidadian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "notable",
+    "education": []
+  },
+  {
+    "id": "chef_rocio_camacho",
+    "name": {
+      "first": "Rocio",
+      "last": "Camacho",
+      "display": "Rocio Camacho",
+      "nickname": null
+    },
+    "bio": "Oaxacan mole master. JBF semifinalist 2020 and 2023. Runs Rocio's Mexican Kitchen in Bell Gardens.",
+    "birth_year": null,
+    "birth_country": "MX",
+    "birth_city": "Oaxaca, Mexico",
+    "cuisine_tags": [
+      "mexican",
+      "oaxacan"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "notable",
+    "education": []
+  },
+  {
+    "id": "chef_nicole_rucker",
+    "name": {
+      "first": "Nicole",
+      "last": "Rucker",
+      "display": "Nicole Rucker",
+      "nickname": null
+    },
+    "bio": "Pastry chef. JBF Outstanding Pastry Chef semifinalist 2024 and 2025. Fat + Flour.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "pastry",
+      "bakery"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "notable",
+    "education": []
+  },
+  {
+    "id": "chef_genet_agonafer",
+    "name": {
+      "first": "Genet",
+      "last": "Agonafer",
+      "display": "Genet Agonafer",
+      "nickname": null
+    },
+    "bio": "Runs Meals by Genet, LA's most celebrated Ethiopian restaurant. JBF semifinalist 2019.",
+    "birth_year": null,
+    "birth_country": "ET",
+    "birth_city": null,
+    "cuisine_tags": [
+      "ethiopian"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "notable",
+    "education": []
   }
 ]

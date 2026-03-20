@@ -3,10 +3,11 @@ import { notFound } from "next/navigation";
 import {
   chefs,
   restaurants,
-  groups,
+  stops,
   getRestaurant,
   getStopsForRestaurant,
   getGroup,
+  getTrainingKitchenStats,
 } from "@/lib/data";
 
 export function generateStaticParams() {
@@ -26,6 +27,7 @@ export default async function RestaurantPage({
   const currentStaff = restStops.filter((s) => s.is_current);
   const alumni = restStops.filter((s) => !s.is_current);
   const group = restaurant.group_id ? getGroup(restaurant.group_id) : null;
+  const kitchenStats = getTrainingKitchenStats(id);
 
   const ratings = restaurant.ratings as Record<string, unknown> | undefined;
   const stars = ratings?.michelin_stars as number | undefined;
@@ -36,7 +38,8 @@ export default async function RestaurantPage({
         ← All Restaurants
       </Link>
 
-      <div className="mt-4 mb-8">
+      {/* Header */}
+      <div className="mt-4 mb-6">
         <div className="flex items-center gap-3">
           <h1 className="text-3xl font-bold tracking-tight text-stone-900">
             {restaurant.name}
@@ -52,10 +55,24 @@ export default async function RestaurantPage({
             </span>
           )}
         </div>
-        <div className="text-stone-500 mt-2">
-          {restaurant.address && `${restaurant.address} · `}
-          {restaurant.neighborhood && `${restaurant.neighborhood}, `}
-          {restaurant.city}, {restaurant.state}
+        {/* Signal line — what this restaurant means to the network */}
+        <div className="flex flex-wrap items-center gap-x-2 gap-y-1 mt-2 text-sm text-stone-500">
+          <span>
+            {restaurant.neighborhood && `${restaurant.neighborhood}, `}
+            {restaurant.city}
+          </span>
+          {kitchenStats.alumniCount >= 3 && (
+            <span>
+              <span className="text-stone-300 mx-1">·</span>
+              {kitchenStats.alumniCount} alumni · {kitchenStats.alumniWithOwnRestaurants} running own kitchens
+            </span>
+          )}
+          {group && (
+            <span>
+              <span className="text-stone-300 mx-1">·</span>
+              <Link href="/groups" className="text-amber-700">{group.name}</Link>
+            </span>
+          )}
         </div>
         <div className="flex flex-wrap gap-2 mt-3">
           {restaurant.cuisine_tags.map((tag) => (
@@ -69,9 +86,157 @@ export default async function RestaurantPage({
         </div>
       </div>
 
-      {/* Details */}
+      {/* Current Staff — who's here now */}
+      {currentStaff.length > 0 && (
+        <div className="mb-8">
+          <h2 className="text-sm font-semibold text-stone-400 uppercase tracking-wide mb-3">
+            Current Staff
+          </h2>
+          <div className="space-y-2">
+            {currentStaff.map((stop) => {
+              const chef = chefs.find((c) => c.id === stop.chef_id);
+              return (
+                <div
+                  key={stop.id}
+                  className="flex items-center justify-between rounded-lg border border-stone-100 bg-white px-4 py-3"
+                >
+                  <div>
+                    {chef ? (
+                      <Link
+                        href={`/chefs/${chef.id}`}
+                        className="font-medium text-amber-700"
+                      >
+                        {chef.name.display}
+                      </Link>
+                    ) : (
+                      <span className="font-medium text-stone-900">
+                        {stop.chef_id}
+                      </span>
+                    )}
+                    <span className="text-sm text-stone-500 ml-2">
+                      {stop.position}
+                    </span>
+                  </div>
+                  <div className="text-sm text-stone-400">
+                    {stop.start_year}–present
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
+      {/* Alumni — Kitchen Diaspora — THE section, moved up */}
+      {alumni.length > 0 && (
+        <div className="mb-8">
+          <h2 className="text-sm font-semibold text-stone-400 uppercase tracking-wide mb-3">
+            Kitchen Diaspora
+            {kitchenStats.alumniWithOwnRestaurants > 0 && (
+              <span className="ml-2 font-normal normal-case tracking-normal text-stone-400">
+                — {kitchenStats.alumniCount} alumni, {kitchenStats.alumniWithOwnRestaurants} now running own kitchens
+              </span>
+            )}
+          </h2>
+          <div className="space-y-1">
+            {alumni
+              .sort((a, b) => (b.start_year || 0) - (a.start_year || 0))
+              .map((stop) => {
+                const chef = chefs.find((c) => c.id === stop.chef_id);
+                // Where did this alum end up?
+                const alumCurrentStop = stops.find(
+                  (s) => s.chef_id === stop.chef_id && s.is_current
+                );
+                const alumNow = alumCurrentStop
+                  ? restaurants.find((r) => r.id === alumCurrentStop.restaurant_id)
+                  : null;
+                return (
+                  <div
+                    key={stop.id}
+                    className="flex items-start gap-4 rounded-lg border border-stone-100 bg-white px-4 py-3"
+                  >
+                    <div className="text-sm text-stone-400 w-24 shrink-0 tabular-nums">
+                      {stop.start_year || "—"}
+                      {stop.end_year ? `–${stop.end_year}` : ""}
+                    </div>
+                    <div className="flex-1">
+                      {chef ? (
+                        <Link
+                          href={`/chefs/${chef.id}`}
+                          className="font-medium text-amber-700"
+                        >
+                          {chef.name.display}
+                        </Link>
+                      ) : (
+                        <span className="font-medium text-stone-900">
+                          {stop.chef_id}
+                        </span>
+                      )}
+                      <span className="text-sm text-stone-500 ml-2">
+                        {stop.position}
+                      </span>
+                    </div>
+                    {alumNow && (
+                      <Link
+                        href={`/restaurants/${alumNow.id}`}
+                        className="text-xs text-stone-400 hover:text-amber-700 shrink-0"
+                      >
+                        → {alumNow.name}
+                      </Link>
+                    )}
+                  </div>
+                );
+              })}
+          </div>
+        </div>
+      )}
+
+      {/* Awards/Recognition */}
+      {ratings && Object.keys(ratings).length > 0 && (
+        <div className="mb-8 rounded-lg border border-stone-200 bg-white p-5">
+          <h2 className="text-sm font-semibold text-stone-400 uppercase tracking-wide mb-3">
+            Recognition
+          </h2>
+          <div className="space-y-1 text-sm">
+            {stars ? (
+              <div className="text-stone-700">
+                {"★".repeat(stars)} Michelin Stars
+                {ratings.michelin_year ? ` (${String(ratings.michelin_year)})` : null}
+              </div>
+            ) : null}
+            {ratings.michelin_bib_gourmand ? (
+              <div className="text-stone-700">Michelin Bib Gourmand</div>
+            ) : null}
+            {Array.isArray(ratings.jbf)
+              ? (ratings.jbf as string[]).map((award, i) => (
+                <div key={i} className="text-stone-700">
+                  James Beard: {award}
+                </div>
+              ))
+              : null}
+            {Array.isArray(ratings.other)
+              ? (ratings.other as string[]).map((award, i) => (
+                <div key={i} className="text-stone-700">
+                  {award}
+                </div>
+              ))
+              : null}
+          </div>
+        </div>
+      )}
+
+      {/* Details — moved to bottom */}
       <div className="mb-8 rounded-lg border border-stone-200 bg-white p-5">
+        <h2 className="text-sm font-semibold text-stone-400 uppercase tracking-wide mb-3">
+          Details
+        </h2>
         <div className="grid grid-cols-2 gap-4 text-sm">
+          {restaurant.address && (
+            <div className="col-span-2">
+              <span className="text-stone-500">Address: </span>
+              <span className="text-stone-900">{restaurant.address}</span>
+            </div>
+          )}
           {restaurant.open_year && (
             <div>
               <span className="text-stone-500">Opened: </span>
@@ -117,125 +282,6 @@ export default async function RestaurantPage({
           </div>
         )}
       </div>
-
-      {/* Awards */}
-      {ratings && Object.keys(ratings).length > 0 && (
-        <div className="mb-8 rounded-lg border border-stone-200 bg-white p-5">
-          <h2 className="text-sm font-semibold text-stone-400 uppercase tracking-wide mb-3">
-            Recognition
-          </h2>
-          <div className="space-y-1 text-sm">
-            {stars ? (
-              <div className="text-stone-700">
-                {"★".repeat(stars)} Michelin Stars
-                {ratings.michelin_year ? ` (${String(ratings.michelin_year)})` : null}
-              </div>
-            ) : null}
-            {ratings.michelin_bib_gourmand ? (
-              <div className="text-stone-700">Michelin Bib Gourmand</div>
-            ) : null}
-            {Array.isArray(ratings.jbf)
-              ? (ratings.jbf as string[]).map((award, i) => (
-                <div key={i} className="text-stone-700">
-                  James Beard: {award}
-                </div>
-              ))
-              : null}
-            {Array.isArray(ratings.other)
-              ? (ratings.other as string[]).map((award, i) => (
-                <div key={i} className="text-stone-700">
-                  {award}
-                </div>
-              ))
-              : null}
-          </div>
-        </div>
-      )}
-
-      {/* Current Staff */}
-      {currentStaff.length > 0 && (
-        <div className="mb-8">
-          <h2 className="text-sm font-semibold text-stone-400 uppercase tracking-wide mb-3">
-            Current Staff
-          </h2>
-          <div className="space-y-2">
-            {currentStaff.map((stop) => {
-              const chef = chefs.find((c) => c.id === stop.chef_id);
-              return (
-                <div
-                  key={stop.id}
-                  className="flex items-center justify-between rounded-lg border border-stone-100 bg-white px-4 py-3"
-                >
-                  <div>
-                    {chef ? (
-                      <Link
-                        href={`/chefs/${chef.id}`}
-                        className="font-medium text-amber-700"
-                      >
-                        {chef.name.display}
-                      </Link>
-                    ) : (
-                      <span className="font-medium text-stone-900">
-                        {stop.chef_id}
-                      </span>
-                    )}
-                    <span className="text-sm text-stone-500 ml-2">
-                      {stop.position}
-                    </span>
-                  </div>
-                  <div className="text-sm text-stone-400">
-                    {stop.start_year}–present
-                  </div>
-                </div>
-              );
-            })}
-          </div>
-        </div>
-      )}
-
-      {/* Alumni */}
-      {alumni.length > 0 && (
-        <div className="mb-8">
-          <h2 className="text-sm font-semibold text-stone-400 uppercase tracking-wide mb-3">
-            Alumni — Kitchen Diaspora
-          </h2>
-          <div className="space-y-1">
-            {alumni
-              .sort((a, b) => (b.start_year || 0) - (a.start_year || 0))
-              .map((stop) => {
-                const chef = chefs.find((c) => c.id === stop.chef_id);
-                return (
-                  <div
-                    key={stop.id}
-                    className="flex items-start gap-4 rounded-lg border border-stone-100 bg-white px-4 py-3"
-                  >
-                    <div className="text-sm text-stone-400 w-24 shrink-0 tabular-nums">
-                      {stop.start_year || "—"}
-                      {stop.end_year ? `–${stop.end_year}` : ""}
-                    </div>
-                    <div className="flex-1">
-                      {chef ? (
-                        <Link
-                          href={`/chefs/${chef.id}`}
-                          className="font-medium text-amber-700"
-                        >
-                          {chef.name.display}
-                        </Link>
-                      ) : (
-                        <span className="font-medium text-stone-900">
-                          {stop.chef_id}
-                        </span>
-                      )}
-                      <span className="text-sm text-stone-500 ml-2">
-                        {stop.position}
-                      </span>
-                    </div>
-                  </div>
-                );
-              })}
-          </div>
-        </div>
-      )}
     </div>
   );
 }

@@ -63,3 +63,95 @@ export function getLineageTree(chefId: string): { id: string; name: string; prot
     proteges: getLineageTree(protege.id),
   }));
 }
+
+export function getProtegeCount(chefId: string): number {
+  return stops.filter((s) => s.mentor_id === chefId).length;
+}
+
+export function getTopMentors(n: number): { chef: Chef; protegeCount: number; currentRestaurant: Restaurant | undefined }[] {
+  const mentorCounts = new Map<string, number>();
+  for (const stop of stops) {
+    if (stop.mentor_id) {
+      mentorCounts.set(stop.mentor_id, (mentorCounts.get(stop.mentor_id) || 0) + 1);
+    }
+  }
+  return Array.from(mentorCounts.entries())
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, n)
+    .map(([chefId, count]) => {
+      const chef = getChef(chefId)!;
+      const currentStop = stops.find((s) => s.chef_id === chefId && s.is_current);
+      const currentRestaurant = currentStop ? getRestaurant(currentStop.restaurant_id) : undefined;
+      return { chef, protegeCount: count, currentRestaurant };
+    })
+    .filter((m) => m.chef);
+}
+
+export function getTrainingKitchenStats(restaurantId: string): { alumniCount: number; alumniWithOwnRestaurants: number } {
+  const alumniStops = stops.filter((s) => s.restaurant_id === restaurantId && !s.is_current);
+  const alumniChefIds = new Set(alumniStops.map((s) => s.chef_id));
+  let alumniWithOwn = 0;
+  for (const chefId of alumniChefIds) {
+    const hasCurrentStop = stops.some((s) => s.chef_id === chefId && s.is_current);
+    if (hasCurrentStop) alumniWithOwn++;
+  }
+  return { alumniCount: alumniChefIds.size, alumniWithOwnRestaurants: alumniWithOwn };
+}
+
+export function getTopTrainingKitchens(n: number): { restaurant: Restaurant; alumniCount: number; alumniWithOwnRestaurants: number }[] {
+  const kitchenStats = restaurants.map((r) => {
+    const stats = getTrainingKitchenStats(r.id);
+    return { restaurant: r, ...stats };
+  });
+  return kitchenStats
+    .filter((k) => k.alumniCount >= 3)
+    .sort((a, b) => b.alumniCount - a.alumniCount)
+    .slice(0, n);
+}
+
+export function getMichelinStarred(): Restaurant[] {
+  return restaurants
+    .filter((r) => r.ratings && (r.ratings as Record<string, number>).michelin_stars)
+    .sort((a, b) =>
+      ((b.ratings as Record<string, number>).michelin_stars || 0) -
+      ((a.ratings as Record<string, number>).michelin_stars || 0)
+    );
+}
+
+export function getChefSignal(chefId: string): string {
+  const chef = getChef(chefId);
+  if (!chef) return "";
+  const protegeCount = getProtegeCount(chefId);
+  const currentStop = stops.find((s) => s.chef_id === chefId && s.is_current);
+  const currentRestaurant = currentStop ? getRestaurant(currentStop.restaurant_id) : undefined;
+  const stars = currentRestaurant?.ratings
+    ? (currentRestaurant.ratings as Record<string, number>).michelin_stars
+    : 0;
+
+  const parts: string[] = [];
+  if (currentRestaurant) parts.push(currentRestaurant.name);
+  if (stars) parts.push("★".repeat(stars));
+  if (protegeCount > 0) parts.push(`${protegeCount} protégé${protegeCount > 1 ? "s" : ""}`);
+  return parts.join(" · ");
+}
+
+export function getRestaurantSignal(restaurantId: string): string {
+  const r = getRestaurant(restaurantId);
+  if (!r) return "";
+  const stats = getTrainingKitchenStats(restaurantId);
+  const stars = r.ratings ? (r.ratings as Record<string, number>).michelin_stars : 0;
+  const currentStaff = stops.filter((s) => s.restaurant_id === restaurantId && s.is_current);
+
+  const parts: string[] = [];
+  if (r.neighborhood) parts.push(r.neighborhood);
+  if (stars) parts.push("★".repeat(stars));
+  if (stats.alumniCount >= 3) {
+    parts.push(`${stats.alumniCount} alumni → ${stats.alumniWithOwnRestaurants} running own kitchens`);
+  } else if (currentStaff.length > 0) {
+    const chefNames = currentStaff
+      .map((s) => getChef(s.chef_id)?.name.display)
+      .filter(Boolean);
+    if (chefNames.length > 0) parts.push(chefNames.join(", "));
+  }
+  return parts.join(" · ");
+}

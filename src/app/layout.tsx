@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
+import NavSearch from "@/components/NavSearch";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -28,12 +29,15 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <nav className="border-b border-stone-200 bg-white">
-          <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
-            <Link href="/" className="text-xl font-bold tracking-tight text-stone-900 no-underline hover:no-underline">
+        <nav className="border-b border-stone-200 bg-white sticky top-0 z-40">
+          <div className="mx-auto flex max-w-6xl items-center gap-6 px-6 py-3">
+            <Link href="/" className="text-xl font-bold tracking-tight text-stone-900 no-underline hover:no-underline shrink-0">
               ICDB
             </Link>
-            <div className="flex gap-6 text-sm font-medium text-stone-600">
+            <div className="flex-1 max-w-md">
+              <NavSearch />
+            </div>
+            <div className="flex gap-6 text-sm font-medium text-stone-600 shrink-0">
               <Link href="/chefs" className="hover:text-stone-900 no-underline">Chefs</Link>
               <Link href="/restaurants" className="hover:text-stone-900 no-underline">Restaurants</Link>
               <Link href="/lineage" className="hover:text-stone-900 no-underline">Lineage</Link>
