@@ -6,9 +6,9 @@
 
 **Tagline:** *The pedigree of LA dining, mapped.*
 
-**Descriptor (long):** Verified career histories, mentor-protégé networks, and kitchen diaspora for 235+ chefs across 318 restaurants. The only database that traces who trained whom, where they went, and what they built.
+**Descriptor (long):** Verified career histories, mentor-protégé networks, kitchen diaspora, and investment intelligence for 235+ chefs across 318 restaurants. The only database that traces who trained whom, who backs whom, where they went, and what they built.
 
-**Descriptor (short):** Chef lineage and career intelligence for LA dining.
+**Descriptor (short):** Chef lineage, career intelligence, and capital networks for LA dining.
 
 **Who uses it:** Food journalists researching profiles. Restaurant groups evaluating talent pipelines. Industry professionals tracking career movements. Serious diners who want to understand what connects their favorite restaurants.
 
@@ -16,67 +16,70 @@
 
 ---
 
-## Color System — "Dark Walnut"
+## Color System — "California Coral"
 
-The palette draws from three sources: the high-contrast readability of IMDB, the dark wood and brass interiors of Hillstone restaurants, and the golden-hour warmth of California coastal light.
+Clean, light, and inviting — white cards on warm cream, with coral as the single confident accent color. The palette reads as editorial and fresh, not corporate or clinical.
 
 ### Core Palette
 
 | Token | Hex | RGB | Usage |
 |-------|-----|-----|-------|
-| **Background** | `#141210` | 20, 18, 16 | Page body, deepest surface |
-| **Surface** | `#2d2a23` | 45, 42, 35 | Cards, panels, nav, dropdown |
-| **Elevated** | `#363229` | 54, 50, 41 | Hover states, subtle bg fills |
-| **Border** | `#4a453b` | 74, 69, 59 | Card borders, dividers |
-| **Border Hover** | `#585244` | 88, 82, 68 | Interactive border hover |
+| **Background** | `#f9f8f6` | 249, 248, 246 | Page body, warm cream |
+| **Surface** | `#ffffff` | 255, 255, 255 | Cards, panels, nav, dropdown |
+| **Elevated** | `#f5f4f0` | 245, 244, 240 | Hover states, subtle bg fills |
+| **Border** | `#e7e5e4` | 231, 229, 228 | Card borders, dividers |
+| **Border Hover** | `#d6d3d1` | 214, 211, 209 | Interactive border hover |
 
 ### Text
 
 | Token | Hex | RGB | Usage |
 |-------|-----|-----|-------|
-| **Primary** | `#ede8df` | 237, 232, 223 | Headlines, body text |
-| **Secondary** | `#9e978a` | 158, 151, 138 | Descriptions, metadata |
-| **Dim** | `#706a5e` | 112, 106, 94 | Timestamps, low-priority info |
+| **Primary** | `#1c1917` | 28, 25, 23 | Headlines, body text |
+| **Secondary** | `#78716c` | 120, 113, 108 | Descriptions, metadata |
+| **Muted** | `#a8a29e` | 168, 162, 158 | Timestamps, low-priority info |
 
 ### Accent & Semantic
 
 | Token | Hex | RGB | Usage |
 |-------|-----|-----|-------|
-| **Brass (accent)** | `#c9a66c` | 201, 166, 108 | Links, interactive elements |
-| **Brass Hover** | `#d4b07a` | 212, 176, 122 | Link/button hover |
-| **Star Gold** | `#e5b94e` | 229, 185, 78 | Michelin stars |
-| **Verified** | `#6a9e66` | 106, 158, 102 | Verified badges |
-| **Closed** | `#c47070` | 196, 112, 112 | Closed restaurant indicator |
-| **Notable** | `#6a8ec0` | 106, 142, 192 | Notable tier badge |
+| **Coral (accent)** | `#e8614d` | 232, 97, 77 | Links, interactive elements, the splash |
+| **Coral Hover** | `#d4533f` | 212, 83, 63 | Link/button hover |
+| **Star Gold** | `#eab308` | 234, 179, 8 | Michelin stars |
+| **Verified** | `#16a34a` | 22, 163, 74 | Verified badges |
+| **Closed** | `#ef4444` | 239, 68, 68 | Closed restaurant indicator |
+| **Notable** | `#1d4ed8` | 29, 78, 216 | Notable tier badge |
 
 ### Badge/Tag Backgrounds
 
-Semantic colors at low opacity on surface:
+Semantic colors at low opacity on white surface:
 
 | Token | Hex | Context |
 |-------|-----|---------|
-| Amber bg | `#38322a` | Cuisine tags, protégé badges |
-| Amber border | `#6b5838` | Tag borders |
-| Green bg | `#253024` | Verified badge bg |
-| Red bg | `#352222` | Closed badge bg |
-| Blue bg | `#222a38` | Notable badge bg |
+| Coral bg | `#fff1ee` | Cuisine tags, protégé badges |
+| Coral border | `#f5b8ad` | Tag borders |
+| Green bg | `#f0fdf4` | Verified badge bg |
+| Green border | `#bbf7d0` | Verified badge border |
+| Red bg | `#fef2f2` | Closed badge bg |
+| Red border | `#fecaca` | Closed badge border |
+| Blue bg | `#eff6ff` | Notable badge bg |
+| Blue border | `#bfdbfe` | Notable badge border |
 
 ### Contrast Ratios (WCAG)
 
 | Pair | Ratio | Grade |
 |------|-------|-------|
-| Primary text on Background | 14.2:1 | AAA |
-| Primary text on Surface | 11.7:1 | AAA |
-| Secondary text on Background | 6.1:1 | AA |
-| Accent on Background | 5.8:1 | AA |
-| Accent on Surface | 4.9:1 | AA large text |
+| Primary text on Background | 15.4:1 | AAA |
+| Primary text on Surface | 16.8:1 | AAA |
+| Secondary text on Surface | 4.9:1 | AA large text |
+| Coral accent on Surface | 4.6:1 | AA large text |
+| Coral accent on Background | 4.3:1 | AA large text |
 
 ### Rules
 
-- Never use pure black (`#000`) or pure white (`#fff`). Every value carries warmth.
-- The accent brass is the only "color" on most pages. Stars are the exception.
-- Badge backgrounds use the semantic color at ~10% opacity equivalent (dark tinted versions). Text uses the semantic color at full saturation.
-- Cards must visibly lift off the background. Minimum ~25 RGB points of separation.
+- Background is warm cream (`#f9f8f6`), not sterile white. Cards are true white — the contrast creates lift.
+- Coral is the only chromatic accent on most pages. Stars (gold) and badges (green/red/blue) are the exceptions.
+- Badge backgrounds use the semantic color at very low opacity. Text uses the semantic color at full saturation.
+- One color does all the work. Everything else is warm neutrals.
 
 ---
 
@@ -140,26 +143,30 @@ Both loaded via `next/font/google`. Geist is a contemporary geometric sans-serif
 
 ### Cards (index pages)
 
-Surface background, 1px border (stone-200), 8px radius. Hover: border warms to amber-200, subtle shadow. Content: title + cuisine tags + signal line. Transition: `transition-all`.
+White surface, 1px warm border, 8px radius. Hover: border warms to coral tint, subtle shadow. Content: title + cuisine tags + signal line. Transition: `transition-all`.
 
 ### Signal Line
 
 The one-line summary answering "why is this entity in the database?" Always below the title.
 
 - **Chef signals:** Current restaurant + stars + mentor lineage + protégé count
-- **Restaurant signals:** Neighborhood + alumni stats + group affiliation
+- **Restaurant signals:** Neighborhood + alumni stats + group affiliation + capital backing
 
 ### Tags/Chips
 
-Full-radius pill, amber tint bg, amber border, amber text. Used for cuisine tags and tier badges.
+Full-radius pill, light coral bg, coral border, coral text. Used for cuisine tags and tier badges.
 
 ### Protégé Count Badge
 
-Circular amber badge, right-aligned on card. The number is the hook — tells you someone has influence before you click.
+Circular coral badge, right-aligned on card. The number is the hook — tells you someone has influence before you click.
 
 ### "→ where they went" Pattern
 
-On restaurant diaspora and chef protégé sections. Right-aligned link showing the alum's current restaurant. Dim text, warms on hover. This is the connective tissue that makes the database a discovery engine.
+On restaurant diaspora and chef protégé sections. Right-aligned link showing the alum's current restaurant. Muted text, warms to coral on hover. This is the connective tissue that makes the database a discovery engine.
+
+### Capital Section
+
+On restaurant detail pages when investment/ownership stakes exist. Shows investor name, role, year. On groups page: "Backed by" (incoming stakes) and "Investments" (outgoing stakes).
 
 ### Section Labels
 
@@ -171,33 +178,32 @@ On restaurant diaspora and chef protégé sections. Right-aligned link showing t
 
 ### Social / Share Cards
 - **Dimensions:** 1200×630px (OG image standard)
-- **Background:** Dark Walnut background (#141210)
+- **Background:** White (`#ffffff`) or warm cream (`#f9f8f6`)
 - **Typography:** Geist Sans, Display size for chef/restaurant name, Body for signal line
-- **Accent:** Brass for emphasis elements
+- **Accent:** Coral for emphasis elements
 - **Include:** Chef name, signal line, data visualization element (protégé count or lineage preview)
 
 ### Print Reference Sheets
 - **Dimensions:** Letter (8.5×11")
-- **Color option A:** Surface bg (#2d2a23) with cream text — matches digital
-- **Color option B:** Invert to cream bg (#ede8df) with charcoal text — for print economy
+- **Background:** White or warm cream — matches digital
+- **Text:** Primary dark (`#1c1917`)
 - **Typography:** Maintain full type hierarchy. Geist exports clean to PDF.
 
 ### Presentation Slides
 - **Dimensions:** 16:9 (1920×1080)
-- **Background:** #141210 for slides, Surface for content blocks
-- **Accent:** Brass for emphasis
+- **Background:** White or warm cream, coral accent for emphasis
 - **Rule:** Max 3 type sizes per slide
 
 ### Data Visualizations
-- **Connections:** Brass (#c9a66c)
-- **Labels:** Secondary text (#9e978a)
-- **Highlights:** Star gold (#e5b94e)
-- **Nodes:** Surface bg with border
-- **Rule:** Visualization on background layer, text on surface cards
+- **Connections:** Coral (`#e8614d`)
+- **Labels:** Secondary text (`#78716c`)
+- **Highlights:** Star gold (`#eab308`)
+- **Nodes:** White surface with border
+- **Rule:** Visualization on cream background layer, text on white surface cards
 
 ### Email / Newsletter
-- **Background:** Surface (#2d2a23) for header
-- **Fallback:** Dark neutral for email clients that strip custom colors
-- **Links:** Brass (#c9a66c)
+- **Background:** White (`#ffffff`) for content area
+- **Header accent:** Coral (`#e8614d`)
+- **Links:** Coral (`#e8614d`)
 - **Max width:** 600px
 - **Styles:** Inline only
