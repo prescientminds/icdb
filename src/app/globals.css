@@ -1,14 +1,14 @@
 @import "tailwindcss";
 
 :root {
-  --background: #141210;
-  --foreground: #ede8df;
-  --accent: #c9a66c;
-  --muted: #9e978a;
-  --border: #4a453b;
-  --card: #2d2a23;
-  --verified: #6a9e66;
-  --star: #e5b94e;
+  --background: #f9f8f6;
+  --foreground: #1c1917;
+  --accent: #e8614d;
+  --muted: #78716c;
+  --border: #e7e5e4;
+  --card: #ffffff;
+  --verified: #16a34a;
+  --star: #eab308;
 }
 
 @theme inline {
@@ -17,46 +17,46 @@
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 
-  /* Card/panel surface — visible lift off background */
-  --color-surface: #2d2a23;
+  /* White cards on warm cream background */
+  --color-surface: #ffffff;
 
-  /* Stone — warm dark mode */
-  --color-stone-50: #363229;
-  --color-stone-100: #3d3931;
-  --color-stone-200: #4a453b;
-  --color-stone-300: #585244;
-  --color-stone-400: #706a5e;
-  --color-stone-500: #9e978a;
-  --color-stone-600: #b5ae9f;
-  --color-stone-700: #ccc5b4;
-  --color-stone-800: #ddd6c6;
-  --color-stone-900: #ede8df;
+  /* Stone — warm light mode */
+  --color-stone-50: #f5f4f0;
+  --color-stone-100: #efedea;
+  --color-stone-200: #e7e5e4;
+  --color-stone-300: #d6d3d1;
+  --color-stone-400: #a8a29e;
+  --color-stone-500: #78716c;
+  --color-stone-600: #57534e;
+  --color-stone-700: #44403c;
+  --color-stone-800: #292524;
+  --color-stone-900: #1c1917;
 
-  /* Amber — antique brass / California gold */
-  --color-amber-50: #38322a;
-  --color-amber-200: #6b5838;
-  --color-amber-700: #c9a66c;
-  --color-amber-800: #d4b07a;
+  /* Amber → Coral — the splash of color */
+  --color-amber-50: #fff1ee;
+  --color-amber-200: #f5b8ad;
+  --color-amber-700: #e8614d;
+  --color-amber-800: #d4533f;
 
-  /* Green — verified badge */
-  --color-green-50: #253024;
-  --color-green-200: #2d4a2a;
-  --color-green-700: #6a9e66;
+  /* Green — verified */
+  --color-green-50: #f0fdf4;
+  --color-green-200: #bbf7d0;
+  --color-green-700: #16a34a;
 
-  /* Red — closed / error */
-  --color-red-50: #352222;
-  --color-red-200: #4a2a2a;
-  --color-red-400: #c47070;
-  --color-red-500: #b86060;
-  --color-red-700: #c47070;
+  /* Red — closed */
+  --color-red-50: #fef2f2;
+  --color-red-200: #fecaca;
+  --color-red-400: #f87171;
+  --color-red-500: #ef4444;
+  --color-red-700: #b91c1c;
 
-  /* Blue — notable tier badge */
-  --color-blue-50: #222a38;
-  --color-blue-200: #2a3a5a;
-  --color-blue-700: #6a8ec0;
+  /* Blue — notable tier */
+  --color-blue-50: #eff6ff;
+  --color-blue-200: #bfdbfe;
+  --color-blue-700: #1d4ed8;
 
   /* Yellow — Michelin stars */
-  --color-yellow-500: #e5b94e;
+  --color-yellow-500: #eab308;
 }
 
 body {
