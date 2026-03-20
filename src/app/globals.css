@@ -5,8 +5,8 @@
   --foreground: #ede8df;
   --accent: #c9a66c;
   --muted: #9e978a;
-  --border: #33302b;
-  --card: #1e1c18;
+  --border: #4a453b;
+  --card: #2d2a23;
   --verified: #6a9e66;
   --star: #e5b94e;
 }
@@ -17,14 +17,14 @@
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 
-  /* Custom surface color for cards/panels */
-  --color-surface: #1e1c18;
+  /* Card/panel surface — visible lift off background */
+  --color-surface: #2d2a23;
 
-  /* Stone — warm dark mode (inverted scale) */
-  --color-stone-50: #242220;
-  --color-stone-100: #2a2826;
-  --color-stone-200: #33302b;
-  --color-stone-300: #443f38;
+  /* Stone — warm dark mode */
+  --color-stone-50: #363229;
+  --color-stone-100: #3d3931;
+  --color-stone-200: #4a453b;
+  --color-stone-300: #585244;
   --color-stone-400: #706a5e;
   --color-stone-500: #9e978a;
   --color-stone-600: #b5ae9f;
@@ -33,25 +33,25 @@
   --color-stone-900: #ede8df;
 
   /* Amber — antique brass / California gold */
-  --color-amber-50: #2a2520;
-  --color-amber-200: #5c4a30;
+  --color-amber-50: #38322a;
+  --color-amber-200: #6b5838;
   --color-amber-700: #c9a66c;
   --color-amber-800: #d4b07a;
 
   /* Green — verified badge */
-  --color-green-50: #1a2619;
+  --color-green-50: #253024;
   --color-green-200: #2d4a2a;
   --color-green-700: #6a9e66;
 
   /* Red — closed / error */
-  --color-red-50: #2a1919;
+  --color-red-50: #352222;
   --color-red-200: #4a2a2a;
   --color-red-400: #c47070;
   --color-red-500: #b86060;
   --color-red-700: #c47070;
 
   /* Blue — notable tier badge */
-  --color-blue-50: #19202a;
+  --color-blue-50: #222a38;
   --color-blue-200: #2a3a5a;
   --color-blue-700: #6a8ec0;
 
