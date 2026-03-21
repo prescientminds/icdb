@@ -1681,7 +1681,7 @@
     "id": "rest_glasserie",
     "name": "Glasserie",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Greenpoint",
     "state": "NY",
     "cuisine_tags": [
@@ -4324,7 +4324,7 @@
     "id": "rest_reynard",
     "name": "Reynard",
     "address": null,
-    "city": "Brooklyn, NY",
+    "city": "New York",
     "neighborhood": null,
     "state": "NY",
     "cuisine_tags": [
@@ -8656,7 +8656,7 @@
     "id": "rest_sailor",
     "name": "Sailor",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Fort Greene",
     "state": "NY",
     "cuisine_tags": [
@@ -8920,7 +8920,7 @@
     "id": "rest_the_four_horsemen",
     "name": "The Four Horsemen",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Williamsburg",
     "state": "NY",
     "cuisine_tags": [
@@ -8965,7 +8965,7 @@
     "id": "rest_olmsted",
     "name": "Olmsted",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Prospect Heights",
     "state": "NY",
     "cuisine_tags": [
@@ -9454,7 +9454,7 @@
     "id": "rest_oxomoco",
     "name": "Oxomoco",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Greenpoint",
     "state": "NY",
     "cuisine_tags": [
@@ -9670,7 +9670,7 @@
     "id": "rest_ilis",
     "name": "Ilis",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Greenpoint",
     "state": "NY",
     "cuisine_tags": [
@@ -9734,7 +9734,7 @@
     "id": "rest_the_good_fork",
     "name": "The Good Fork",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Red Hook",
     "state": "NY",
     "cuisine_tags": [
@@ -9755,7 +9755,7 @@
     "id": "rest_insa",
     "name": "Insa",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Gowanus",
     "state": "NY",
     "cuisine_tags": [
@@ -9776,7 +9776,7 @@
     "id": "rest_gage_tollner",
     "name": "Gage & Tollner",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Downtown Brooklyn",
     "state": "NY",
     "cuisine_tags": [
@@ -10118,7 +10118,7 @@
     "id": "rest_shota_omakase",
     "name": "Shota Omakase",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Williamsburg",
     "state": "NY",
     "cuisine_tags": [
@@ -10254,7 +10254,7 @@
     "id": "rest_dept_of_culture",
     "name": "Dept of Culture",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Bed-Stuy",
     "state": "NY",
     "cuisine_tags": [
@@ -10462,7 +10462,7 @@
     "id": "rest_clover_hill",
     "name": "Clover Hill",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Brooklyn Heights",
     "state": "NY",
     "cuisine_tags": [
@@ -10507,7 +10507,7 @@
     "id": "rest_aska",
     "name": "Aska",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Williamsburg",
     "state": "NY",
     "cuisine_tags": [
@@ -10898,7 +10898,7 @@
     "id": "rest_sofreh",
     "name": "Sofreh",
     "address": null,
-    "city": "Brooklyn",
+    "city": "New York",
     "neighborhood": "Prospect Heights",
     "state": "NY",
     "cuisine_tags": [
@@ -11030,7 +11030,7 @@
     "id": "rest_hellbender",
     "name": "Hellbender",
     "address": null,
-    "city": "Queens",
+    "city": "New York",
     "neighborhood": "Ridgewood",
     "state": "NY",
     "cuisine_tags": [
