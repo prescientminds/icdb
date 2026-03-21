@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[4959,["/irdb/_next/static/chunks/4a18a2d5f22ce3b3.js","/irdb/_next/static/chunks/aa94877215d23f5e.js"],"ViewportBoundary"]
+3:I[4959,["/irdb/_next/static/chunks/4a18a2d5f22ce3b3.js","/irdb/_next/static/chunks/aa94877215d23f5e.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[3156,["/irdb/_next/static/chunks/4a18a2d5f22ce3b3.js","/irdb/_next/static/chunks/aa94877215d23f5e.js"],"IconMark"]
+0:{"buildId":"XAlIVF1_cDw3dP7Zooobw","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"IRDB — Internet Restaurant Database"}],["$","meta","1",{"name":"description","content":"The pedigree and lineage of chefs, mapped."}],["$","link","2",{"rel":"icon","href":"/irdb/favicon.ico?favicon.0b3bf435.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
