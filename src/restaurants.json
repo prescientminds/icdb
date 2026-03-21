@@ -7718,7 +7718,7 @@
     "group_id": null,
     "ratings": {
       "jbf": [
-        "Outstanding Restaurateur 2025 (winner)"
+        "Best New Restaurant 2019"
       ]
     },
     "website": null
@@ -8202,9 +8202,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 3
+    "ratings": {
+      "michelin_stars": 3,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_blue_smoke",
@@ -8288,9 +8290,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_neta",
@@ -8332,9 +8336,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_mari",
@@ -8354,9 +8360,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_momofuku_ma_peche",
@@ -8461,9 +8469,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_rezdora",
@@ -8484,9 +8494,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_contra",
@@ -8528,9 +8540,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_jeju_noodle_bar",
@@ -8550,9 +8564,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_junoon",
@@ -8675,9 +8691,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_morimoto",
@@ -8846,9 +8864,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_the_nomad",
@@ -8890,9 +8910,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_the_four_horsemen",
@@ -8912,9 +8934,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_sunns",
@@ -9226,9 +9250,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_kitcho",
@@ -9290,9 +9316,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_oiji",
@@ -9333,9 +9361,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_claud",
@@ -9438,9 +9468,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_an_american_place",
@@ -9480,9 +9512,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_empellon",
@@ -9545,9 +9579,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 3
+    "ratings": {
+      "michelin_stars": 3,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_torrisi_italian_specialties",
@@ -9754,9 +9790,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_felidia",
@@ -9856,9 +9894,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_adda",
@@ -9960,9 +10000,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_sushi_ichimura",
@@ -10003,9 +10045,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_hatsuhana",
@@ -10089,9 +10133,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_hags",
@@ -10134,9 +10180,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 2
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_sakamai",
@@ -10196,9 +10244,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_dept_of_culture",
@@ -10381,9 +10431,11 @@
     "seats": null,
     "format": null,
     "group_id": null,
-    "ratings": {},
-    "website": null,
-    "michelin_stars": 1
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
   },
   {
     "id": "rest_cynthia",
@@ -10398,6 +10450,595 @@
     ],
     "status": "open",
     "open_year": 2026,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_clover_hill",
+    "name": "Clover Hill",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Brooklyn Heights",
+    "state": "NY",
+    "cuisine_tags": [
+      "contemporary-american",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2022,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_corton",
+    "name": "Corton",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_aska",
+    "name": "Aska",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Williamsburg",
+    "state": "NY",
+    "cuisine_tags": [
+      "nordic",
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "status": "open",
+    "open_year": 2012,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_atera",
+    "name": "Atera",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "contemporary",
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_kajitsu",
+    "name": "Kajitsu",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Murray Hill",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "kaiseki",
+      "shojin"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_odo",
+    "name": "Odo",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "kaiseki",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_sushiden",
+    "name": "Sushiden",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_sushi_noz",
+    "name": "Sushi Noz",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Upper East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "status": "open",
+    "open_year": 2018,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_noz_17",
+    "name": "Noz 17",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_balthazar",
+    "name": "Balthazar",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "SoHo",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "bistro"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_pastis",
+    "name": "Pastis",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Meatpacking",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "bistro"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_minetta_tavern",
+    "name": "Minetta Tavern",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Greenwich Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "american"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_le_rock",
+    "name": "Le Rock",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "brasserie"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_batard",
+    "name": "Batard",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_koloman",
+    "name": "Koloman",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "NoMad",
+    "state": "NY",
+    "cuisine_tags": [
+      "austrian",
+      "central-european"
+    ],
+    "status": "open",
+    "open_year": 2024,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "jbf": [
+        "Best New Restaurant 2015 (as Bâtard)"
+      ]
+    },
+    "website": null
+  },
+  {
+    "id": "rest_essential_by_christophe",
+    "name": "Essential by Christophe",
+    "address": null,
+    "city": "New York",
+    "neighborhood": null,
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_sushi_amane",
+    "name": "Sushi Amane",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_shion_69_leonard",
+    "name": "Shion 69 Leonard",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_frevo",
+    "name": "Frevo",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_sofreh",
+    "name": "Sofreh",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Prospect Heights",
+    "state": "NY",
+    "cuisine_tags": [
+      "persian",
+      "middle-eastern"
+    ],
+    "status": "open",
+    "open_year": 2018,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "jbf": [
+        "Best Chef: NY finalist 2025"
+      ]
+    },
+    "website": null
+  },
+  {
+    "id": "rest_lysee",
+    "name": "Lysee",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "pastry",
+      "korean-french"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_dame",
+    "name": "Dame",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "seafood",
+      "coastal"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_lords",
+    "name": "Lord's",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "british"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_king",
+    "name": "King",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "SoHo",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian",
+      "seasonal"
+    ],
+    "status": "open",
+    "open_year": 2016,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_tuome",
+    "name": "Tuome",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "chinese-american",
+      "contemporary"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_hellbender",
+    "name": "Hellbender",
+    "address": null,
+    "city": "Queens",
+    "neighborhood": "Ridgewood",
+    "state": "NY",
+    "cuisine_tags": [
+      "mexican-american",
+      "contemporary"
+    ],
+    "status": "open",
+    "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,

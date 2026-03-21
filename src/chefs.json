@@ -8471,5 +8471,426 @@
     "status": "active",
     "tier": "lineage",
     "education": []
+  },
+  {
+    "id": "chef_charlie_mitchell",
+    "name": {
+      "first": "Charlie",
+      "last": "Mitchell",
+      "display": "Charlie Mitchell",
+      "nickname": null
+    },
+    "bio": "JBF Best Chef: NY State 2024. First Black Michelin-starred chef in NYC. Trained at EMP, Per Se, Benu, and Blue Hill.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "contemporary-american",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_fredrik_berselius",
+    "name": {
+      "first": "Fredrik",
+      "last": "Berselius",
+      "display": "Fredrik Berselius",
+      "nickname": null
+    },
+    "bio": "Two Michelin stars at Aska. Pioneered Nordic cuisine in NYC. Trained at Aquavit, Per Se, and Corton.",
+    "birth_year": null,
+    "birth_country": "SE",
+    "birth_city": null,
+    "cuisine_tags": [
+      "nordic",
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_ronny_emborg",
+    "name": {
+      "first": "Ronny",
+      "last": "Emborg",
+      "display": "Ronny Emborg",
+      "nickname": null
+    },
+    "bio": "Two Michelin stars at Atera. Danish training: elBulli, Mugaritz, Geranium, Restaurant AOC, Danish Royal Yacht.",
+    "birth_year": null,
+    "birth_country": "DK",
+    "birth_city": null,
+    "cuisine_tags": [
+      "nordic",
+      "contemporary",
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_hiroki_odo",
+    "name": {
+      "first": "Hiroki",
+      "last": "Odo",
+      "display": "Hiroki Odo",
+      "nickname": null
+    },
+    "bio": "Two Michelin stars, NYT 3 stars at Odo. Kaiseki innovator. Trained at Kyoto Wakuden and Kajitsu NYC.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "kaiseki",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_nozomu_abe",
+    "name": {
+      "first": "Nozomu",
+      "last": "Abe",
+      "display": "Nozomu Abe",
+      "nickname": null
+    },
+    "bio": "Two Michelin stars at Sushi Noz. Also runs 1-star Noz 17. Trained in Sapporo and Tokyo.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_lee_hanson",
+    "name": {
+      "first": "Lee",
+      "last": "Hanson",
+      "display": "Lee Hanson",
+      "nickname": null
+    },
+    "bio": "JBF Outstanding Restaurateur 2025. Co-chef at Frenchette (JBF Best New Restaurant 2019). Trained at Daniel, Balthazar, and Pastis under McNally.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "bistro"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_markus_glocker",
+    "name": {
+      "first": "Markus",
+      "last": "Glocker",
+      "display": "Markus Glocker",
+      "nickname": null
+    },
+    "bio": "JBF Best New Restaurant 2015 (Bâtard). Trained under Charlie Trotter and Gordon Ramsay. Michelin star at Bâtard, NYT 3 stars.",
+    "birth_year": null,
+    "birth_country": "AT",
+    "birth_city": "Salzburg, Austria",
+    "cuisine_tags": [
+      "austrian",
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_christophe_bellanca",
+    "name": {
+      "first": "Christophe",
+      "last": "Bellanca",
+      "display": "Christophe Bellanca",
+      "nickname": null
+    },
+    "bio": "Michelin star at Essential by Christophe. JBF 2026 semifinalist. Trained under Anne-Sophie Pic (6 years), Georges Blanc, Régis Marcon, Le Cirque.",
+    "birth_year": null,
+    "birth_country": "FR",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_shion_uino",
+    "name": {
+      "first": "Shion",
+      "last": "Uino",
+      "display": "Shion Uino",
+      "nickname": null
+    },
+    "bio": "Michelin star at Shion 69 Leonard. Trained 8 years at 3-star Sushi Saito (Tokyo). Considered one of NYC's top sushi masters.",
+    "birth_year": null,
+    "birth_country": "JP",
+    "birth_city": null,
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_franco_sampogna",
+    "name": {
+      "first": "Franco",
+      "last": "Sampogna",
+      "display": "Franco Sampogna",
+      "nickname": null
+    },
+    "bio": "Michelin star at Frevo. JBF semifinalist. Trained under Alain Ducasse and Guy Savoy. Brazilian-born, decade in Paris.",
+    "birth_year": null,
+    "birth_country": "BR",
+    "birth_city": null,
+    "cuisine_tags": [
+      "french",
+      "fine-dining",
+      "contemporary"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_nasim_alikhani",
+    "name": {
+      "first": "Nasim",
+      "last": "Alikhani",
+      "display": "Nasim Alikhani",
+      "nickname": null
+    },
+    "bio": "JBF finalist Best Chef: NY (2025). Pioneer of Persian fine dining in NYC at Sofreh. ICC graduate.",
+    "birth_year": null,
+    "birth_country": "IR",
+    "birth_city": "Isfahan, Iran",
+    "cuisine_tags": [
+      "persian",
+      "middle-eastern"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "notable",
+    "education": [
+      {
+        "institution": "International Culinary Center",
+        "city": "New York, NY",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_eunji_lee",
+    "name": {
+      "first": "Eunji",
+      "last": "Lee",
+      "display": "Eunji Lee",
+      "nickname": null
+    },
+    "bio": "F&W Best New Chef 2023. JBF Outstanding Pastry Chef 2026 semifinalist. Trained under Cédric Grolet at Le Meurice (3★) and executive pastry chef at Jungsik.",
+    "birth_year": null,
+    "birth_country": "KR",
+    "birth_city": null,
+    "cuisine_tags": [
+      "pastry",
+      "korean-french"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": [
+      {
+        "institution": "Institut National de la Boulangerie Pâtisserie",
+        "city": "Rouen, France",
+        "year": null,
+        "credential": null
+      },
+      {
+        "institution": "École Ferrandi",
+        "city": "Paris, France",
+        "year": null,
+        "credential": null
+      }
+    ]
+  },
+  {
+    "id": "chef_ed_szymanski",
+    "name": {
+      "first": "Ed",
+      "last": "Szymanski",
+      "display": "Ed Szymanski",
+      "nickname": null
+    },
+    "bio": "F&W Best New Chef 2023. Trained at The Spotted Pig, head chef at Beatrice Inn, 2-star NYT at Cherry Point.",
+    "birth_year": null,
+    "birth_country": "GB",
+    "birth_city": null,
+    "cuisine_tags": [
+      "seafood",
+      "british",
+      "coastal"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_clare_de_boer",
+    "name": {
+      "first": "Clare",
+      "last": "de Boer",
+      "display": "Clare de Boer",
+      "nickname": null
+    },
+    "bio": "NYT 100 Best (#6). Trained at The River Cafe London under Ruth Rogers. Co-chef/owner of King.",
+    "birth_year": null,
+    "birth_country": "GB",
+    "birth_city": null,
+    "cuisine_tags": [
+      "italian",
+      "seasonal"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_thomas_chen",
+    "name": {
+      "first": "Thomas",
+      "last": "Chen",
+      "display": "Thomas Chen",
+      "nickname": null
+    },
+    "bio": "Michelin star at Tuome for 5+ years. Trained at Jean-Georges and EMP. First-gen Chinese-American fine dining.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "chinese-american",
+      "contemporary",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_yara_herrera",
+    "name": {
+      "first": "Yara",
+      "last": "Herrera",
+      "display": "Yara Herrera",
+      "nickname": null
+    },
+    "bio": "NYT 100 Best 2025. StarChefs Rising Star 2025. Trained at Spago under Puck and Providence under Cimarusti.",
+    "birth_year": null,
+    "birth_country": "MX",
+    "birth_city": null,
+    "cuisine_tags": [
+      "mexican-american",
+      "contemporary"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
+  },
+  {
+    "id": "chef_jassimran_singh",
+    "name": {
+      "first": "Jassimran",
+      "last": "Singh",
+      "display": "Jassimran Singh",
+      "nickname": null
+    },
+    "bio": "Michelin star at Crown Shy. NYT 100 Best.",
+    "birth_year": null,
+    "birth_country": "US",
+    "birth_city": null,
+    "cuisine_tags": [
+      "contemporary-american",
+      "fine-dining"
+    ],
+    "photo_url": null,
+    "instagram": null,
+    "website": null,
+    "status": "active",
+    "tier": "lineage",
+    "education": []
   }
 ]
