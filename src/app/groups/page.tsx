@@ -1,7 +1,15 @@
+"use client";
 import Link from "next/link";
 import { groups, restaurants, stops, chefs, getStakesForTarget, getStakesForInvestor } from "@/lib/data";
+import { useCity } from "@/components/CityContext";
 
 export default function GroupsPage() {
+  const { selectedCity } = useCity();
+
+  const filtered = selectedCity
+    ? groups.filter((g) => g.city === selectedCity)
+    : groups;
+
   return (
     <div>
       <h1 className="text-3xl font-bold tracking-tight text-stone-900 mb-2">
@@ -9,11 +17,11 @@ export default function GroupsPage() {
       </h1>
       <p className="text-stone-500 mb-8 max-w-xl">
         Who backs which restaurants. Development companies, hospitality groups,
-        and the investors behind LA dining.
+        and the investors behind {selectedCity || ""} dining.
       </p>
 
       <div className="space-y-6">
-        {groups.map((group) => {
+        {filtered.map((group) => {
           const portfolio = restaurants.filter(
             (r) => r.group_id === group.id
           );
@@ -37,7 +45,7 @@ export default function GroupsPage() {
               </div>
 
               <div className="text-sm text-stone-500 mt-1">
-                Key people: {group.key_people.join(", ")}
+                Key people: {group.key_people?.join(", ")}
               </div>
 
               {group.description && (
@@ -99,7 +107,6 @@ export default function GroupsPage() {
                 </div>
               )}
 
-              {/* Incoming stakes — who invests in this group */}
               {(() => {
                 const incomingStakes = getStakesForTarget(group.id);
                 if (incomingStakes.length === 0) return null;
@@ -128,7 +135,6 @@ export default function GroupsPage() {
                 );
               })()}
 
-              {/* Outgoing stakes — what this group invests in */}
               {(() => {
                 const outgoingStakes = getStakesForInvestor(group.id);
                 if (outgoingStakes.length === 0) return null;

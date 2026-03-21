@@ -8,8 +8,7 @@
     "state": "CA",
     "cuisine_tags": [
       "seafood",
-      "california",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 2005,
@@ -29,7 +28,8 @@
         "World's 50 Best North America 2025"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_connie_teds",
@@ -40,8 +40,7 @@
     "state": "CA",
     "cuisine_tags": [
       "seafood",
-      "new-england",
-      "casual"
+      "new-england"
     ],
     "status": "open",
     "open_year": 2013,
@@ -51,7 +50,8 @@
     "format": "casual",
     "group_id": "group_cimarusti",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_nnaka",
@@ -62,8 +62,7 @@
     "state": "CA",
     "cuisine_tags": [
       "kaiseki",
-      "japanese",
-      "fine-dining"
+      "japanese"
     ],
     "status": "open",
     "open_year": 2011,
@@ -82,7 +81,8 @@
         "Netflix Chef's Table S1E4"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_nsoto",
@@ -106,18 +106,18 @@
       "michelin_stars": 1,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_pasjoli",
     "name": "Pasjoli",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "bistro"
+      "french"
     ],
     "status": "open",
     "open_year": 2019,
@@ -133,18 +133,19 @@
         "Best Chef: California 2026 (semifinalist)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_seline",
     "name": "Seline",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
-      "tasting-menu",
-      "fine-dining"
+      "progressive",
+      "seasonal"
     ],
     "status": "open",
     "open_year": 2024,
@@ -154,7 +155,8 @@
     "format": "tasting-menu",
     "group_id": "group_beran",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_somni",
@@ -165,8 +167,7 @@
     "state": "CA",
     "cuisine_tags": [
       "avant-garde",
-      "spanish",
-      "tasting-menu"
+      "spanish"
     ],
     "status": "open",
     "open_year": 2024,
@@ -191,8 +192,7 @@
     "state": "CA",
     "cuisine_tags": [
       "avant-garde",
-      "spanish",
-      "tasting-menu"
+      "spanish"
     ],
     "status": "closed",
     "open_year": 2018,
@@ -205,7 +205,8 @@
       "michelin_stars": 2,
       "michelin_year": 2019
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_kato",
@@ -216,8 +217,7 @@
     "state": "CA",
     "cuisine_tags": [
       "taiwanese",
-      "californian",
-      "tasting-menu"
+      "californian"
     ],
     "status": "open",
     "open_year": 2016,
@@ -249,8 +249,7 @@
     "state": "CA",
     "cuisine_tags": [
       "avant-garde",
-      "multi-sensory",
-      "fine-dining"
+      "multi-sensory"
     ],
     "status": "open",
     "open_year": 2017,
@@ -274,7 +273,8 @@
     "neighborhood": null,
     "state": "CA",
     "cuisine_tags": [
-      "fine-dining"
+      "progressive",
+      "multi-sensory"
     ],
     "status": "open",
     "open_year": 2022,
@@ -287,7 +287,8 @@
       "michelin_stars": 1,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_destroyer",
@@ -308,7 +309,8 @@
     "format": "casual",
     "group_id": "group_kahn",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_restaurant_ki",
@@ -318,9 +320,7 @@
     "neighborhood": "Little Tokyo",
     "state": "CA",
     "cuisine_tags": [
-      "korean",
-      "fine-dining",
-      "tasting-menu"
+      "korean"
     ],
     "status": "open",
     "open_year": 2025,
@@ -336,7 +336,8 @@
         "Michelin Young Chef Award California 2025"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_bestia",
@@ -356,12 +357,12 @@
     "format": "a-la-carte",
     "group_id": "group_menashe_gergis",
     "ratings": {
-      "michelin_bib_gourmand": true,
       "jbf": [],
       "other": [
         "F&W Best New Chef 2015 (Ori Menashe)",
         "Bon Appetit Top 10"
-      ]
+      ],
+      "bib_gourmand": true
     },
     "website": null,
     "notes": "Sprout LA (Bill Chait) involved in early development."
@@ -390,7 +391,8 @@
         "Bon Appetit #1 Best New Restaurant in America 2018"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_saffys",
@@ -400,8 +402,7 @@
     "neighborhood": "Arts District",
     "state": "CA",
     "cuisine_tags": [
-      "mediterranean",
-      "casual"
+      "mediterranean"
     ],
     "status": "open",
     "open_year": 2022,
@@ -411,7 +412,8 @@
     "format": "casual",
     "group_id": "group_menashe_gergis",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_osteria_mozza",
@@ -421,8 +423,7 @@
     "neighborhood": "Hancock Park",
     "state": "CA",
     "cuisine_tags": [
-      "italian",
-      "fine-dining"
+      "italian"
     ],
     "status": "open",
     "open_year": 2007,
@@ -435,7 +436,8 @@
       "michelin_stars": 1,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_pizzeria_mozza",
@@ -456,7 +458,8 @@
     "format": "casual",
     "group_id": "group_bb_hospitality",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_chi_spacca",
@@ -478,7 +481,8 @@
     "format": "a-la-carte",
     "group_id": "group_bb_hospitality",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_campanile",
@@ -548,7 +552,8 @@
         "Outstanding Restaurant 2026 (semifinalist)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_dunsmoor",
@@ -574,7 +579,8 @@
         "Best Chef: California 2026 (semifinalist)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_hatchet_hall",
@@ -611,8 +617,7 @@
     "cuisine_tags": [
       "kaiseki",
       "kappo",
-      "japanese",
-      "fine-dining"
+      "japanese"
     ],
     "status": "open",
     "open_year": 2018,
@@ -625,7 +630,8 @@
       "michelin_stars": 2,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_88_club",
@@ -635,8 +641,7 @@
     "neighborhood": "Beverly Hills",
     "state": "CA",
     "cuisine_tags": [
-      "chinese",
-      "fine-dining"
+      "chinese"
     ],
     "status": "open",
     "open_year": 2025,
@@ -658,8 +663,7 @@
     "state": "CA",
     "cuisine_tags": [
       "szechuan",
-      "fried-chicken",
-      "casual"
+      "fried-chicken"
     ],
     "status": "open",
     "open_year": null,
@@ -669,7 +673,8 @@
     "format": "casual",
     "group_id": "group_francis_miranda",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_nightshade",
@@ -723,9 +728,10 @@
         "Outstanding Chef 2026 (semifinalist)",
         "Finalist 2023"
       ],
-      "michelin_bib_gourmand": true
+      "bib_gourmand": true
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_chichen_itza",
@@ -746,7 +752,8 @@
     "format": "counter",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_komal",
@@ -768,16 +775,17 @@
     "format": "counter",
     "group_id": null,
     "ratings": {
-      "michelin_bib_gourmand": true,
       "jbf": [
         "Emerging Chef 2026 (semifinalist)"
       ],
       "other": [
         "Eater: 15 Best Restaurants in America 2025",
         "Bon Appetit Best New 2025"
-      ]
+      ],
+      "bib_gourmand": true
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_morihiro",
@@ -788,7 +796,6 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "omakase",
       "sushi"
     ],
     "status": "open",
@@ -828,7 +835,8 @@
         "Best Chef: California 2026 (semifinalist)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_ototo",
@@ -849,7 +857,8 @@
     "format": "bar",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_camelia",
@@ -859,8 +868,7 @@
     "neighborhood": "Downtown",
     "state": "CA",
     "cuisine_tags": [
-      "french-japanese",
-      "bistro"
+      "french-japanese"
     ],
     "status": "open",
     "open_year": null,
@@ -870,7 +878,8 @@
     "format": "a-la-carte",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_kismet",
@@ -911,8 +920,7 @@
     "cuisine_tags": [
       "californian",
       "european",
-      "whole-animal",
-      "fine-dining"
+      "whole-animal"
     ],
     "status": "open",
     "open_year": 2016,
@@ -937,7 +945,6 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "omakase",
       "sushi"
     ],
     "status": "open",
@@ -962,9 +969,7 @@
     "neighborhood": null,
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "fine-dining",
-      "tasting-menu"
+      "french"
     ],
     "status": "open",
     "open_year": 1994,
@@ -989,8 +994,7 @@
     "state": "IL",
     "cuisine_tags": [
       "modernist",
-      "avant-garde",
-      "tasting-menu"
+      "avant-garde"
     ],
     "status": "open",
     "open_year": 2005,
@@ -1026,7 +1030,8 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 3
+      "michelin_stars": 3,
+      "michelin_year": 2011
     },
     "website": null,
     "notes": "Ferran Adria. Training ground for Aitor Zabala."
@@ -1040,7 +1045,6 @@
     "state": "NY",
     "cuisine_tags": [
       "farm-to-table",
-      "fine-dining",
       "seasonal"
     ],
     "status": "open",
@@ -1104,12 +1108,12 @@
     "id": "rest_dialogue",
     "name": "Dialogue",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
-      "tasting-menu",
-      "fine-dining"
+      "californian",
+      "progressive"
     ],
     "status": "closed",
     "open_year": 2017,
@@ -1119,7 +1123,8 @@
     "format": "tasting-menu",
     "group_id": "group_beran",
     "ratings": {
-      "michelin_stars": 1
+      "michelin_stars": 1,
+      "michelin_year": 2019
     },
     "website": null,
     "notes": "Dave Beran's first LA restaurant. Closed during COVID."
@@ -1132,8 +1137,7 @@
     "neighborhood": "Koreatown",
     "state": "CA",
     "cuisine_tags": [
-      "korean",
-      "fine-dining"
+      "korean"
     ],
     "status": "closed",
     "open_year": 2021,
@@ -1154,8 +1158,7 @@
     "neighborhood": "Hollywood",
     "state": "CA",
     "cuisine_tags": [
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 1982,
@@ -1165,7 +1168,8 @@
     "format": "a-la-carte",
     "group_id": "group_wolfgang_puck",
     "ratings": {
-      "michelin_stars": 1
+      "michelin_stars": 2,
+      "michelin_year": 2009
     },
     "website": null,
     "notes": "Wolfgang Puck. Training ground for Nancy Silverton (pastry chef) and Michael Cimarusti (chef de cuisine)."
@@ -1200,8 +1204,7 @@
     "neighborhood": "Arts District",
     "state": "CA",
     "cuisine_tags": [
-      "mexican",
-      "fine-dining"
+      "mexican"
     ],
     "status": "open",
     "open_year": 2020,
@@ -1243,8 +1246,7 @@
     "neighborhood": null,
     "state": "NY",
     "cuisine_tags": [
-      "korean",
-      "fine-dining"
+      "korean"
     ],
     "status": "open",
     "open_year": 2012,
@@ -1254,7 +1256,11 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 2
+      "michelin_stars": 3,
+      "michelin_year": 2025,
+      "jbf": [
+        "Outstanding Chef 2025 (winner, Jungsik Yim)"
+      ]
     },
     "website": null,
     "notes": "Training ground for Ki Kim."
@@ -1267,9 +1273,7 @@
     "neighborhood": null,
     "state": "NY",
     "cuisine_tags": [
-      "korean",
-      "fine-dining",
-      "tasting-menu"
+      "korean"
     ],
     "status": "open",
     "open_year": 2018,
@@ -1279,7 +1283,11 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 2
+      "michelin_stars": 2,
+      "michelin_year": 2025,
+      "jbf": [
+        "Outstanding Hospitality 2025 (winner)"
+      ]
     },
     "website": null,
     "notes": "Training ground for Ki Kim."
@@ -1292,8 +1300,7 @@
     "neighborhood": null,
     "state": "NY",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": 1974,
@@ -1314,8 +1321,7 @@
     "neighborhood": "Downtown",
     "state": "CA",
     "cuisine_tags": [
-      "seafood",
-      "fine-dining"
+      "seafood"
     ],
     "status": "open",
     "open_year": 1989,
@@ -1337,8 +1343,7 @@
     "state": null,
     "cuisine_tags": [
       "french",
-      "vegetable-forward",
-      "fine-dining"
+      "vegetable-forward"
     ],
     "status": "open",
     "open_year": 1986,
@@ -1348,7 +1353,8 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 3
+      "michelin_stars": 3,
+      "michelin_year": 2025
     },
     "website": null,
     "notes": "Alain Passard. Training ground for Michael Cimarusti."
@@ -1361,7 +1367,6 @@
     "neighborhood": null,
     "state": "IL",
     "cuisine_tags": [
-      "tasting-menu",
       "conceptual"
     ],
     "status": "open",
@@ -1383,9 +1388,7 @@
     "neighborhood": null,
     "state": "NY",
     "cuisine_tags": [
-      "french",
-      "fine-dining",
-      "tasting-menu"
+      "french"
     ],
     "status": "open",
     "open_year": 2004,
@@ -1395,7 +1398,8 @@
     "format": "tasting-menu",
     "group_id": "group_tkrg",
     "ratings": {
-      "michelin_stars": 3
+      "michelin_stars": 3,
+      "michelin_year": 2025
     },
     "website": null,
     "notes": "Thomas Keller. Training ground for Jordan Kahn."
@@ -1408,9 +1412,7 @@
     "neighborhood": null,
     "state": "CA",
     "cuisine_tags": [
-      "asian-american",
-      "fine-dining",
-      "tasting-menu"
+      "asian-american"
     ],
     "status": "open",
     "open_year": 2010,
@@ -1420,7 +1422,8 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 3
+      "michelin_stars": 3,
+      "michelin_year": 2025
     },
     "website": null,
     "notes": "Corey Lee. Training ground for Jon Yao."
@@ -1433,9 +1436,7 @@
     "neighborhood": null,
     "state": "CA",
     "cuisine_tags": [
-      "californian",
-      "fine-dining",
-      "tasting-menu"
+      "californian"
     ],
     "status": "closed",
     "open_year": 2006,
@@ -1445,7 +1446,8 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 2
+      "michelin_stars": 2,
+      "michelin_year": 2021
     },
     "website": null,
     "notes": "Daniel Patterson. Training ground for Jon Yao."
@@ -1503,8 +1505,7 @@
     "state": "Basque Country",
     "cuisine_tags": [
       "basque",
-      "avant-garde",
-      "fine-dining"
+      "avant-garde"
     ],
     "status": "open",
     "open_year": 1897,
@@ -1514,7 +1515,8 @@
     "format": "a-la-carte",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 3
+      "michelin_stars": 3,
+      "michelin_year": 2025
     },
     "website": null,
     "notes": "Juan Mari Arzak. Training ground for Aitor Zabala."
@@ -1527,8 +1529,7 @@
     "neighborhood": null,
     "state": "Basque Country",
     "cuisine_tags": [
-      "basque",
-      "fine-dining"
+      "basque"
     ],
     "status": "open",
     "open_year": 1970,
@@ -1538,7 +1539,8 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 3
+      "michelin_stars": 3,
+      "michelin_year": 2025
     },
     "website": null,
     "notes": "Pedro Subijana. Training ground for Aitor Zabala."
@@ -1552,8 +1554,7 @@
     "state": null,
     "cuisine_tags": [
       "kaiseki",
-      "japanese",
-      "fine-dining"
+      "japanese"
     ],
     "status": "open",
     "open_year": 1997,
@@ -1563,7 +1564,8 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 3
+      "michelin_stars": 3,
+      "michelin_year": 2025
     },
     "website": null,
     "notes": "Hideki Ishikawa. Training ground for Brandon Hayato Go."
@@ -1598,8 +1600,7 @@
     "neighborhood": null,
     "state": "NV",
     "cuisine_tags": [
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 2018,
@@ -1609,18 +1610,18 @@
     "format": "a-la-carte",
     "group_id": "group_wolfgang_puck",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_michaels",
     "name": "Michael's",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 1979,
@@ -1641,8 +1642,7 @@
     "neighborhood": "Beverly Hills",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "bistro"
+      "french"
     ],
     "status": "closed",
     "open_year": 2009,
@@ -1664,8 +1664,7 @@
     "state": "NY",
     "cuisine_tags": [
       "french",
-      "new-american",
-      "fine-dining"
+      "new-american"
     ],
     "status": "closed",
     "open_year": 1979,
@@ -1708,8 +1707,6 @@
     "neighborhood": "Beverly Hills",
     "state": "CA",
     "cuisine_tags": [
-      "tasting-menu",
-      "fine-dining",
       "seasonal"
     ],
     "status": "closed",
@@ -1720,7 +1717,8 @@
     "format": "tasting-menu",
     "group_id": "group_stone",
     "ratings": {
-      "michelin_stars": 1
+      "michelin_stars": 1,
+      "michelin_year": 2023
     },
     "website": null,
     "notes": "Curtis Stone. Single-ingredient seasonal menus. Converted to The Pie Room Sep 2024."
@@ -1733,8 +1731,7 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": null,
@@ -1744,7 +1741,8 @@
     "format": "a-la-carte",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 3
+      "michelin_stars": 3,
+      "michelin_year": 1999
     },
     "website": null,
     "notes": "Youngest chef to earn 3 Michelin stars (1995). Training ground for Curtis Stone, Gordon Ramsay. Aggregate entry for MPW's London restaurants (Harvey's, The Restaurant, Mirabelle)."
@@ -1758,8 +1756,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "closed",
     "open_year": null,
@@ -1773,29 +1770,6 @@
     "notes": "Morihiro Onodera. Predecessor to current Morihiro."
   },
   {
-    "id": "rest_sushi_ginza_onodera",
-    "name": "Sushi Ginza Onodera",
-    "address": null,
-    "city": "Los Angeles",
-    "neighborhood": "West Hollywood",
-    "state": "CA",
-    "cuisine_tags": [
-      "japanese",
-      "sushi",
-      "omakase"
-    ],
-    "status": "open",
-    "open_year": null,
-    "close_year": null,
-    "price_range": "$$$$",
-    "seats": null,
-    "format": "omakase",
-    "group_id": null,
-    "ratings": {},
-    "website": null,
-    "notes": "Nozomi Mori trained here."
-  },
-  {
     "id": "rest_cut",
     "name": "CUT",
     "address": null,
@@ -1803,8 +1777,7 @@
     "neighborhood": "Beverly Hills",
     "state": "CA",
     "cuisine_tags": [
-      "steakhouse",
-      "fine-dining"
+      "steakhouse"
     ],
     "status": "open",
     "open_year": 2006,
@@ -1814,7 +1787,8 @@
     "format": "a-la-carte",
     "group_id": "group_wolfgang_puck",
     "ratings": {
-      "michelin_stars": 1
+      "michelin_stars": 1,
+      "michelin_year": 2021
     },
     "website": null,
     "notes": "Wolfgang Puck. At the Beverly Wilshire."
@@ -1823,8 +1797,8 @@
     "id": "rest_chinois",
     "name": "Chinois on Main",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
       "asian-fusion",
@@ -1896,12 +1870,11 @@
     "id": "rest_bicyclette",
     "name": "Bicyclette",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "bistro"
+      "french"
     ],
     "status": "closed",
     "open_year": 2023,
@@ -1989,14 +1962,12 @@
     "id": "rest_melisse",
     "name": "Mélisse",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
       "french",
-      "californian",
-      "fine-dining",
-      "tasting-menu"
+      "californian"
     ],
     "status": "open",
     "open_year": 1999,
@@ -2021,7 +1992,6 @@
     "state": "CA",
     "cuisine_tags": [
       "grill",
-      "casual",
       "californian"
     ],
     "status": "open",
@@ -2043,8 +2013,7 @@
     "neighborhood": "Hollywood",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "bistro"
+      "french"
     ],
     "status": "open",
     "open_year": 2014,
@@ -2065,9 +2034,7 @@
     "neighborhood": "Hollywood",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "tasting-menu",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": 2013,
@@ -2077,7 +2044,8 @@
     "format": "tasting-menu",
     "group_id": "group_lefebvre",
     "ratings": {
-      "michelin_stars": 1
+      "michelin_stars": 1,
+      "michelin_year": 2019
     },
     "website": null,
     "notes": "Ludo Lefebvre, Jon Shook, Vinny Dotolo. Ticket-only tasting menu."
@@ -2090,8 +2058,7 @@
     "neighborhood": "Downtown",
     "state": "CA",
     "cuisine_tags": [
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "closed",
     "open_year": 2015,
@@ -2108,13 +2075,11 @@
     "id": "rest_native",
     "name": "Native",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
-      "californian",
-      "fine-dining",
-      "tasting-menu"
+      "californian"
     ],
     "status": "closed",
     "open_year": 2022,
@@ -2162,8 +2127,7 @@
     "state": "CA",
     "cuisine_tags": [
       "italian",
-      "pizza",
-      "casual"
+      "pizza"
     ],
     "status": "open",
     "open_year": 2015,
@@ -2184,8 +2148,7 @@
     "neighborhood": "West Hollywood",
     "state": "CA",
     "cuisine_tags": [
-      "seafood",
-      "casual"
+      "seafood"
     ],
     "status": "closed",
     "open_year": 2011,
@@ -2274,8 +2237,8 @@
     "id": "rest_rustic_canyon",
     "name": "Rustic Canyon",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
       "californian",
@@ -2297,8 +2260,8 @@
     "id": "rest_birdie_gs",
     "name": "Birdie G's",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
       "jewish-american",
@@ -2324,9 +2287,7 @@
     "neighborhood": "Mid-Wilshire",
     "state": "CA",
     "cuisine_tags": [
-      "californian",
-      "fine-dining",
-      "tasting-menu"
+      "californian"
     ],
     "status": "open",
     "open_year": 2016,
@@ -2350,8 +2311,7 @@
     "neighborhood": "Arts District",
     "state": "CA",
     "cuisine_tags": [
-      "mexican",
-      "casual"
+      "mexican"
     ],
     "status": "open",
     "open_year": 2020,
@@ -2373,8 +2333,7 @@
     "state": "CA",
     "cuisine_tags": [
       "french",
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 1989,
@@ -2395,8 +2354,7 @@
     "neighborhood": "West Hollywood",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": 1978,
@@ -2440,8 +2398,7 @@
     "neighborhood": null,
     "state": "NY",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "open",
     "open_year": 1993,
@@ -2449,9 +2406,10 @@
     "price_range": "$$$$",
     "seats": null,
     "format": "a-la-carte",
-    "group_id": null,
+    "group_id": "group_dinex",
     "ratings": {
-      "michelin_stars": 2
+      "michelin_stars": 1,
+      "michelin_year": 2025
     },
     "website": null,
     "notes": "Daniel Boulud. Training ground for Walter Manzke."
@@ -2486,9 +2444,7 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "mexican",
-      "fine-dining",
-      "tasting-menu"
+      "mexican"
     ],
     "status": "open",
     "open_year": 2000,
@@ -2540,7 +2496,6 @@
     "state": "NY",
     "cuisine_tags": [
       "american",
-      "fine-dining",
       "progressive"
     ],
     "status": "open",
@@ -2556,7 +2511,8 @@
       "jbf": [],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_lesperance",
@@ -2566,8 +2522,7 @@
     "neighborhood": null,
     "state": "Burgundy",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": null,
@@ -2582,7 +2537,8 @@
       "jbf": [],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_le_bernardin",
@@ -2593,8 +2549,7 @@
     "state": "NY",
     "cuisine_tags": [
       "french",
-      "seafood",
-      "fine-dining"
+      "seafood"
     ],
     "status": "open",
     "open_year": 1986,
@@ -2611,7 +2566,8 @@
       ],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sushi_nozawa",
@@ -2622,8 +2578,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "closed",
     "open_year": 1988,
@@ -2633,7 +2588,8 @@
     "format": "counter",
     "group_id": "group_sugarfish",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sugarfish",
@@ -2654,7 +2610,8 @@
     "format": "fast-casual",
     "group_id": "group_sugarfish",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_manresa",
@@ -2665,7 +2622,6 @@
     "state": "CA",
     "cuisine_tags": [
       "californian",
-      "fine-dining",
       "farm-to-table"
     ],
     "status": "closed",
@@ -2683,7 +2639,8 @@
       ],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_kogi",
@@ -2706,7 +2663,8 @@
     "format": "food-truck",
     "group_id": "group_choi",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_gjelina",
@@ -2728,7 +2686,8 @@
     "format": "casual",
     "group_id": "group_gjelina",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_gjusta",
@@ -2750,17 +2709,17 @@
     "format": "bakery-deli",
     "group_id": "group_gjelina",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_fathers_office",
     "name": "Father's Office",
     "address": "1018 Montana Ave",
-    "city": "Santa Monica",
+    "city": "Los Angeles",
     "neighborhood": "Montana Ave",
     "state": "CA",
     "cuisine_tags": [
-      "gastropub",
       "burger",
       "craft-beer"
     ],
@@ -2772,13 +2731,14 @@
     "format": "gastropub",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_cassia",
     "name": "Cassia",
     "address": "1314 7th St",
-    "city": "Santa Monica",
+    "city": "Los Angeles",
     "neighborhood": "Downtown Santa Monica",
     "state": "CA",
     "cuisine_tags": [
@@ -2794,13 +2754,13 @@
     "format": "brasserie",
     "group_id": "group_rustic_canyon",
     "ratings": {
-      "michelin_stars": null,
       "jbf": [],
       "other": [
         "LA Times 101"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_guerrilla_tacos",
@@ -2811,8 +2771,7 @@
     "state": "CA",
     "cuisine_tags": [
       "mexican",
-      "street-food",
-      "fine-casual"
+      "street-food"
     ],
     "status": "open",
     "open_year": 2012,
@@ -2822,7 +2781,8 @@
     "format": "fast-casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_angry_egret",
@@ -2833,8 +2793,7 @@
     "state": "CA",
     "cuisine_tags": [
       "chicano",
-      "mexican",
-      "diner"
+      "mexican"
     ],
     "status": "open",
     "open_year": 2021,
@@ -2844,7 +2803,8 @@
     "format": "diner",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_simone",
@@ -2855,7 +2815,6 @@
     "state": "CA",
     "cuisine_tags": [
       "californian",
-      "fine-dining",
       "seasonal"
     ],
     "status": "closed",
@@ -2871,7 +2830,8 @@
       "jbf": [],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_broken_spanish",
@@ -2882,7 +2842,6 @@
     "state": "CA",
     "cuisine_tags": [
       "mexican",
-      "fine-dining",
       "californian"
     ],
     "status": "closed",
@@ -2893,7 +2852,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_locol",
@@ -2904,7 +2864,6 @@
     "state": "CA",
     "cuisine_tags": [
       "american",
-      "fast-food",
       "community"
     ],
     "status": "closed",
@@ -2915,7 +2874,8 @@
     "format": "fast-casual",
     "group_id": "group_choi",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_la_tour_dargent",
@@ -2926,7 +2886,6 @@
     "state": null,
     "cuisine_tags": [
       "french",
-      "fine-dining",
       "classical"
     ],
     "status": "open",
@@ -2942,7 +2901,8 @@
       "jbf": [],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_jar",
@@ -2969,7 +2929,8 @@
         "Food & Wine Best New Chef 2002 (Tracht)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_night_market",
@@ -2999,7 +2960,8 @@
         "Food & Wine Best New Chef 2016"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_alta_adams",
@@ -3029,7 +2991,8 @@
         "LA Times"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_le_comptoir",
@@ -3041,7 +3004,6 @@
     "cuisine_tags": [
       "californian",
       "vegetable-forward",
-      "fine-dining",
       "farm-to-table"
     ],
     "status": "open",
@@ -3057,7 +3019,8 @@
       "jbf": [],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_hippo",
@@ -3079,7 +3042,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sona",
@@ -3089,8 +3053,7 @@
     "neighborhood": "West Hollywood",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": 2002,
@@ -3107,14 +3070,15 @@
         "Food & Wine Best New Chef 2003 (Myers)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_jiraffe",
     "name": "JiRaffe",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
       "french",
@@ -3133,13 +3097,14 @@
         "Food & Wine Best New Chef 1997 (Lunetta)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_marelle",
     "name": "Marelle",
     "address": "1740 Ocean Ave",
-    "city": "Santa Monica",
+    "city": "Los Angeles",
     "neighborhood": "Ocean Ave",
     "state": "CA",
     "cuisine_tags": [
@@ -3155,7 +3120,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_allumette",
@@ -3165,8 +3131,7 @@
     "neighborhood": "Echo Park",
     "state": "CA",
     "cuisine_tags": [
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "closed",
     "open_year": 2013,
@@ -3183,14 +3148,15 @@
         "Bon Appetit Best New Restaurant 2013"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_bakery_by_the_yard",
     "name": "Bakery by the Yard",
     "address": null,
-    "city": "Manhattan Beach",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Manhattan Beach",
     "state": "CA",
     "cuisine_tags": [
       "bakery",
@@ -3204,7 +3170,8 @@
     "format": "bakery",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_hatfields",
@@ -3215,8 +3182,7 @@
     "state": "CA",
     "cuisine_tags": [
       "californian",
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": 2006,
@@ -3233,7 +3199,8 @@
         "Bon Appetit Best New Restaurant"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_ortolan",
@@ -3243,8 +3210,7 @@
     "neighborhood": "Beverly Grove",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": 2005,
@@ -3261,7 +3227,8 @@
         "Food & Wine Best New Chef 2005 (Emé)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_orsa_winston",
@@ -3272,8 +3239,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "italian",
-      "tasting-menu"
+      "italian"
     ],
     "status": "open",
     "open_year": 2013,
@@ -3288,7 +3254,8 @@
       "jbf": [],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_baco_mercat",
@@ -3309,7 +3276,8 @@
     "format": "casual",
     "group_id": "group_centeno",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_terra",
@@ -3321,8 +3289,7 @@
     "cuisine_tags": [
       "japanese",
       "french",
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 1988,
@@ -3339,14 +3306,15 @@
       ],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_huckleberry",
     "name": "Huckleberry Café & Bakery",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
       "bakery",
@@ -3361,7 +3329,8 @@
     "format": "bakery-cafe",
     "group_id": "group_rustic_canyon",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_barbara_jean",
@@ -3383,7 +3352,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_mo_chica",
@@ -3393,8 +3363,7 @@
     "neighborhood": "Downtown",
     "state": "CA",
     "cuisine_tags": [
-      "peruvian",
-      "fine-dining"
+      "peruvian"
     ],
     "status": "closed",
     "open_year": 2009,
@@ -3411,7 +3380,8 @@
         "Food & Wine Best New Chef 2011 (Zarate)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_charlie_trotters",
@@ -3422,7 +3392,6 @@
     "state": "IL",
     "cuisine_tags": [
       "american",
-      "fine-dining",
       "progressive"
     ],
     "status": "closed",
@@ -3440,7 +3409,8 @@
       ],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_masa",
@@ -3451,9 +3421,7 @@
     "state": "NY",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase",
-      "fine-dining"
+      "sushi"
     ],
     "status": "open",
     "open_year": 2004,
@@ -3463,12 +3431,13 @@
     "format": "omakase",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 3,
-      "michelin_year": 2009,
+      "michelin_stars": 2,
+      "michelin_year": 2025,
       "jbf": [],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_ginza_sushiko",
@@ -3479,8 +3448,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "closed",
     "open_year": 1984,
@@ -3490,7 +3458,8 @@
     "format": "omakase",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_jardiniere",
@@ -3501,8 +3470,7 @@
     "state": "CA",
     "cuisine_tags": [
       "french",
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "closed",
     "open_year": 1997,
@@ -3517,7 +3485,8 @@
       ],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_yangban",
@@ -3545,7 +3514,8 @@
         "LA Times 101"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_scratch_bar",
@@ -3555,7 +3525,6 @@
     "neighborhood": "Encino",
     "state": "CA",
     "cuisine_tags": [
-      "tasting-menu",
       "modernist"
     ],
     "status": "open",
@@ -3566,7 +3535,8 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_meadowood",
@@ -3576,8 +3546,7 @@
     "neighborhood": null,
     "state": "CA",
     "cuisine_tags": [
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "closed",
     "open_year": 2006,
@@ -3603,8 +3572,7 @@
     "neighborhood": "Melrose",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": 2001,
@@ -3619,7 +3587,8 @@
       "jbf": [],
       "other": []
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_cafe_pinot",
@@ -3630,8 +3599,7 @@
     "state": "CA",
     "cuisine_tags": [
       "french",
-      "californian",
-      "bistro"
+      "californian"
     ],
     "status": "closed",
     "open_year": 1994,
@@ -3641,7 +3609,8 @@
     "format": "bistro",
     "group_id": "group_patina",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_pinot_bistro",
@@ -3651,8 +3620,7 @@
     "neighborhood": "Studio City",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "bistro"
+      "french"
     ],
     "status": "closed",
     "open_year": 1992,
@@ -3662,7 +3630,8 @@
     "format": "bistro",
     "group_id": "group_patina",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_church_state",
@@ -3672,8 +3641,7 @@
     "neighborhood": "Arts District",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "bistro"
+      "french"
     ],
     "status": "open",
     "open_year": 2008,
@@ -3683,7 +3651,8 @@
     "format": "bistro",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_hotel_bel_air",
@@ -3694,8 +3663,7 @@
     "state": "CA",
     "cuisine_tags": [
       "french",
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": null,
@@ -3705,7 +3673,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_meson_g",
@@ -3726,7 +3695,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_a_ti",
@@ -3747,7 +3717,8 @@
     "format": "fine-casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_wildes",
@@ -3757,8 +3728,7 @@
     "neighborhood": "Los Feliz",
     "state": "CA",
     "cuisine_tags": [
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 2025,
@@ -3768,7 +3738,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_rasarumah",
@@ -3789,7 +3760,8 @@
     "format": "casual",
     "group_id": "group_last_word",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_pearl_river_deli",
@@ -3814,7 +3786,8 @@
         "LA Times 101"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_electric_bleu",
@@ -3824,8 +3797,7 @@
     "neighborhood": "Mar Vista",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "bistro"
+      "french"
     ],
     "status": "open",
     "open_year": 2025,
@@ -3835,14 +3807,15 @@
     "format": "bistro",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_jade_rabbit",
     "name": "Jade Rabbit",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
       "chinese",
@@ -3856,7 +3829,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_broken_spanish_comedor",
@@ -3866,8 +3840,7 @@
     "neighborhood": "Culver City",
     "state": "CA",
     "cuisine_tags": [
-      "mexican",
-      "fine-dining"
+      "mexican"
     ],
     "status": "open",
     "open_year": 2025,
@@ -3877,7 +3850,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_poppy_rose",
@@ -3903,7 +3877,8 @@
         "Best Chef: California (semifinalist)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_poppy_seed",
@@ -3913,8 +3888,7 @@
     "neighborhood": null,
     "state": "CA",
     "cuisine_tags": [
-      "american",
-      "fine-dining"
+      "american"
     ],
     "status": "open",
     "open_year": null,
@@ -3928,7 +3902,8 @@
         "Best Chef: California (semifinalist)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_playa_provisions",
@@ -3938,7 +3913,7 @@
     "neighborhood": "Playa del Rey",
     "state": "CA",
     "cuisine_tags": [
-      "california",
+      "californian",
       "coastal",
       "american"
     ],
@@ -3950,18 +3925,18 @@
     "format": "casual",
     "group_id": "group_williamson",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_hudson_house",
     "name": "Hudson House",
     "address": null,
-    "city": "Redondo Beach",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Redondo Beach",
     "state": "CA",
     "cuisine_tags": [
-      "american",
-      "gastropub"
+      "american"
     ],
     "status": "open",
     "open_year": null,
@@ -3971,7 +3946,8 @@
     "format": "casual",
     "group_id": "group_williamson",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_osteria_cal_mare",
@@ -3993,7 +3969,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_henrietta",
@@ -4015,7 +3992,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_lapaba",
@@ -4037,7 +4015,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_la_cha_cha_cha",
@@ -4058,7 +4037,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_loreto",
@@ -4078,7 +4058,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_bacetti",
@@ -4099,7 +4080,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_hermons",
@@ -4121,7 +4103,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_yess",
@@ -4146,7 +4129,8 @@
         "LA Times 101 (#77)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_koya",
@@ -4167,7 +4151,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_ms_chi",
@@ -4188,7 +4173,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_china_poblano",
@@ -4214,7 +4200,8 @@
         "Best New Restaurant (nominee)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_guy_savoy_lv",
@@ -4224,8 +4211,7 @@
     "neighborhood": null,
     "state": "NV",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "open",
     "open_year": null,
@@ -4235,9 +4221,11 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 2
+      "michelin_stars": 2,
+      "michelin_year": 2009
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_modern",
@@ -4248,8 +4236,7 @@
     "state": "NY",
     "cuisine_tags": [
       "french",
-      "american",
-      "fine-dining"
+      "american"
     ],
     "status": "open",
     "open_year": null,
@@ -4257,9 +4244,13 @@
     "price_range": "$$$$",
     "seats": null,
     "format": "fine-dining",
-    "group_id": null,
-    "ratings": {},
-    "website": null
+    "group_id": "group_ushg",
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2025
+    },
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_dudley_market",
@@ -4270,7 +4261,7 @@
     "state": "CA",
     "cuisine_tags": [
       "american",
-      "california"
+      "californian"
     ],
     "status": "open",
     "open_year": null,
@@ -4280,7 +4271,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_found_oyster",
@@ -4301,7 +4293,8 @@
     "format": "casual",
     "group_id": "group_last_word",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_martin_berasategui",
@@ -4311,8 +4304,7 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "basque",
-      "fine-dining"
+      "basque"
     ],
     "status": "open",
     "open_year": null,
@@ -4322,9 +4314,11 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 3
+      "michelin_stars": 3,
+      "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_reynard",
@@ -4333,16 +4327,20 @@
     "city": "Brooklyn, NY",
     "neighborhood": null,
     "state": "NY",
-    "cuisine_tags": [],
+    "cuisine_tags": [
+      "american",
+      "seasonal"
+    ],
     "status": "closed",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "bistro",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_spotted_pig",
@@ -4351,16 +4349,20 @@
     "city": "New York",
     "neighborhood": null,
     "state": "NY",
-    "cuisine_tags": [],
+    "cuisine_tags": [
+      "british",
+      "italian"
+    ],
     "status": "closed",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "gastropub",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_ramen_hood",
@@ -4381,7 +4383,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_gorbals",
@@ -4390,16 +4393,20 @@
     "city": "Los Angeles",
     "neighborhood": "Downtown",
     "state": "CA",
-    "cuisine_tags": [],
+    "cuisine_tags": [
+      "eclectic",
+      "jewish-american"
+    ],
     "status": "closed",
     "open_year": 2009,
     "close_year": 2015,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_casa_mono",
@@ -4420,7 +4427,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_girl_the_goat_la",
@@ -4441,7 +4449,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_cabra",
@@ -4461,7 +4470,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_girl_the_goat_chicago",
@@ -4481,7 +4491,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_bangkok_market",
@@ -4501,7 +4512,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_royal_thai",
@@ -4521,14 +4533,15 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_charleston",
     "name": "The Charleston",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
       "thai",
@@ -4542,7 +4555,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_camphor",
@@ -4553,21 +4567,21 @@
     "state": "CA",
     "cuisine_tags": [
       "french",
-      "contemporary",
-      "fine-dining"
+      "contemporary"
     ],
     "status": "open",
     "open_year": 2022,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {
       "michelin_stars": 1,
       "michelin_year": 2023
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_blue_by_alain_ducasse",
@@ -4577,18 +4591,18 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_shin_sushi",
@@ -4599,21 +4613,21 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": 2018,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "omakase",
     "group_id": null,
     "ratings": {
       "michelin_stars": 1,
       "michelin_year": 2021
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_asanebo",
@@ -4634,32 +4648,33 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sushi_inaba",
     "name": "Sushi Inaba",
     "address": null,
-    "city": "Torrance",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Torrance",
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "omakase",
     "group_id": null,
     "ratings": {
       "michelin_stars": 1,
       "michelin_year": 2021
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sushi_kaneyoshi",
@@ -4671,21 +4686,21 @@
     "cuisine_tags": [
       "japanese",
       "sushi",
-      "edomae",
-      "omakase"
+      "edomae"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "omakase",
     "group_id": null,
     "ratings": {
       "michelin_stars": 1,
       "michelin_year": 2022
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_louis_xv",
@@ -4695,20 +4710,21 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "open",
     "open_year": 1987,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 3
+      "michelin_stars": 3,
+      "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_knife_pleat",
@@ -4718,8 +4734,7 @@
     "neighborhood": "South Coast Plaza",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "open",
     "open_year": 2019,
@@ -4732,7 +4747,8 @@
       "michelin_stars": 1,
       "michelin_year": 2021
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_spring",
@@ -4743,7 +4759,7 @@
     "state": "CA",
     "cuisine_tags": [
       "french",
-      "california"
+      "californian"
     ],
     "status": "closed",
     "open_year": 2013,
@@ -4753,7 +4769,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sushi_ginza_onodera",
@@ -4764,8 +4781,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": 2016,
@@ -4775,9 +4791,11 @@
     "format": "omakase",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 2
+      "michelin_stars": 1,
+      "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": "Nozomi Mori trained here."
   },
   {
     "id": "rest_uka",
@@ -4788,21 +4806,21 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "kaiseki",
-      "omakase"
+      "kaiseki"
     ],
     "status": "open",
     "open_year": 2023,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "omakase",
     "group_id": null,
     "ratings": {
       "michelin_stars": 1,
       "michelin_year": 2024
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_suzaku",
@@ -4823,7 +4841,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_holy_basil",
@@ -4848,7 +4867,8 @@
         "Food & Wine Best New Chef 2024"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_ryugin",
@@ -4858,18 +4878,18 @@
     "neighborhood": null,
     "state": "CA",
     "cuisine_tags": [
-      "japanese",
-      "fine-dining"
+      "japanese"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sushi_sonagi",
@@ -4880,18 +4900,18 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "omakase",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_kuya_lord",
@@ -4911,7 +4931,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_vin_folk",
@@ -4922,18 +4943,18 @@
     "state": "CA",
     "cuisine_tags": [
       "french",
-      "california",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_anajak_thai",
@@ -4953,7 +4974,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_baroo",
@@ -4963,18 +4985,18 @@
     "neighborhood": "Arts District",
     "state": "CA",
     "cuisine_tags": [
-      "korean",
-      "fine-dining"
+      "korean"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_pizzeria_bianco",
@@ -4995,7 +5017,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_tasting_kitchen",
@@ -5005,7 +5028,7 @@
     "neighborhood": "Venice",
     "state": "CA",
     "cuisine_tags": [
-      "california"
+      "californian"
     ],
     "status": "closed",
     "open_year": null,
@@ -5015,7 +5038,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_ghisallo",
@@ -5026,7 +5050,7 @@
     "state": "CA",
     "cuisine_tags": [
       "italian",
-      "california"
+      "californian"
     ],
     "status": "open",
     "open_year": null,
@@ -5036,7 +5060,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_perilla_la",
@@ -5047,7 +5072,7 @@
     "state": "CA",
     "cuisine_tags": [
       "korean",
-      "california"
+      "californian"
     ],
     "status": "open",
     "open_year": null,
@@ -5057,7 +5082,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_absteak",
@@ -5067,18 +5093,18 @@
     "neighborhood": "Beverly Hills",
     "state": "CA",
     "cuisine_tags": [
-      "korean",
-      "fine-dining"
+      "korean"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_pizzeria_sei",
@@ -5099,7 +5125,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_all_time",
@@ -5109,7 +5136,7 @@
     "neighborhood": "Los Feliz",
     "state": "CA",
     "cuisine_tags": [
-      "california"
+      "californian"
     ],
     "status": "open",
     "open_year": null,
@@ -5119,7 +5146,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_betsy",
@@ -5129,7 +5157,7 @@
     "neighborhood": "Altadena",
     "state": "CA",
     "cuisine_tags": [
-      "california",
+      "californian",
       "wood-fired"
     ],
     "status": "open",
@@ -5140,7 +5168,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_pine_crane",
@@ -5160,7 +5189,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_azizam",
@@ -5180,7 +5210,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_si_mon",
@@ -5201,7 +5232,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_lielle",
@@ -5211,18 +5243,18 @@
     "neighborhood": "Pico-Robertson",
     "state": "CA",
     "cuisine_tags": [
-      "california",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 2026,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_mulberry",
@@ -5233,7 +5265,7 @@
     "state": "CA",
     "cuisine_tags": [
       "korean",
-      "california"
+      "californian"
     ],
     "status": "open",
     "open_year": null,
@@ -5243,7 +5275,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_galerie",
@@ -5263,7 +5296,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_xuntos",
@@ -5283,7 +5317,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_chainsaw_cafe",
@@ -5293,18 +5328,18 @@
     "neighborhood": "Melrose Hill",
     "state": "CA",
     "cuisine_tags": [
-      "venezuelan",
-      "cafe"
+      "venezuelan"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "cafe",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_mariscos_los_corchos",
@@ -5325,7 +5360,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sushi_bar_montecito",
@@ -5346,7 +5382,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_silvers_omakase",
@@ -5357,18 +5394,18 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "omakase",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_bar_siesta",
@@ -5388,7 +5425,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_715",
@@ -5399,18 +5437,18 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "omakase",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_udatsu",
@@ -5421,18 +5459,18 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "omakase",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_shibumi",
@@ -5442,18 +5480,18 @@
     "neighborhood": "Downtown",
     "state": "CA",
     "cuisine_tags": [
-      "japanese",
-      "fine-dining"
+      "japanese"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_lupa",
@@ -5461,7 +5499,7 @@
     "address": null,
     "city": "New York",
     "neighborhood": null,
-    "state": "CA",
+    "state": "NY",
     "cuisine_tags": [
       "italian"
     ],
@@ -5473,7 +5511,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_marea",
@@ -5481,7 +5520,7 @@
     "address": null,
     "city": "New York",
     "neighborhood": null,
-    "state": "CA",
+    "state": "NY",
     "cuisine_tags": [
       "italian",
       "seafood"
@@ -5494,7 +5533,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_ètra",
@@ -5514,7 +5554,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_robertas",
@@ -5522,7 +5563,7 @@
     "address": null,
     "city": "New York",
     "neighborhood": "Bushwick",
-    "state": "CA",
+    "state": "NY",
     "cuisine_tags": [
       "italian",
       "pizza"
@@ -5535,7 +5576,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_pijja_palace",
@@ -5556,7 +5598,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_rossoblu",
@@ -5576,7 +5619,8 @@
     "format": null,
     "group_id": "group_samson",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_berenjak",
@@ -5597,7 +5641,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_cape_seafood",
@@ -5618,7 +5663,8 @@
     "format": "market",
     "group_id": "group_cimarusti",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_funke",
@@ -5629,7 +5675,6 @@
     "state": "CA",
     "cuisine_tags": [
       "italian",
-      "fine-dining",
       "pasta"
     ],
     "status": "open",
@@ -5640,24 +5685,23 @@
     "format": "a-la-carte",
     "group_id": "group_funke",
     "ratings": {
-      "michelin_stars": null,
       "jbf": [],
       "other": [
         "Michelin Guide"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_citrin",
     "name": "Citrin",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
-      "california",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 2019,
@@ -5670,7 +5714,8 @@
       "michelin_stars": 1,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_dear_johns",
@@ -5691,7 +5736,8 @@
     "format": "a-la-carte",
     "group_id": "group_citrin",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_night_market_song",
@@ -5712,7 +5758,8 @@
     "format": "casual",
     "group_id": "group_yenbamroong",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_night_market_sahm",
@@ -5733,7 +5780,8 @@
     "format": "casual",
     "group_id": "group_yenbamroong",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_delilah",
@@ -5743,8 +5791,7 @@
     "neighborhood": "West Hollywood",
     "state": "CA",
     "cuisine_tags": [
-      "american",
-      "supper-club"
+      "american"
     ],
     "status": "open",
     "open_year": 2016,
@@ -5754,7 +5801,8 @@
     "format": "supper-club",
     "group_id": "group_hwood",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_nice_guy",
@@ -5764,8 +5812,7 @@
     "neighborhood": "West Hollywood",
     "state": "CA",
     "cuisine_tags": [
-      "italian",
-      "supper-club"
+      "italian"
     ],
     "status": "open",
     "open_year": 2015,
@@ -5775,14 +5822,15 @@
     "format": "supper-club",
     "group_id": "group_hwood",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sushi_roku",
     "name": "Sushi Roku",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
       "japanese",
@@ -5796,7 +5844,8 @@
     "format": "a-la-carte",
     "group_id": "group_idg",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_boa_steakhouse",
@@ -5806,8 +5855,7 @@
     "neighborhood": "West Hollywood",
     "state": "CA",
     "cuisine_tags": [
-      "steakhouse",
-      "fine-dining"
+      "steakhouse"
     ],
     "status": "open",
     "open_year": 2004,
@@ -5817,7 +5865,8 @@
     "format": "a-la-carte",
     "group_id": "group_idg",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_katana",
@@ -5838,19 +5887,19 @@
     "format": "a-la-carte",
     "group_id": "group_idg",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_nobu_malibu",
     "name": "Nobu Malibu",
     "address": null,
-    "city": "Malibu",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Malibu",
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "fine-dining"
+      "sushi"
     ],
     "status": "open",
     "open_year": 1999,
@@ -5860,7 +5909,8 @@
     "format": "a-la-carte",
     "group_id": "group_nobu",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_nobu_la",
@@ -5871,8 +5921,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "fine-dining"
+      "sushi"
     ],
     "status": "open",
     "open_year": 2008,
@@ -5882,18 +5931,18 @@
     "format": "a-la-carte",
     "group_id": "group_nobu",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_bourbon_steak_la",
     "name": "Bourbon Steak Los Angeles",
     "address": null,
-    "city": "Glendale",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Glendale",
     "state": "CA",
     "cuisine_tags": [
-      "steakhouse",
-      "fine-dining"
+      "steakhouse"
     ],
     "status": "open",
     "open_year": 2023,
@@ -5903,18 +5952,18 @@
     "format": "a-la-carte",
     "group_id": "group_mina",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_orla",
     "name": "Orla",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
-      "mediterranean",
-      "fine-dining"
+      "mediterranean"
     ],
     "status": "open",
     "open_year": 2023,
@@ -5924,7 +5973,8 @@
     "format": "a-la-carte",
     "group_id": "group_mina",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_majordomo",
@@ -5935,7 +5985,7 @@
     "state": "CA",
     "cuisine_tags": [
       "korean",
-      "california",
+      "californian",
       "large-format"
     ],
     "status": "open",
@@ -5946,7 +5996,8 @@
     "format": "a-la-carte",
     "group_id": "group_momofuku",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_katsuya",
@@ -5967,14 +6018,15 @@
     "format": "a-la-carte",
     "group_id": "group_sbe",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_elephante",
     "name": "Elephante",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
       "italian",
@@ -5988,7 +6040,8 @@
     "format": "a-la-carte",
     "group_id": "group_wywh",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sotto",
@@ -6009,7 +6062,8 @@
     "format": "a-la-carte",
     "group_id": "group_samson",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_rooftop_by_jg",
@@ -6019,8 +6073,7 @@
     "neighborhood": "Beverly Hills",
     "state": "CA",
     "cuisine_tags": [
-      "california",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 2017,
@@ -6030,7 +6083,8 @@
     "format": "a-la-carte",
     "group_id": "group_jean_georges",
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_maison_lenotre",
@@ -6051,7 +6105,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_auberge_de_leridan",
@@ -6061,18 +6116,18 @@
     "neighborhood": null,
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_citrus",
@@ -6083,8 +6138,7 @@
     "state": "CA",
     "cuisine_tags": [
       "french",
-      "california",
-      "fine-dining"
+      "californian"
     ],
     "status": "closed",
     "open_year": 1986,
@@ -6094,7 +6148,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_citronelle",
@@ -6104,8 +6159,7 @@
     "neighborhood": "Georgetown",
     "state": "CA",
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": 1994,
@@ -6115,7 +6169,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_drago",
@@ -6125,8 +6180,7 @@
     "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
-      "italian",
-      "fine-dining"
+      "italian"
     ],
     "status": "closed",
     "open_year": 1991,
@@ -6136,7 +6190,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_il_pastaio",
@@ -6157,7 +6212,8 @@
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_drago_centro",
@@ -6167,8 +6223,7 @@
     "neighborhood": "Downtown",
     "state": "CA",
     "cuisine_tags": [
-      "italian",
-      "fine-dining"
+      "italian"
     ],
     "status": "open",
     "open_year": 2008,
@@ -6178,7 +6233,8 @@
     "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_orlando_orsini",
@@ -6198,7 +6254,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_alma",
@@ -6208,9 +6265,8 @@
     "neighborhood": "Downtown",
     "state": "CA",
     "cuisine_tags": [
-      "california",
-      "seasonal",
-      "fine-dining"
+      "californian",
+      "seasonal"
     ],
     "status": "closed",
     "open_year": 2012,
@@ -6220,7 +6276,8 @@
     "format": "tasting-menu",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_bar_tartine",
@@ -6230,7 +6287,7 @@
     "neighborhood": null,
     "state": "CA",
     "cuisine_tags": [
-      "california",
+      "californian",
       "seasonal"
     ],
     "status": "closed",
@@ -6241,7 +6298,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_flour_water",
@@ -6262,7 +6320,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_spice_table",
@@ -6279,12 +6338,13 @@
     "status": "closed",
     "open_year": 2011,
     "close_year": 2013,
-    "price_range": "93125",
+    "price_range": "$$",
     "seats": null,
     "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_taillevent",
@@ -6294,20 +6354,21 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "open",
     "open_year": 1946,
     "close_year": null,
-    "price_range": "9312593125",
+    "price_range": "$$$$",
     "seats": null,
     "format": "fine-dining",
     "group_id": null,
     "ratings": {
-      "michelin_stars": 2
+      "michelin_stars": 2,
+      "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_nozawa_bar",
@@ -6318,8 +6379,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": 2016,
@@ -6327,23 +6387,23 @@
     "price_range": "$$$$",
     "seats": null,
     "format": "omakase",
-    "group_id": "group_sugarfish_kazunori",
+    "group_id": "group_sugarfish",
     "ratings": {
       "michelin_stars": 1,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_heritage",
     "name": "Heritage",
     "address": null,
-    "city": "Long Beach",
+    "city": "Los Angeles",
     "neighborhood": "Downtown Long Beach",
     "state": "CA",
     "cuisine_tags": [
-      "californian",
-      "fine-dining"
+      "californian"
     ],
     "status": "open",
     "open_year": 2021,
@@ -6356,7 +6416,8 @@
       "michelin_stars": 1,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_pastabar",
@@ -6367,8 +6428,7 @@
     "state": "CA",
     "cuisine_tags": [
       "italian",
-      "pasta",
-      "tasting-menu"
+      "pasta"
     ],
     "status": "open",
     "open_year": 2019,
@@ -6381,7 +6441,8 @@
       "michelin_stars": 1,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_lukshon",
@@ -6402,7 +6463,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_alimento",
@@ -6422,7 +6484,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_cosetta",
@@ -6443,7 +6506,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_rvr",
@@ -6464,7 +6528,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_baby_bistro",
@@ -6484,7 +6549,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_jitlada",
@@ -6505,7 +6571,6 @@
     "format": null,
     "group_id": null,
     "ratings": {
-      "michelin_stars": 0,
       "bib_gourmand": true,
       "michelin_year": 2025,
       "other": [
@@ -6514,7 +6579,8 @@
         "Michelin Bib Gourmand"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_howlin_rays",
@@ -6535,7 +6601,6 @@
     "format": null,
     "group_id": null,
     "ratings": {
-      "michelin_stars": 0,
       "bib_gourmand": true,
       "michelin_year": 2025,
       "other": [
@@ -6543,7 +6608,8 @@
         "Eater Essential 38 (2026)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_guelaguetza",
@@ -6568,7 +6634,8 @@
         "Jonathan Gold 101 (2017)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_crossroads_kitchen",
@@ -6578,15 +6645,14 @@
     "neighborhood": "West Hollywood",
     "state": "CA",
     "cuisine_tags": [
-      "vegan",
-      "fine-dining"
+      "vegan"
     ],
     "status": "open",
     "open_year": 2013,
     "close_year": null,
     "price_range": "$$$",
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {
       "other": [
@@ -6594,7 +6660,8 @@
         "Eater Essential 38 (2026)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_heres_looking_at_you",
@@ -6620,19 +6687,19 @@
         "Bill Addison 101 (2025)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_shunji",
     "name": "Shunji",
     "address": null,
-    "city": "Santa Monica",
+    "city": "Los Angeles",
     "neighborhood": "Ocean Park",
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": 2012,
@@ -6645,13 +6712,14 @@
       "michelin_stars": 1,
       "michelin_year": 2019
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_hump",
     "name": "The Hump",
     "address": null,
-    "city": "Santa Monica",
+    "city": "Los Angeles",
     "neighborhood": "Santa Monica Airport",
     "state": "CA",
     "cuisine_tags": [
@@ -6666,7 +6734,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_q_sushi",
@@ -6677,8 +6746,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": 2013,
@@ -6688,7 +6756,8 @@
     "format": "omakase",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_nogizaka_sushi_yuki",
@@ -6710,14 +6779,15 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_manhattan_beach_post",
     "name": "Manhattan Beach Post",
     "address": null,
-    "city": "Manhattan Beach",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Manhattan Beach",
     "state": "CA",
     "cuisine_tags": [
       "new-american",
@@ -6731,35 +6801,36 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_fishing_with_dynamite",
     "name": "Fishing With Dynamite",
     "address": null,
-    "city": "Manhattan Beach",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Manhattan Beach",
     "state": "CA",
     "cuisine_tags": [
-      "seafood",
-      "casual"
+      "seafood"
     ],
     "status": "open",
     "open_year": 2013,
     "close_year": null,
     "price_range": "$$$",
     "seats": null,
-    "format": null,
+    "format": "casual",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_the_arthur_j",
     "name": "The Arthur J",
     "address": null,
-    "city": "Manhattan Beach",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Manhattan Beach",
     "state": "CA",
     "cuisine_tags": [
       "steakhouse",
@@ -6773,7 +6844,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_la_cote_dor",
@@ -6783,18 +6855,18 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "closed",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_gucci_osteria_bh",
@@ -6804,21 +6876,21 @@
     "neighborhood": "Beverly Hills",
     "state": "CA",
     "cuisine_tags": [
-      "italian",
-      "fine-dining"
+      "italian"
     ],
     "status": "open",
     "open_year": 2020,
     "close_year": null,
     "price_range": "$$$$",
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {
       "michelin_stars": 1,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_da_vittorio",
@@ -6828,18 +6900,18 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "italian",
-      "fine-dining"
+      "italian"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_osteria_francescana",
@@ -6850,7 +6922,6 @@
     "state": null,
     "cuisine_tags": [
       "italian",
-      "fine-dining",
       "modernist"
     ],
     "status": "open",
@@ -6858,31 +6929,32 @@
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_valentino",
     "name": "Valentino",
     "address": null,
-    "city": "Santa Monica",
-    "neighborhood": null,
+    "city": "Los Angeles",
+    "neighborhood": "Santa Monica",
     "state": "CA",
     "cuisine_tags": [
-      "italian",
-      "fine-dining"
+      "italian"
     ],
     "status": "closed",
     "open_year": 1972,
     "close_year": 2018,
     "price_range": "$$$$",
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_pizzana",
@@ -6907,7 +6979,8 @@
       "bib_gourmand": true,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_le_colonne",
@@ -6917,18 +6990,18 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "italian",
-      "fine-dining"
+      "italian"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sqirl",
@@ -6949,7 +7022,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_bacchanalia",
@@ -6959,18 +7033,18 @@
     "neighborhood": null,
     "state": "GA",
     "cuisine_tags": [
-      "new-american",
-      "fine-dining"
+      "new-american"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_factory_kitchen",
@@ -6994,7 +7068,8 @@
       "bib_gourmand": true,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_mirazur",
@@ -7004,18 +7079,18 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_all_day_baby",
@@ -7036,7 +7111,8 @@
     "format": null,
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_le_louis_xv",
@@ -7046,18 +7122,18 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": null,
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_mangamerou",
@@ -7082,7 +7158,8 @@
         "2 Michelin stars"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_urasawa",
@@ -7093,8 +7170,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "closed",
     "open_year": 2003,
@@ -7110,7 +7186,8 @@
         "Zagat #1 food (2010, 2012, 2013)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sushi_zo",
@@ -7121,8 +7198,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": 2006,
@@ -7139,7 +7215,8 @@
         "Zagat #1 food (2011)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_sushi_zo_dtla",
@@ -7150,8 +7227,7 @@
     "state": "CA",
     "cuisine_tags": [
       "japanese",
-      "sushi",
-      "omakase"
+      "sushi"
     ],
     "status": "open",
     "open_year": 2013,
@@ -7164,7 +7240,8 @@
       "michelin_stars": 1,
       "michelin_year": 2025
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_saddle_peak_lodge",
@@ -7190,7 +7267,8 @@
         "Zagat top 5 food (2006, 2007)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_hamasaku",
@@ -7215,7 +7293,8 @@
         "Zagat 28 food (2013, 2014)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_piccolo",
@@ -7225,22 +7304,22 @@
     "neighborhood": "Venice",
     "state": "CA",
     "cuisine_tags": [
-      "italian",
-      "fine-dining"
+      "italian"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": "$$$$",
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {
       "other": [
         "Zagat 28 food (2013)"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_chantecler",
@@ -7250,18 +7329,18 @@
     "neighborhood": null,
     "state": null,
     "cuisine_tags": [
-      "french",
-      "fine-dining"
+      "french"
     ],
     "status": "open",
     "open_year": null,
     "close_year": null,
     "price_range": "$$$$",
     "seats": null,
-    "format": null,
+    "format": "fine-dining",
     "group_id": null,
     "ratings": {},
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_bridgetown_roti",
@@ -7286,7 +7365,8 @@
         "JBF semifinalist"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_rocios_mexican_kitchen",
@@ -7311,7 +7391,8 @@
         "JBF semifinalist"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_fat_flour",
@@ -7336,7 +7417,8 @@
         "JBF semifinalist"
       ]
     },
-    "website": null
+    "website": null,
+    "notes": null
   },
   {
     "id": "rest_meals_by_genet",
@@ -7360,6 +7442,2968 @@
         "JBF semifinalist"
       ]
     },
+    "website": null,
+    "notes": null
+  },
+  {
+    "id": "rest_bouley",
+    "name": "Bouley",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "TriBeCa",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": 1987,
+    "close_year": 2017,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_lespinasse",
+    "name": "Lespinasse",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "southeast-asian",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": 1991,
+    "close_year": 2003,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": "fine-dining",
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_jeangeorges",
+    "name": "Jean-Georges",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Upper West Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 1997,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": "tasting-menu",
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_abc_kitchen",
+    "name": "ABC Kitchen",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "farm-to-table",
+      "american"
+    ],
+    "status": "open",
+    "open_year": 2010,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_gramercy_tavern",
+    "name": "Gramercy Tavern",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Gramercy",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "seasonal"
+    ],
+    "status": "open",
+    "open_year": 1994,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": "fine-dining",
+    "group_id": "group_ushg",
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_craft",
+    "name": "Craft",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "seasonal"
+    ],
+    "status": "open",
+    "open_year": 2001,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_eleven_madison_park",
+    "name": "Eleven Madison Park",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "fine-dining",
+      "plant-based",
+      "new-american"
+    ],
+    "status": "open",
+    "open_year": 2003,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": "tasting-menu",
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 3,
+      "michelin_year": 2025,
+      "jbf": [
+        "Outstanding Chef 2014 (winner)"
+      ],
+      "other": [
+        "World's 50 Best #1 (2017)"
+      ]
+    },
+    "website": null
+  },
+  {
+    "id": "rest_café_boulud",
+    "name": "Café Boulud",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Upper East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 1998,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": null,
+    "group_id": "group_dinex",
+    "ratings": {
+      "jbf": [
+        "Rising Star Chef 2000 (winner)"
+      ]
+    },
+    "website": null
+  },
+  {
+    "id": "rest_the_dutch",
+    "name": "The Dutch",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "SoHo",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "eclectic"
+    ],
+    "status": "open",
+    "open_year": 2011,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": "group_noho_hospitality",
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_locanda_verde",
+    "name": "Locanda Verde",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "TriBeCa",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian",
+      "taverna"
+    ],
+    "status": "open",
+    "open_year": 2009,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": "group_noho_hospitality",
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_butter",
+    "name": "Butter",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "comfort"
+    ],
+    "status": "open",
+    "open_year": 2002,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_frenchette",
+    "name": "Frenchette",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "TriBeCa",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "bistro",
+      "natural-wine"
+    ],
+    "status": "open",
+    "open_year": 2018,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "jbf": [
+        "Outstanding Restaurateur 2025 (winner)"
+      ]
+    },
+    "website": null
+  },
+  {
+    "id": "rest_momofuku_noodle_bar",
+    "name": "Momofuku Noodle Bar",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "ramen",
+      "korean-american",
+      "asian"
+    ],
+    "status": "open",
+    "open_year": 2004,
+    "close_year": null,
+    "price_range": "$$",
+    "seats": null,
+    "format": null,
+    "group_id": "group_momofuku",
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_momofuku_ko",
+    "name": "Momofuku Ko",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "tasting-menu",
+      "korean-american",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2008,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": "tasting-menu",
+    "group_id": "group_momofuku",
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2019
+    },
+    "website": null
+  },
+  {
+    "id": "rest_wd50",
+    "name": "wd~50",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Lower East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "molecular",
+      "avant-garde"
+    ],
+    "status": "closed",
+    "open_year": 2003,
+    "close_year": 2014,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_hearth",
+    "name": "Hearth",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian",
+      "american"
+    ],
+    "status": "open",
+    "open_year": 2003,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_aquavit",
+    "name": "Aquavit",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "scandinavian",
+      "nordic"
+    ],
+    "status": "open",
+    "open_year": 1987,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_red_rooster",
+    "name": "Red Rooster",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Harlem",
+    "state": "NY",
+    "cuisine_tags": [
+      "soul-food",
+      "american",
+      "global"
+    ],
+    "status": "open",
+    "open_year": 2010,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "jbf": [
+        "Best Chef: NYC 2003 (winner, at Aquavit)"
+      ]
+    },
+    "website": null
+  },
+  {
+    "id": "rest_tabla",
+    "name": "Tabla",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "indian",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": 1998,
+    "close_year": 2010,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_carbone",
+    "name": "Carbone",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Greenwich Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian-american",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2013,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": null,
+    "group_id": "group_major_food",
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_the_grill",
+    "name": "The Grill",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "fine-dining",
+      "steakhouse"
+    ],
+    "status": "open",
+    "open_year": 2017,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": null,
+    "group_id": "group_major_food",
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_crown_shy",
+    "name": "Crown Shy",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Financial District",
+    "state": "NY",
+    "cuisine_tags": [
+      "new-american",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2019,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_saga",
+    "name": "Saga",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Financial District",
+    "state": "NY",
+    "cuisine_tags": [
+      "tasting-menu",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2020,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": "tasting-menu",
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_tatiana",
+    "name": "Tatiana",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Lincoln Center",
+    "state": "NY",
+    "cuisine_tags": [
+      "afro-caribbean",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2022,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025,
+      "jbf": [
+        "Best Chef: New York 2024 (winner)"
+      ]
+    },
+    "website": null
+  },
+  {
+    "id": "rest_estela",
+    "name": "Estela",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Nolita",
+    "state": "NY",
+    "cuisine_tags": [
+      "mediterranean",
+      "raw-bar"
+    ],
+    "status": "open",
+    "open_year": 2013,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_lilia",
+    "name": "Lilia",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Williamsburg",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian",
+      "pasta"
+    ],
+    "status": "open",
+    "open_year": 2016,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_gabriel_kreuther",
+    "name": "Gabriel Kreuther",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "alsatian",
+      "french",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2015,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": "tasting-menu",
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_chefs_table_at_brooklyn_fare",
+    "name": "Chef's Table at Brooklyn Fare",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Hell's Kitchen",
+    "state": "NY",
+    "cuisine_tags": [
+      "tasting-menu",
+      "french-japanese"
+    ],
+    "status": "open",
+    "open_year": 2009,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": "tasting-menu",
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 2,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_prune",
+    "name": "Prune",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "bistro",
+      "european",
+      "nose-to-tail"
+    ],
+    "status": "open",
+    "open_year": 1999,
+    "close_year": null,
+    "price_range": "$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_sushi_nakazawa",
+    "name": "Sushi Nakazawa",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "sushi",
+      "omakase"
+    ],
+    "status": "open",
+    "open_year": 2013,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": "omakase",
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_cote",
+    "name": "Cote",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "steakhouse",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2017,
+    "close_year": null,
+    "price_range": "$$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {
+      "michelin_stars": 1,
+      "michelin_year": 2025
+    },
+    "website": null
+  },
+  {
+    "id": "rest_dirt_candy",
+    "name": "Dirt Candy",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Lower East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "vegetable-forward",
+      "vegetarian"
+    ],
+    "status": "open",
+    "open_year": 2008,
+    "close_year": null,
+    "price_range": "$$$",
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_restaurant_gordon_ramsay",
+    "name": "Restaurant Gordon Ramsay",
+    "address": null,
+    "city": "London",
+    "neighborhood": "Chelsea",
+    "state": "UK",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 1998,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 3
+  },
+  {
+    "id": "rest_blue_smoke",
+    "name": "Blue Smoke",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "barbecue",
+      "american"
+    ],
+    "status": "open",
+    "open_year": 2002,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_le_meurice",
+    "name": "Le Meurice",
+    "address": null,
+    "city": "Paris",
+    "neighborhood": null,
+    "state": "France",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_milk_bar",
+    "name": "Milk Bar",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "pastry",
+      "bakery"
+    ],
+    "status": "open",
+    "open_year": 2008,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_huso",
+    "name": "Huso",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "contemporary",
+      "fine-dining",
+      "seafood"
+    ],
+    "status": "open",
+    "open_year": 2024,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_neta",
+    "name": "Neta",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Greenwich Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_kochi",
+    "name": "Kochi",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Hell's Kitchen",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "status": "open",
+    "open_year": 2019,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_mari",
+    "name": "Mari",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Hell's Kitchen",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_momofuku_ma_peche",
+    "name": "Momofuku Ma Peche",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "asian",
+      "american"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_kabawa",
+    "name": "Kabawa",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "caribbean",
+      "tasting-menu"
+    ],
+    "status": "open",
+    "open_year": 2024,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_danji",
+    "name": "Danji",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Hell's Kitchen",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean"
+    ],
+    "status": "closed",
+    "open_year": 2010,
+    "close_year": 2021,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_meju",
+    "name": "Meju",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Long Island City",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "fermentation",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_noksu",
+    "name": "Noksu",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Koreatown",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "contemporary",
+      "tasting-menu"
+    ],
+    "status": "open",
+    "open_year": 2023,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_rezdora",
+    "name": "Rezdora",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian",
+      "pasta",
+      "emilian"
+    ],
+    "status": "open",
+    "open_year": 2019,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_contra",
+    "name": "Contra",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Lower East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "contemporary",
+      "tasting-menu"
+    ],
+    "status": "open",
+    "open_year": 2013,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_corima",
+    "name": "Corima",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Chinatown",
+    "state": "NY",
+    "cuisine_tags": [
+      "mexican",
+      "contemporary",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2024,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_jeju_noodle_bar",
+    "name": "Jeju Noodle Bar",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "noodles"
+    ],
+    "status": "open",
+    "open_year": 2017,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_junoon",
+    "name": "Junoon",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "indian",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": 2010,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_bungalow",
+    "name": "Bungalow",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "indian"
+    ],
+    "status": "open",
+    "open_year": 2024,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_the_river_cafe",
+    "name": "The River Cafe",
+    "address": null,
+    "city": "London",
+    "neighborhood": null,
+    "state": "UK",
+    "cuisine_tags": [
+      "italian"
+    ],
+    "status": "open",
+    "open_year": 1987,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_the_breslin",
+    "name": "The Breslin",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "NoMad",
+    "state": "NY",
+    "cuisine_tags": [
+      "british",
+      "gastropub"
+    ],
+    "status": "closed",
+    "open_year": 2009,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_sailor",
+    "name": "Sailor",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Fort Greene",
+    "state": "NY",
+    "cuisine_tags": [
+      "british",
+      "seasonal"
+    ],
+    "status": "open",
+    "open_year": 2023,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_nobu",
+    "name": "Nobu",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "peruvian"
+    ],
+    "status": "open",
+    "open_year": 1994,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_morimoto",
+    "name": "Morimoto",
+    "address": null,
+    "city": "Philadelphia",
+    "neighborhood": null,
+    "state": "PA",
+    "cuisine_tags": [
+      "japanese",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2001,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_momosan_ramen_sake",
+    "name": "Momosan Ramen & Sake",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Murray Hill",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "ramen"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_noma",
+    "name": "Noma",
+    "address": null,
+    "city": "Copenhagen",
+    "neighborhood": null,
+    "state": "Denmark",
+    "cuisine_tags": [
+      "nordic",
+      "fine-dining",
+      "foraging"
+    ],
+    "status": "closed",
+    "open_year": 2003,
+    "close_year": 2024,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_troisgros",
+    "name": "Troisgros",
+    "address": null,
+    "city": "Roanne",
+    "neighborhood": null,
+    "state": "France",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_le_chantecler",
+    "name": "Le Chantecler",
+    "address": null,
+    "city": "Nice",
+    "neighborhood": null,
+    "state": "France",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_cello",
+    "name": "Cello",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Upper East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_blt_steak",
+    "name": "BLT Steak",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "steakhouse",
+      "american"
+    ],
+    "status": "open",
+    "open_year": 2004,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_jua",
+    "name": "JUA",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "wood-fire",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2020,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_the_nomad",
+    "name": "The NoMad",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "NoMad",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_bridges",
+    "name": "Bridges",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Chinatown",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "basque",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2024,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_the_four_horsemen",
+    "name": "The Four Horsemen",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Williamsburg",
+    "state": "NY",
+    "cuisine_tags": [
+      "new-american",
+      "natural-wine"
+    ],
+    "status": "open",
+    "open_year": 2015,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_sunns",
+    "name": "Sunn's",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Chinatown",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "wine-bar"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_olmsted",
+    "name": "Olmsted",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Prospect Heights",
+    "state": "NY",
+    "cuisine_tags": [
+      "new-american",
+      "seasonal"
+    ],
+    "status": "open",
+    "open_year": 2016,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_kann",
+    "name": "Kann",
+    "address": null,
+    "city": "Portland",
+    "neighborhood": null,
+    "state": "OR",
+    "cuisine_tags": [
+      "haitian",
+      "diaspora"
+    ],
+    "status": "open",
+    "open_year": 2022,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_maison_passerelle",
+    "name": "Maison Passerelle",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Financial District",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "brasserie"
+    ],
+    "status": "open",
+    "open_year": 2025,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_town",
+    "name": "Town",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_country",
+    "name": "Country",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_the_lambs_club",
+    "name": "The Lambs Club",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_vong",
+    "name": "Vong",
+    "address": null,
+    "city": "Chicago",
+    "neighborhood": null,
+    "state": "IL",
+    "cuisine_tags": [
+      "thai",
+      "french"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_buddakan",
+    "name": "Buddakan",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Chelsea",
+    "state": "NY",
+    "cuisine_tags": [
+      "asian"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_goosefeather",
+    "name": "Goosefeather",
+    "address": null,
+    "city": "Tarrytown",
+    "neighborhood": null,
+    "state": "NY",
+    "cuisine_tags": [
+      "cantonese"
+    ],
+    "status": "open",
+    "open_year": 2019,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_del_posto",
+    "name": "Del Posto",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Chelsea",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_crane_club",
+    "name": "Crane Club",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Chelsea",
+    "state": "NY",
+    "cuisine_tags": [
+      "contemporary",
+      "wood-fire"
+    ],
+    "status": "open",
+    "open_year": 2023,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_bruneau",
+    "name": "Bruneau",
+    "address": null,
+    "city": "Brussels",
+    "neighborhood": null,
+    "state": "Belgium",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_spring_paris",
+    "name": "Spring Paris",
+    "address": null,
+    "city": "Paris",
+    "neighborhood": null,
+    "state": "France",
+    "cuisine_tags": [
+      "french"
+    ],
+    "status": "closed",
+    "open_year": 2006,
+    "close_year": 2017,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_le_coucou",
+    "name": "Le Coucou",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "SoHo",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "classical",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2016,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_kitcho",
+    "name": "Kitcho",
+    "address": null,
+    "city": "Kyoto",
+    "neighborhood": null,
+    "state": "Japan",
+    "cuisine_tags": [
+      "japanese",
+      "kaiseki"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_brushstroke",
+    "name": "Brushstroke",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "kaiseki"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_yamada",
+    "name": "Yamada",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Chinatown",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "kaiseki"
+    ],
+    "status": "open",
+    "open_year": 2025,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_oiji",
+    "name": "Oiji",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_oiji_mi",
+    "name": "Oiji Mi",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Flatiron",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "contemporary",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2022,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_claud",
+    "name": "Claud",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "wine-bar",
+      "american"
+    ],
+    "status": "open",
+    "open_year": 2022,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_penny",
+    "name": "Penny",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "bistro"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_hav_mar",
+    "name": "Hav & Mar",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Chelsea",
+    "state": "NY",
+    "cuisine_tags": [
+      "global",
+      "seafood"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_perry_street",
+    "name": "Perry Street",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_oxomoco",
+    "name": "Oxomoco",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Greenpoint",
+    "state": "NY",
+    "cuisine_tags": [
+      "mexican",
+      "wood-fire"
+    ],
+    "status": "open",
+    "open_year": 2018,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_an_american_place",
+    "name": "An American Place",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "american"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_restaurant_marc_forgione",
+    "name": "Restaurant Marc Forgione",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2008,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_empellon",
+    "name": "Empellon",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "mexican",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2011,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_sushi_sho_tokyo",
+    "name": "Sushi Sho Tokyo",
+    "address": null,
+    "city": "Tokyo",
+    "neighborhood": null,
+    "state": "Japan",
+    "cuisine_tags": [
+      "japanese",
+      "sushi"
+    ],
+    "status": "closed",
+    "open_year": 1989,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_sushi_sho",
+    "name": "Sushi Sho",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown East",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2024,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 3
+  },
+  {
+    "id": "rest_torrisi_italian_specialties",
+    "name": "Torrisi Italian Specialties",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Nolita",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian-american"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_don_angie",
+    "name": "Don Angie",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian-american"
+    ],
+    "status": "open",
+    "open_year": 2017,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_san_sabino",
+    "name": "San Sabino",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian"
+    ],
+    "status": "open",
+    "open_year": 2024,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_quality_meats",
+    "name": "Quality Meats",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "steakhouse",
+      "american"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_ilis",
+    "name": "Ilis",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Greenpoint",
+    "state": "NY",
+    "cuisine_tags": [
+      "nordic",
+      "fire-cooking"
+    ],
+    "status": "open",
+    "open_year": 2023,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_pig_khao",
+    "name": "Pig & Khao",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Lower East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "filipino",
+      "thai",
+      "southeast-asian"
+    ],
+    "status": "open",
+    "open_year": 2012,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_blue_hill",
+    "name": "Blue Hill",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Greenwich Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "farm-to-table",
+      "american"
+    ],
+    "status": "open",
+    "open_year": 2000,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_the_good_fork",
+    "name": "The Good Fork",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Red Hook",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "korean"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_insa",
+    "name": "Insa",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Gowanus",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "barbecue"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_gage_tollner",
+    "name": "Gage & Tollner",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Downtown Brooklyn",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "seafood"
+    ],
+    "status": "open",
+    "open_year": 2021,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_felidia",
+    "name": "Felidia",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Upper East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_a_voce",
+    "name": "A Voce",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Columbus Circle",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_shuka",
+    "name": "Shuka",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "SoHo",
+    "state": "NY",
+    "cuisine_tags": [
+      "eastern-mediterranean"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_shukette",
+    "name": "Shukette",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Chelsea",
+    "state": "NY",
+    "cuisine_tags": [
+      "eastern-mediterranean"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_semma",
+    "name": "Semma",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "south-indian",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2021,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_adda",
+    "name": "Adda",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Long Island City",
+    "state": "NY",
+    "cuisine_tags": [
+      "indian"
+    ],
+    "status": "open",
+    "open_year": 2018,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_dhamaka",
+    "name": "Dhamaka",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Lower East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "regional-indian"
+    ],
+    "status": "open",
+    "open_year": 2021,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_chateau_restaurant_joel_robuchon",
+    "name": "Chateau Restaurant Joel Robuchon",
+    "address": null,
+    "city": "Tokyo",
+    "neighborhood": null,
+    "state": "Japan",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_latelier_de_joel_robuchon",
+    "name": "L'Atelier de Joel Robuchon",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "french",
+      "fine-dining"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_labeille",
+    "name": "l'abeille",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "french-japanese",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2022,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_sushi_ichimura",
+    "name": "Sushi Ichimura",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_muku",
+    "name": "Muku",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Tribeca",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "kaiseki"
+    ],
+    "status": "open",
+    "open_year": 2025,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_hatsuhana",
+    "name": "Hatsuhana",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_sushi_seki",
+    "name": "Sushi Seki",
+    "address": null,
+    "city": "New York",
+    "neighborhood": null,
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_blue_ribbon",
+    "name": "Blue Ribbon",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "SoHo",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "seafood"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_shota_omakase",
+    "name": "Shota Omakase",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Williamsburg",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "status": "open",
+    "open_year": 2023,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_hags",
+    "name": "HAGS",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_joo_ok",
+    "name": "Joo Ok",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Koreatown",
+    "state": "NY",
+    "cuisine_tags": [
+      "korean",
+      "jang",
+      "fine-dining",
+      "tasting-menu"
+    ],
+    "status": "open",
+    "open_year": 2024,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 2
+  },
+  {
+    "id": "rest_sakamai",
+    "name": "SakaMai",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Lower East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_bar_moga",
+    "name": "Bar Moga",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese"
+    ],
+    "status": "closed",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_tsukimi",
+    "name": "Tsukimi",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "East Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "kaiseki"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_dept_of_culture",
+    "name": "Dept of Culture",
+    "address": null,
+    "city": "Brooklyn",
+    "neighborhood": "Bed-Stuy",
+    "state": "NY",
+    "cuisine_tags": [
+      "nigerian",
+      "west-african"
+    ],
+    "status": "open",
+    "open_year": 2022,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_buvette",
+    "name": "Buvette",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "french"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_via_carota",
+    "name": "Via Carota",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian"
+    ],
+    "status": "open",
+    "open_year": 2014,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_i_sodi",
+    "name": "I Sodi",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "italian"
+    ],
+    "status": "open",
+    "open_year": 2008,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_mission_chinese_food",
+    "name": "Mission Chinese Food",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Lower East Side",
+    "state": "NY",
+    "cuisine_tags": [
+      "chinese",
+      "american"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_lei",
+    "name": "Lei",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Chinatown",
+    "state": "NY",
+    "cuisine_tags": [
+      "chinese-american",
+      "wine-bar"
+    ],
+    "status": "open",
+    "open_year": 2025,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_uncle_boons",
+    "name": "Uncle Boons",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Nolita",
+    "state": "NY",
+    "cuisine_tags": [
+      "thai"
+    ],
+    "status": "closed",
+    "open_year": 2013,
+    "close_year": 2020,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_thai_diner",
+    "name": "Thai Diner",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Nolita",
+    "state": "NY",
+    "cuisine_tags": [
+      "thai"
+    ],
+    "status": "open",
+    "open_year": 2020,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null
+  },
+  {
+    "id": "rest_joji",
+    "name": "Joji",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "Midtown East",
+    "state": "NY",
+    "cuisine_tags": [
+      "japanese",
+      "omakase"
+    ],
+    "status": "open",
+    "open_year": null,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
+    "website": null,
+    "michelin_stars": 1
+  },
+  {
+    "id": "rest_cynthia",
+    "name": "Cynthia",
+    "address": null,
+    "city": "New York",
+    "neighborhood": "West Village",
+    "state": "NY",
+    "cuisine_tags": [
+      "american",
+      "fine-dining"
+    ],
+    "status": "open",
+    "open_year": 2026,
+    "close_year": null,
+    "price_range": null,
+    "seats": null,
+    "format": null,
+    "group_id": null,
+    "ratings": {},
     "website": null
   }
 ]

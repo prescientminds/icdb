@@ -187,3 +187,23 @@ export function getStakesForChef(chefId: string): Stake[] {
     (s) => s.investor_type === "chef" && s.investor_id === chefId
   );
 }
+
+// City helpers
+
+export function getCityForChef(chefId: string): string | null {
+  const currentStop = stops.find((s) => s.chef_id === chefId && s.is_current);
+  if (!currentStop) return null;
+  const restaurant = getRestaurant(currentStop.restaurant_id);
+  return restaurant?.city || null;
+}
+
+export function getPrimaryCities(): string[] {
+  const cityCounts = new Map<string, number>();
+  for (const r of restaurants) {
+    cityCounts.set(r.city, (cityCounts.get(r.city) || 0) + 1);
+  }
+  return Array.from(cityCounts.entries())
+    .filter(([, count]) => count >= 10)
+    .sort((a, b) => b[1] - a[1])
+    .map(([city]) => city);
+}

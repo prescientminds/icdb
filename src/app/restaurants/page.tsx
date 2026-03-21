@@ -1,8 +1,16 @@
+"use client";
 import Link from "next/link";
 import { restaurants, stops, chefs, getTrainingKitchenStats } from "@/lib/data";
+import { useCity } from "@/components/CityContext";
 
 export default function RestaurantsPage() {
-  const sorted = [...restaurants].sort((a, b) => {
+  const { selectedCity } = useCity();
+
+  const filtered = selectedCity
+    ? restaurants.filter((r) => r.city === selectedCity)
+    : restaurants;
+
+  const sorted = [...filtered].sort((a, b) => {
     const aStars = (a.ratings as Record<string, number>)?.michelin_stars || 0;
     const bStars = (b.ratings as Record<string, number>)?.michelin_stars || 0;
     if (bStars !== aStars) return bStars - aStars;
@@ -19,7 +27,7 @@ export default function RestaurantsPage() {
           Restaurants
         </h1>
         <p className="text-sm text-stone-500">
-          {restaurants.length} restaurants · sorted by Michelin stars, then training kitchen influence
+          {filtered.length} restaurants · sorted by Michelin stars, then training kitchen influence
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -63,7 +71,6 @@ export default function RestaurantsPage() {
                   </span>
                 ))}
               </div>
-              {/* Signal line */}
               <div className="mt-2 flex items-center gap-3 text-xs text-stone-400">
                 {staff.length > 0 && (
                   <span className="text-amber-700">

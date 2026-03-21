@@ -3,12 +3,13 @@
     "id": "stop_001",
     "chef_id": "chef_michael_cimarusti",
     "restaurant_id": "rest_providence",
-    "position": "Executive Chef & Co-Owner",
+    "position": "Chef & Co-Owner",
     "start_year": 2005,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_002",
@@ -19,7 +20,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_003",
@@ -30,7 +32,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_004",
@@ -53,7 +56,8 @@
     "end_year": 2004,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_006",
@@ -64,7 +68,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_alain_passard"
+    "mentor_id": "chef_alain_passard",
+    "notes": null
   },
   {
     "id": "stop_010",
@@ -75,7 +80,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_011",
@@ -86,7 +92,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_012",
@@ -121,7 +128,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_021",
@@ -132,7 +140,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_022",
@@ -143,7 +152,8 @@
     "end_year": 2020,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_023",
@@ -178,7 +188,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_031",
@@ -196,7 +207,7 @@
     "id": "stop_032",
     "chef_id": "chef_aitor_zabala",
     "restaurant_id": "rest_elbullli",
-    "position": "Creative Team",
+    "position": "Opening Team",
     "start_year": 2008,
     "end_year": null,
     "is_current": false,
@@ -213,7 +224,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_juan_mari_arzak"
+    "mentor_id": "chef_juan_mari_arzak",
+    "notes": null
   },
   {
     "id": "stop_034",
@@ -224,7 +236,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_pedro_subijana"
+    "mentor_id": "chef_pedro_subijana",
+    "notes": null
   },
   {
     "id": "stop_040",
@@ -235,7 +248,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_041",
@@ -246,7 +260,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_corey_lee"
+    "mentor_id": "chef_corey_lee",
+    "notes": null
   },
   {
     "id": "stop_042",
@@ -257,7 +272,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_daniel_patterson"
+    "mentor_id": "chef_daniel_patterson",
+    "notes": null
   },
   {
     "id": "stop_050",
@@ -268,7 +284,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_051",
@@ -279,7 +296,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_052",
@@ -290,7 +308,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_053",
@@ -301,7 +320,8 @@
     "end_year": 2014,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_054",
@@ -319,12 +339,13 @@
     "id": "stop_055",
     "chef_id": "chef_jordan_kahn",
     "restaurant_id": "rest_per_se",
-    "position": "Opening Pastry Team",
+    "position": "Pastry Cook",
     "start_year": null,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_thomas_keller"
+    "mentor_id": "chef_thomas_keller",
+    "notes": null
   },
   {
     "id": "stop_056",
@@ -335,7 +356,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_grant_achatz"
+    "mentor_id": "chef_grant_achatz",
+    "notes": null
   },
   {
     "id": "stop_060",
@@ -346,7 +368,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_061",
@@ -357,7 +380,8 @@
     "end_year": 2024,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jordan_kahn"
+    "mentor_id": "chef_jordan_kahn",
+    "notes": null
   },
   {
     "id": "stop_062",
@@ -368,7 +392,8 @@
     "end_year": 2023,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_063",
@@ -379,7 +404,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_morihiro_onodera"
+    "mentor_id": "chef_morihiro_onodera",
+    "notes": null
   },
   {
     "id": "stop_064",
@@ -390,7 +416,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_065",
@@ -401,7 +428,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_070",
@@ -412,7 +440,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_071",
@@ -423,7 +452,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_072",
@@ -434,7 +464,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_073",
@@ -457,7 +488,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_075",
@@ -468,7 +500,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_076",
@@ -479,7 +512,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_080",
@@ -490,7 +524,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_081",
@@ -501,7 +536,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_082",
@@ -512,7 +548,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_083",
@@ -523,7 +560,8 @@
     "end_year": 2012,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_084",
@@ -534,18 +572,20 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_085",
     "chef_id": "chef_nancy_silverton",
     "restaurant_id": "rest_spago",
-    "position": "Opening Pastry Chef",
+    "position": "Pastry Chef",
     "start_year": 1982,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_086",
@@ -556,7 +596,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jonathan_waxman"
+    "mentor_id": "chef_jonathan_waxman",
+    "notes": null
   },
   {
     "id": "stop_090",
@@ -567,7 +608,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_091",
@@ -590,7 +632,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_nancy_silverton"
+    "mentor_id": "chef_nancy_silverton",
+    "notes": null
   },
   {
     "id": "stop_100",
@@ -601,7 +644,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_101",
@@ -612,7 +656,8 @@
     "end_year": 2021,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_102",
@@ -623,7 +668,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_110",
@@ -634,7 +680,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_111",
@@ -657,7 +704,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_121",
@@ -668,7 +716,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_122",
@@ -679,7 +728,8 @@
     "end_year": 2020,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_123",
@@ -702,7 +752,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_130",
@@ -713,7 +764,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_131",
@@ -731,12 +783,13 @@
     "id": "stop_140",
     "chef_id": "chef_fatima_juarez",
     "restaurant_id": "rest_komal",
-    "position": "Chef & Co-Founder",
+    "position": "Co-Founder & Chef",
     "start_year": 2024,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_141",
@@ -747,7 +800,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_gilberto_cetina"
+    "mentor_id": "chef_gilberto_cetina",
+    "notes": null
   },
   {
     "id": "stop_142",
@@ -758,7 +812,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_gilberto_cetina"
+    "mentor_id": "chef_gilberto_cetina",
+    "notes": null
   },
   {
     "id": "stop_143",
@@ -769,7 +824,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_enrique_olvera"
+    "mentor_id": "chef_enrique_olvera",
+    "notes": null
   },
   {
     "id": "stop_150",
@@ -780,7 +836,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_151",
@@ -791,7 +848,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_nobu_matsuhisa"
+    "mentor_id": "chef_nobu_matsuhisa",
+    "notes": null
   },
   {
     "id": "stop_152",
@@ -802,7 +860,8 @@
     "end_year": 2011,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_160",
@@ -813,7 +872,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_161",
@@ -824,7 +884,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_162",
@@ -835,7 +896,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_163",
@@ -846,7 +908,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_thomas_keller"
+    "mentor_id": "chef_thomas_keller",
+    "notes": null
   },
   {
     "id": "stop_164",
@@ -857,7 +920,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_david_waltuck"
+    "mentor_id": "chef_david_waltuck",
+    "notes": null
   },
   {
     "id": "stop_170",
@@ -868,7 +932,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_171",
@@ -879,7 +944,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_dan_barber"
+    "mentor_id": "chef_dan_barber",
+    "notes": null
   },
   {
     "id": "stop_172",
@@ -890,7 +956,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_175",
@@ -901,7 +968,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_176",
@@ -912,7 +980,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_dan_barber"
+    "mentor_id": "chef_dan_barber",
+    "notes": null
   },
   {
     "id": "stop_180",
@@ -923,7 +992,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_181",
@@ -958,7 +1028,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_191",
@@ -981,7 +1052,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_200",
@@ -992,7 +1064,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_201",
@@ -1003,7 +1076,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_202",
@@ -1014,7 +1088,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_203",
@@ -1025,7 +1100,8 @@
     "end_year": 1982,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_210",
@@ -1036,7 +1112,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_211",
@@ -1047,7 +1124,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_220",
@@ -1058,7 +1136,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_221",
@@ -1069,7 +1148,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_222",
@@ -1080,7 +1160,8 @@
     "end_year": 2001,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_thomas_keller"
+    "mentor_id": "chef_thomas_keller",
+    "notes": null
   },
   {
     "id": "stop_230",
@@ -1091,7 +1172,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_231",
@@ -1102,7 +1184,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_232",
@@ -1125,7 +1208,8 @@
     "end_year": 2020,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_241",
@@ -1136,7 +1220,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_242",
@@ -1147,7 +1232,8 @@
     "end_year": 2020,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_243",
@@ -1170,7 +1256,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_251",
@@ -1181,7 +1268,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_260",
@@ -1192,7 +1280,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_261",
@@ -1203,7 +1292,8 @@
     "end_year": 2018,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_262",
@@ -1226,7 +1316,8 @@
     "end_year": 2020,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_271",
@@ -1261,7 +1352,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_291",
@@ -1272,7 +1364,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_292",
@@ -1283,7 +1376,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_293",
@@ -1294,7 +1388,8 @@
     "end_year": 2018,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_300",
@@ -1305,7 +1400,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_301",
@@ -1316,7 +1412,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_302",
@@ -1327,7 +1424,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_303",
@@ -1338,7 +1436,8 @@
     "end_year": 2018,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_310",
@@ -1349,7 +1448,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_311",
@@ -1360,7 +1460,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_312",
@@ -1371,7 +1472,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_320",
@@ -1382,7 +1484,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_321",
@@ -1393,7 +1496,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_322",
@@ -1404,7 +1508,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_323",
@@ -1415,7 +1520,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_324",
@@ -1438,7 +1544,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_331",
@@ -1449,7 +1556,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_340",
@@ -1460,7 +1568,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_341",
@@ -1471,7 +1580,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_350",
@@ -1482,7 +1592,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_360",
@@ -1493,7 +1604,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_370",
@@ -1504,18 +1616,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_371",
     "chef_id": "chef_ferran_adria",
     "restaurant_id": "rest_elbullli",
-    "position": "Chef & Creative Director",
+    "position": "Culinary Director",
     "start_year": 1984,
     "end_year": 2011,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_372",
@@ -1526,7 +1640,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_373",
@@ -1537,7 +1652,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_374",
@@ -1548,7 +1664,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_375",
@@ -1559,7 +1676,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_376",
@@ -1570,7 +1688,8 @@
     "end_year": 2018,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_377",
@@ -1581,7 +1700,8 @@
     "end_year": 1984,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_378",
@@ -1592,7 +1712,8 @@
     "end_year": 2009,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_379",
@@ -1603,7 +1724,8 @@
     "end_year": 1999,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_380",
@@ -1614,7 +1736,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_381",
@@ -1625,7 +1748,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_382",
@@ -1636,7 +1760,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_383",
@@ -1647,7 +1772,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_384",
@@ -1658,7 +1784,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_400",
@@ -1688,12 +1815,13 @@
     "id": "stop_402",
     "chef_id": "chef_joachim_splichal",
     "restaurant_id": "rest_patina",
-    "position": "Chef & Founder",
+    "position": "Founder & Chef",
     "start_year": 1989,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_403",
@@ -1704,7 +1832,8 @@
     "end_year": 2012,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_404",
@@ -1715,7 +1844,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_405",
@@ -1726,7 +1856,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_alice_waters"
+    "mentor_id": "chef_alice_waters",
+    "notes": null
   },
   {
     "id": "stop_406",
@@ -1737,7 +1868,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_407",
@@ -1748,7 +1880,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_408",
@@ -1759,7 +1892,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_eric_ripert"
+    "mentor_id": "chef_eric_ripert",
+    "notes": null
   },
   {
     "id": "stop_409",
@@ -1770,7 +1904,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_410",
@@ -1781,18 +1916,20 @@
     "end_year": 2018,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_411",
     "chef_id": "chef_jose_andres",
     "restaurant_id": "rest_elbullli",
-    "position": "Stagière",
+    "position": "Stage",
     "start_year": null,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_ferran_adria"
+    "mentor_id": "chef_ferran_adria",
+    "notes": null
   },
   {
     "id": "stop_412",
@@ -1803,7 +1940,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_413",
@@ -1814,7 +1952,8 @@
     "end_year": 2012,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_414",
@@ -1825,7 +1964,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_415",
@@ -1836,7 +1976,8 @@
     "end_year": 2022,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_416",
@@ -1847,7 +1988,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_417",
@@ -1858,7 +2000,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_418",
@@ -1869,18 +2012,20 @@
     "end_year": 2013,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_419",
     "chef_id": "chef_eric_ripert",
     "restaurant_id": "rest_le_bernardin",
-    "position": "Executive Chef & Co-Owner",
+    "position": "Chef & Co-Owner",
     "start_year": 1994,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_420",
@@ -1891,7 +2036,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_421",
@@ -1902,7 +2048,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_422",
@@ -1913,7 +2060,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_423",
@@ -1924,7 +2072,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_424",
@@ -1935,7 +2084,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_425",
@@ -1946,7 +2096,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_426",
@@ -1957,7 +2108,8 @@
     "end_year": 2020,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_427",
@@ -1968,7 +2120,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_david_kinch"
+    "mentor_id": "chef_david_kinch",
+    "notes": null
   },
   {
     "id": "stop_428",
@@ -1979,7 +2132,8 @@
     "end_year": 2020,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_429",
@@ -1990,7 +2144,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_charlie_palmer"
+    "mentor_id": "chef_charlie_palmer",
+    "notes": null
   },
   {
     "id": "stop_430",
@@ -2001,7 +2156,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_marc_meneau"
+    "mentor_id": "chef_marc_meneau",
+    "notes": null
   },
   {
     "id": "stop_431",
@@ -2012,7 +2168,8 @@
     "end_year": 2018,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_432",
@@ -2023,7 +2180,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_mark_peel"
+    "mentor_id": "chef_mark_peel",
+    "notes": null
   },
   {
     "id": "stop_433",
@@ -2034,7 +2192,8 @@
     "end_year": 2015,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_nancy_silverton"
+    "mentor_id": "chef_nancy_silverton",
+    "notes": null
   },
   {
     "id": "stop_434",
@@ -2045,7 +2204,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_435",
@@ -2068,7 +2228,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_mark_peel"
+    "mentor_id": "chef_mark_peel",
+    "notes": null
   },
   {
     "id": "stop_437",
@@ -2079,7 +2240,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_438",
@@ -2090,7 +2252,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_439",
@@ -2101,7 +2264,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_thomas_keller"
+    "mentor_id": "chef_thomas_keller",
+    "notes": null
   },
   {
     "id": "stop_440",
@@ -2112,7 +2276,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_441",
@@ -2123,7 +2288,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_mark_peel"
+    "mentor_id": "chef_mark_peel",
+    "notes": null
   },
   {
     "id": "stop_442",
@@ -2134,18 +2300,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_443",
     "chef_id": "chef_keith_corbin",
     "restaurant_id": "rest_locol",
-    "position": "Line Cook → Kitchen Manager",
+    "position": "Cook",
     "start_year": 2016,
     "end_year": 2018,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_daniel_patterson"
+    "mentor_id": "chef_daniel_patterson",
+    "notes": null
   },
   {
     "id": "stop_444",
@@ -2156,18 +2324,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_445",
     "chef_id": "chef_sherry_yard",
     "restaurant_id": "rest_spago",
-    "position": "Executive Pastry Chef",
+    "position": "Pastry Chef",
     "start_year": 1994,
     "end_year": 2012,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_446",
@@ -2178,18 +2348,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_447",
     "chef_id": "chef_david_myers",
     "restaurant_id": "rest_patina",
-    "position": "Executive Sous Chef",
+    "position": "Sous Chef",
     "start_year": 2000,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_448",
@@ -2200,7 +2372,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_daniel_boulud"
+    "mentor_id": "chef_daniel_boulud",
+    "notes": null
   },
   {
     "id": "stop_449",
@@ -2211,7 +2384,8 @@
     "end_year": 2010,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_450",
@@ -2222,7 +2396,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_451",
@@ -2233,7 +2408,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_452",
@@ -2244,7 +2420,8 @@
     "end_year": 2017,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_453",
@@ -2255,7 +2432,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_454",
@@ -2266,7 +2444,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_455",
@@ -2277,7 +2456,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jon_shook"
+    "mentor_id": "chef_jon_shook",
+    "notes": null
   },
   {
     "id": "stop_456",
@@ -2288,7 +2468,8 @@
     "end_year": 2015,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_457",
@@ -2299,7 +2480,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_458",
@@ -2310,7 +2492,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_459",
@@ -2321,18 +2504,20 @@
     "end_year": 1997,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_mark_peel"
+    "mentor_id": "chef_mark_peel",
+    "notes": null
   },
   {
     "id": "stop_460",
     "chef_id": "chef_bryant_ng",
     "restaurant_id": "rest_campanile",
-    "position": "Line Cook",
+    "position": "Cook",
     "start_year": null,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_mark_peel"
+    "mentor_id": "chef_mark_peel",
+    "notes": null
   },
   {
     "id": "stop_461",
@@ -2343,7 +2528,8 @@
     "end_year": 1999,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_462",
@@ -2354,7 +2540,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_463",
@@ -2365,7 +2552,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_464",
@@ -2376,7 +2564,8 @@
     "end_year": 2014,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_465",
@@ -2387,7 +2576,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_466",
@@ -2398,7 +2588,8 @@
     "end_year": 2014,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_467",
@@ -2409,7 +2600,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_468",
@@ -2420,7 +2612,8 @@
     "end_year": 2005,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_gilles_epie"
+    "mentor_id": "chef_gilles_epie",
+    "notes": null
   },
   {
     "id": "stop_469",
@@ -2431,7 +2624,8 @@
     "end_year": 2011,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_470",
@@ -2442,7 +2636,8 @@
     "end_year": 2010,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_471",
@@ -2453,7 +2648,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_472",
@@ -2464,7 +2660,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_thomas_keller"
+    "mentor_id": "chef_thomas_keller",
+    "notes": null
   },
   {
     "id": "stop_473",
@@ -2475,7 +2672,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_474",
@@ -2486,18 +2684,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_475",
     "chef_id": "chef_lissa_doumani",
     "restaurant_id": "rest_spago",
-    "position": "Pastry Apprentice",
+    "position": "Apprentice",
     "start_year": null,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_nancy_silverton"
+    "mentor_id": "chef_nancy_silverton",
+    "notes": null
   },
   {
     "id": "stop_476",
@@ -2508,7 +2708,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_477",
@@ -2519,7 +2720,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_478",
@@ -2530,7 +2732,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_479",
@@ -2541,7 +2744,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_480",
@@ -2552,7 +2756,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_481",
@@ -2563,7 +2768,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_mark_peel"
+    "mentor_id": "chef_mark_peel",
+    "notes": null
   },
   {
     "id": "stop_482",
@@ -2574,18 +2780,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_483",
     "chef_id": "chef_zoe_nathan",
     "restaurant_id": "rest_huckleberry",
-    "position": "Baker & Co-Owner",
+    "position": "Pastry Chef & Co-Owner",
     "start_year": 2009,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_484",
@@ -2596,7 +2804,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_485",
@@ -2607,7 +2816,8 @@
     "end_year": 2015,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_486",
@@ -2618,7 +2828,8 @@
     "end_year": 2012,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_487",
@@ -2629,7 +2840,8 @@
     "end_year": 2004,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_488",
@@ -2640,18 +2852,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_489",
     "chef_id": "chef_lee_hefter",
     "restaurant_id": "rest_spago",
-    "position": "Managing Partner & Executive Chef",
+    "position": "Executive Chef",
     "start_year": 1992,
     "end_year": 2021,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_490",
@@ -2662,18 +2876,20 @@
     "end_year": 2021,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_491",
     "chef_id": "chef_traci_des_jardins",
     "restaurant_id": "rest_patina",
-    "position": "Opening Chef de Cuisine",
+    "position": "Chef de Cuisine",
     "start_year": 1989,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_492",
@@ -2684,7 +2900,8 @@
     "end_year": 2020,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_493",
@@ -2695,7 +2912,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_charlie_trotter"
+    "mentor_id": "chef_charlie_trotter",
+    "notes": null
   },
   {
     "id": "stop_494",
@@ -2706,7 +2924,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_495",
@@ -2717,7 +2936,8 @@
     "end_year": 2012,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_496",
@@ -2728,7 +2948,8 @@
     "end_year": 2013,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_497",
@@ -2739,29 +2960,32 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_498",
     "chef_id": "chef_john_hong",
     "restaurant_id": "rest_alinea",
-    "position": "Line Cook",
+    "position": "Cook",
     "start_year": 2006,
     "end_year": 2007,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_grant_achatz"
+    "mentor_id": "chef_grant_achatz",
+    "notes": null
   },
   {
     "id": "stop_499",
     "chef_id": "chef_john_hong",
     "restaurant_id": "rest_melisse",
-    "position": "Line Cook",
+    "position": "Cook",
     "start_year": 2009,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_josiah_citrin"
+    "mentor_id": "chef_josiah_citrin",
+    "notes": null
   },
   {
     "id": "stop_500",
@@ -2772,7 +2996,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_501",
@@ -2783,7 +3008,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_502",
@@ -2794,7 +3020,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_christophe_eme"
+    "mentor_id": "chef_christophe_eme",
+    "notes": null
   },
   {
     "id": "stop_503",
@@ -2805,7 +3032,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_josiah_citrin"
+    "mentor_id": "chef_josiah_citrin",
+    "notes": null
   },
   {
     "id": "stop_504",
@@ -2816,40 +3044,44 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_david_myers"
+    "mentor_id": "chef_david_myers",
+    "notes": null
   },
   {
     "id": "stop_505",
     "chef_id": "chef_isa_fabro",
     "restaurant_id": "rest_water_grill",
-    "position": "Lead Cook",
+    "position": "Cook",
     "start_year": 2006,
     "end_year": 2010,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_506",
     "chef_id": "chef_isa_fabro",
     "restaurant_id": "rest_hatfields",
-    "position": "Pastry Sous Chef",
+    "position": "Pastry Chef",
     "start_year": 2010,
     "end_year": 2013,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_karen_hatfield"
+    "mentor_id": "chef_karen_hatfield",
+    "notes": null
   },
   {
     "id": "stop_507",
     "chef_id": "chef_isa_fabro",
     "restaurant_id": "rest_orsa_winston",
-    "position": "Executive Pastry Chef",
+    "position": "Pastry Chef",
     "start_year": 2013,
     "end_year": 2016,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_josef_centeno"
+    "mentor_id": "chef_josef_centeno",
+    "notes": null
   },
   {
     "id": "stop_508",
@@ -2860,7 +3092,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_509",
@@ -2871,7 +3104,8 @@
     "end_year": 2007,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_510",
@@ -2882,7 +3116,8 @@
     "end_year": 2012,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_511",
@@ -2893,7 +3128,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_grant_achatz"
+    "mentor_id": "chef_grant_achatz",
+    "notes": null
   },
   {
     "id": "stop_512",
@@ -2904,7 +3140,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_513",
@@ -2915,7 +3152,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_josiah_citrin"
+    "mentor_id": "chef_josiah_citrin",
+    "notes": null
   },
   {
     "id": "stop_514",
@@ -2926,7 +3164,8 @@
     "end_year": 2002,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_raphael_lunetta"
+    "mentor_id": "chef_raphael_lunetta",
+    "notes": null
   },
   {
     "id": "stop_515",
@@ -2937,7 +3176,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_516",
@@ -2948,7 +3188,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_david_myers"
+    "mentor_id": "chef_david_myers",
+    "notes": null
   },
   {
     "id": "stop_517",
@@ -2959,7 +3200,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_gilles_epie"
+    "mentor_id": "chef_gilles_epie",
+    "notes": null
   },
   {
     "id": "stop_518",
@@ -2970,7 +3212,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_gilles_epie"
+    "mentor_id": "chef_gilles_epie",
+    "notes": null
   },
   {
     "id": "stop_519",
@@ -2981,7 +3224,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_520",
@@ -2992,7 +3236,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_521",
@@ -3003,7 +3248,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_ludo_lefebvre"
+    "mentor_id": "chef_ludo_lefebvre",
+    "notes": null
   },
   {
     "id": "stop_522",
@@ -3014,7 +3260,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_gilles_epie"
+    "mentor_id": "chef_gilles_epie",
+    "notes": null
   },
   {
     "id": "stop_523",
@@ -3025,7 +3272,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_524",
@@ -3036,7 +3284,8 @@
     "end_year": 2012,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_525",
@@ -3047,7 +3296,8 @@
     "end_year": 2014,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_526",
@@ -3058,7 +3308,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_527",
@@ -3069,7 +3320,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_528",
@@ -3080,7 +3332,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_529",
@@ -3091,7 +3344,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_mark_peel"
+    "mentor_id": "chef_mark_peel",
+    "notes": null
   },
   {
     "id": "stop_530",
@@ -3102,18 +3356,20 @@
     "end_year": 2010,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_david_myers"
+    "mentor_id": "chef_david_myers",
+    "notes": null
   },
   {
     "id": "stop_531",
     "chef_id": "chef_zach_pollack",
     "restaurant_id": "rest_sona",
-    "position": "Line Cook",
+    "position": "Cook",
     "start_year": 2007,
     "end_year": 2009,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_david_myers"
+    "mentor_id": "chef_david_myers",
+    "notes": null
   },
   {
     "id": "stop_532",
@@ -3124,7 +3380,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_533",
@@ -3135,7 +3392,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_534",
@@ -3146,7 +3404,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_535",
@@ -3157,7 +3416,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_536",
@@ -3168,7 +3428,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_raphael_lunetta"
+    "mentor_id": "chef_raphael_lunetta",
+    "notes": null
   },
   {
     "id": "stop_537",
@@ -3179,7 +3440,8 @@
     "end_year": 2003,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_538",
@@ -3190,7 +3452,8 @@
     "end_year": 2004,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_539",
@@ -3201,7 +3464,8 @@
     "end_year": 2005,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_540",
@@ -3212,7 +3476,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_541",
@@ -3223,7 +3488,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_542",
@@ -3234,7 +3500,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_lee_hefter"
+    "mentor_id": "chef_lee_hefter",
+    "notes": null
   },
   {
     "id": "stop_543",
@@ -3245,7 +3512,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_nancy_silverton"
+    "mentor_id": "chef_nancy_silverton",
+    "notes": null
   },
   {
     "id": "stop_544",
@@ -3256,7 +3524,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_nancy_silverton"
+    "mentor_id": "chef_nancy_silverton",
+    "notes": null
   },
   {
     "id": "stop_545",
@@ -3267,7 +3536,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_nancy_silverton"
+    "mentor_id": "chef_nancy_silverton",
+    "notes": null
   },
   {
     "id": "stop_546",
@@ -3278,7 +3548,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jose_andres"
+    "mentor_id": "chef_jose_andres",
+    "notes": null
   },
   {
     "id": "stop_547",
@@ -3289,7 +3560,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_thomas_keller"
+    "mentor_id": "chef_thomas_keller",
+    "notes": null
   },
   {
     "id": "stop_548",
@@ -3300,7 +3572,8 @@
     "end_year": 2020,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_tim_hollingsworth"
+    "mentor_id": "chef_tim_hollingsworth",
+    "notes": null
   },
   {
     "id": "stop_549",
@@ -3311,7 +3584,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_enrique_olvera"
+    "mentor_id": "chef_enrique_olvera",
+    "notes": null
   },
   {
     "id": "stop_550",
@@ -3322,7 +3596,8 @@
     "end_year": 2007,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_551",
@@ -3333,7 +3608,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_552",
@@ -3344,7 +3620,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_553",
@@ -3355,7 +3632,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_554",
@@ -3366,7 +3644,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_555",
@@ -3377,7 +3656,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_gilles_epie"
+    "mentor_id": "chef_gilles_epie",
+    "notes": null
   },
   {
     "id": "stop_556",
@@ -3388,7 +3668,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jon_shook"
+    "mentor_id": "chef_jon_shook",
+    "notes": null
   },
   {
     "id": "stop_557",
@@ -3399,7 +3680,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_ori_menashe"
+    "mentor_id": "chef_ori_menashe",
+    "notes": null
   },
   {
     "id": "stop_558",
@@ -3410,7 +3692,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_559",
@@ -3421,7 +3704,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_brian_dunsmoor"
+    "mentor_id": "chef_brian_dunsmoor",
+    "notes": null
   },
   {
     "id": "stop_560",
@@ -3432,7 +3716,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_curtis_stone"
+    "mentor_id": "chef_curtis_stone",
+    "notes": null
   },
   {
     "id": "stop_561",
@@ -3443,7 +3728,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jeremy_fox"
+    "mentor_id": "chef_jeremy_fox",
+    "notes": null
   },
   {
     "id": "stop_562",
@@ -3454,7 +3740,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_563",
@@ -3465,7 +3752,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_564",
@@ -3476,7 +3764,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_565",
@@ -3487,7 +3776,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_evan_funke"
+    "mentor_id": "chef_evan_funke",
+    "notes": null
   },
   {
     "id": "stop_566",
@@ -3498,7 +3788,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_567",
@@ -3509,7 +3800,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_568",
@@ -3520,7 +3812,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_569",
@@ -3531,7 +3824,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_570",
@@ -3542,7 +3836,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_571",
@@ -3553,7 +3848,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_josiah_citrin"
+    "mentor_id": "chef_josiah_citrin",
+    "notes": null
   },
   {
     "id": "stop_572",
@@ -3576,7 +3872,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_574",
@@ -3587,7 +3884,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_575",
@@ -3610,7 +3908,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_david_myers"
+    "mentor_id": "chef_david_myers",
+    "notes": null
   },
   {
     "id": "stop_577",
@@ -3633,7 +3932,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_579",
@@ -3644,7 +3944,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_580",
@@ -3667,7 +3968,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_daniel_boulud"
+    "mentor_id": "chef_daniel_boulud",
+    "notes": null
   },
   {
     "id": "stop_582",
@@ -3678,7 +3980,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_583",
@@ -3701,7 +4004,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_daniel_boulud"
+    "mentor_id": "chef_daniel_boulud",
+    "notes": null
   },
   {
     "id": "stop_585",
@@ -3712,7 +4016,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_586",
@@ -3723,7 +4028,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_nancy_silverton"
+    "mentor_id": "chef_nancy_silverton",
+    "notes": null
   },
   {
     "id": "stop_587",
@@ -3734,7 +4040,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_588",
@@ -3745,7 +4052,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_nancy_silverton"
+    "mentor_id": "chef_nancy_silverton",
+    "notes": null
   },
   {
     "id": "stop_589",
@@ -3756,7 +4064,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_590",
@@ -3767,7 +4076,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_591",
@@ -3802,7 +4112,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_594",
@@ -3813,7 +4124,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_josef_centeno"
+    "mentor_id": "chef_josef_centeno",
+    "notes": null
   },
   {
     "id": "stop_595",
@@ -3824,7 +4136,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_596",
@@ -3835,7 +4148,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_597",
@@ -3858,7 +4172,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_599",
@@ -3881,7 +4196,8 @@
     "end_year": 2024,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_601",
@@ -3892,7 +4208,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jose_andres"
+    "mentor_id": "chef_jose_andres",
+    "notes": null
   },
   {
     "id": "stop_602",
@@ -3903,18 +4220,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_jeremy_fox"
+    "mentor_id": "chef_jeremy_fox",
+    "notes": null
   },
   {
     "id": "stop_603",
     "chef_id": "chef_andy_doubrava",
     "restaurant_id": "rest_rustic_canyon",
-    "position": "Line Cook",
+    "position": "Cook",
     "start_year": 2015,
     "end_year": 2019,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jeremy_fox"
+    "mentor_id": "chef_jeremy_fox",
+    "notes": null
   },
   {
     "id": "stop_604",
@@ -3925,7 +4244,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_605",
@@ -3936,18 +4256,20 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_606",
     "chef_id": "chef_ilan_hall",
     "restaurant_id": "rest_ramen_hood",
-    "position": "Executive Chef & Co-Owner",
+    "position": "Chef & Co-Owner",
     "start_year": 2015,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_607",
@@ -3958,29 +4280,32 @@
     "end_year": 2015,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_608",
     "chef_id": "chef_ilan_hall",
     "restaurant_id": "rest_aureole",
-    "position": "Line Cook",
+    "position": "Cook",
     "start_year": null,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_charlie_palmer"
+    "mentor_id": "chef_charlie_palmer",
+    "notes": null
   },
   {
     "id": "stop_609",
     "chef_id": "chef_ilan_hall",
     "restaurant_id": "rest_casa_mono",
-    "position": "Line Cook",
+    "position": "Cook",
     "start_year": 2006,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_610",
@@ -3991,7 +4316,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_611",
@@ -4002,7 +4328,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_612",
@@ -4013,18 +4340,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_613",
     "chef_id": "chef_aarti_sequeira",
     "restaurant_id": "rest_lucques",
-    "position": "Intern",
+    "position": "Stage",
     "start_year": 2006,
     "end_year": 2007,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_suzanne_goin"
+    "mentor_id": "chef_suzanne_goin",
+    "notes": null
   },
   {
     "id": "stop_614",
@@ -4059,29 +4388,32 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_617",
     "chef_id": "chef_max_boonthanakit",
     "restaurant_id": "rest_camphor",
-    "position": "Co-Chef & Co-Owner",
+    "position": "Chef & Co-Owner",
     "start_year": 2022,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_618",
     "chef_id": "chef_max_boonthanakit",
     "restaurant_id": "rest_blue_by_alain_ducasse",
-    "position": "Executive Pastry Chef",
+    "position": "Pastry Chef",
     "start_year": null,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_619",
@@ -4092,7 +4424,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jon_yao"
+    "mentor_id": "chef_jon_yao",
+    "notes": null
   },
   {
     "id": "stop_620",
@@ -4103,18 +4436,20 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_621",
     "chef_id": "chef_lijo_george",
     "restaurant_id": "rest_camphor",
-    "position": "Co-Chef & Co-Owner",
+    "position": "Chef & Co-Owner",
     "start_year": 2022,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_622",
@@ -4125,7 +4460,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_623",
@@ -4136,7 +4472,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_624",
@@ -4147,7 +4484,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_morihiro_onodera"
+    "mentor_id": "chef_morihiro_onodera",
+    "notes": null
   },
   {
     "id": "stop_625",
@@ -4158,7 +4496,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_626",
@@ -4169,7 +4508,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_627",
@@ -4180,7 +4520,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_628",
@@ -4191,7 +4532,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_629",
@@ -4202,7 +4544,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_morihiro_onodera"
+    "mentor_id": "chef_morihiro_onodera",
+    "notes": null
   },
   {
     "id": "stop_630",
@@ -4213,7 +4556,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_631",
@@ -4224,7 +4568,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_632",
@@ -4235,7 +4580,8 @@
     "end_year": 2017,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_633",
@@ -4246,7 +4592,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_alain_ducasse"
+    "mentor_id": "chef_alain_ducasse",
+    "notes": null
   },
   {
     "id": "stop_634",
@@ -4257,7 +4604,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_635",
@@ -4268,7 +4616,8 @@
     "end_year": 2014,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_636",
@@ -4279,7 +4628,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_637",
@@ -4290,7 +4640,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_638",
@@ -4325,7 +4676,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_ori_menashe"
+    "mentor_id": "chef_ori_menashe",
+    "notes": null
   },
   {
     "id": "stop_641",
@@ -4348,13 +4700,14 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_aitor_zabala"
+    "mentor_id": "chef_aitor_zabala",
+    "notes": null
   },
   {
     "id": "stop_643",
     "chef_id": "chef_kevin_de_los_santos",
     "restaurant_id": "rest_vin_folk",
-    "position": "Co-Chef & Co-Owner",
+    "position": "Chef & Co-Owner",
     "start_year": null,
     "end_year": null,
     "is_current": true,
@@ -4371,18 +4724,20 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_aitor_zabala"
+    "mentor_id": "chef_aitor_zabala",
+    "notes": null
   },
   {
     "id": "stop_645",
     "chef_id": "chef_katya_shastova",
     "restaurant_id": "rest_vin_folk",
-    "position": "Co-Chef & Co-Owner",
+    "position": "Chef & Co-Owner",
     "start_year": null,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_646",
@@ -4441,7 +4796,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_651",
@@ -4464,7 +4820,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jeremy_fox"
+    "mentor_id": "chef_jeremy_fox",
+    "notes": null
   },
   {
     "id": "stop_653",
@@ -4511,7 +4868,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_657",
@@ -4534,13 +4892,14 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_659",
     "chef_id": "chef_cody_ma",
     "restaurant_id": "rest_azizam",
-    "position": "Co-Chef & Co-Owner",
+    "position": "Chef & Co-Owner",
     "start_year": null,
     "end_year": null,
     "is_current": true,
@@ -4593,7 +4952,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_664",
@@ -4676,7 +5036,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_679",
@@ -4747,7 +5108,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_685",
@@ -4758,7 +5120,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_686",
@@ -4781,7 +5144,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_688",
@@ -4811,7 +5175,7 @@
     "id": "stop_690",
     "chef_id": "chef_kian_samyani",
     "restaurant_id": "rest_berenjak",
-    "position": "Chef & Founder",
+    "position": "Founder & Chef",
     "start_year": null,
     "end_year": null,
     "is_current": true,
@@ -4823,12 +5187,13 @@
     "id": "stop_691",
     "chef_id": "chef_ari_rosenson",
     "restaurant_id": "rest_spago",
-    "position": "Executive Chef & VP of F&B",
+    "position": "Executive Chef",
     "start_year": null,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_692",
@@ -4839,7 +5204,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_wolfgang_puck"
+    "mentor_id": "chef_wolfgang_puck",
+    "notes": null
   },
   {
     "id": "stop_693",
@@ -4850,7 +5216,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_694",
@@ -4861,18 +5228,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_695",
     "chef_id": "chef_hiroshi_shima",
     "restaurant_id": "rest_sushi_roku",
-    "position": "Executive Sushi Chef",
+    "position": "Sushi Chef",
     "start_year": null,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_696",
@@ -4883,7 +5252,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_697",
@@ -4894,7 +5264,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_nobu_matsuhisa"
+    "mentor_id": "chef_nobu_matsuhisa",
+    "notes": null
   },
   {
     "id": "stop_698",
@@ -4905,7 +5276,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_699",
@@ -4916,7 +5288,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_700",
@@ -4927,62 +5300,68 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_niki_nakayama"
+    "mentor_id": "chef_niki_nakayama",
+    "notes": null
   },
   {
     "id": "stop_701",
     "chef_id": "chef_katsuya_uechi",
     "restaurant_id": "rest_katsuya",
-    "position": "Master Chef & Brand Chef",
+    "position": "Executive Chef",
     "start_year": null,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_702",
     "chef_id": "chef_ken_takayama",
     "restaurant_id": "rest_melisse",
-    "position": "Chef/Partner",
+    "position": "Chef & Partner",
     "start_year": 2001,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_josiah_citrin"
+    "mentor_id": "chef_josiah_citrin",
+    "notes": null
   },
   {
     "id": "stop_703",
     "chef_id": "chef_ken_takayama",
     "restaurant_id": "rest_citrin",
-    "position": "Chef/Partner",
+    "position": "Chef & Partner",
     "start_year": null,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_josiah_citrin"
+    "mentor_id": "chef_josiah_citrin",
+    "notes": null
   },
   {
     "id": "stop_704",
     "chef_id": "chef_ken_takayama",
     "restaurant_id": "rest_patina",
-    "position": "Pastry Extern",
+    "position": "Pastry Cook",
     "start_year": null,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_joachim_splichal"
+    "mentor_id": "chef_joachim_splichal",
+    "notes": null
   },
   {
     "id": "stop_705",
     "chef_id": "chef_johncarlos_kuramoto",
     "restaurant_id": "rest_the_nice_guy",
-    "position": "Executive Chef / Culinary Director",
+    "position": "Executive Chef",
     "start_year": 2014,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_706",
@@ -4993,7 +5372,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_mark_peel"
+    "mentor_id": "chef_mark_peel",
+    "notes": null
   },
   {
     "id": "stop_707",
@@ -5004,7 +5384,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_708",
@@ -5015,18 +5396,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_nobu_matsuhisa"
+    "mentor_id": "chef_nobu_matsuhisa",
+    "notes": null
   },
   {
     "id": "stop_709",
     "chef_id": "chef_hans_rockenwagner",
     "restaurant_id": "rest_dear_johns",
-    "position": "Co-Chef/Owner",
+    "position": "Chef & Co-Owner",
     "start_year": 2019,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_710",
@@ -5037,7 +5420,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_711",
@@ -5048,7 +5432,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_michael_cimarusti"
+    "mentor_id": "chef_michael_cimarusti",
+    "notes": null
   },
   {
     "id": "stop_712",
@@ -5059,7 +5444,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_ludo_lefebvre"
+    "mentor_id": "chef_ludo_lefebvre",
+    "notes": null
   },
   {
     "id": "stop_713",
@@ -5070,7 +5456,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_714",
@@ -5081,7 +5468,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_715",
@@ -5092,7 +5480,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_716",
@@ -5103,7 +5492,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_717",
@@ -5114,7 +5504,8 @@
     "end_year": 2001,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_718",
@@ -5125,18 +5516,20 @@
     "end_year": 2012,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_719",
     "chef_id": "chef_michel_richard",
     "restaurant_id": "rest_maison_lenotre",
-    "position": "Patissier",
+    "position": "Pastry Chef",
     "start_year": null,
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_gaston_lenotre"
+    "mentor_id": "chef_gaston_lenotre",
+    "notes": null
   },
   {
     "id": "stop_720",
@@ -5147,7 +5540,8 @@
     "end_year": 2011,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_721",
@@ -5158,7 +5552,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_722",
@@ -5169,7 +5564,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_723",
@@ -5180,7 +5576,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_724",
@@ -5191,7 +5588,8 @@
     "end_year": 2015,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_725",
@@ -5202,7 +5600,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_jeremy_fox"
+    "mentor_id": "chef_jeremy_fox",
+    "notes": null
   },
   {
     "id": "stop_726",
@@ -5213,7 +5612,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_727",
@@ -5224,7 +5624,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_marc_veyrat"
+    "mentor_id": "chef_marc_veyrat",
+    "notes": null
   },
   {
     "id": "stop_728",
@@ -5235,7 +5636,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_729",
@@ -5258,7 +5660,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_731",
@@ -5269,7 +5672,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_732",
@@ -5280,7 +5684,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_733",
@@ -5291,7 +5696,8 @@
     "end_year": 2018,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_734",
@@ -5302,7 +5708,8 @@
     "end_year": 2020,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_735",
@@ -5313,7 +5720,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_736",
@@ -5324,7 +5732,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_737",
@@ -5335,7 +5744,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_738",
@@ -5346,7 +5756,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_739",
@@ -5357,7 +5768,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_740",
@@ -5368,7 +5780,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_741",
@@ -5379,7 +5792,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_742",
@@ -5390,7 +5804,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_743",
@@ -5413,7 +5828,8 @@
     "end_year": 1991,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_nobu_matsuhisa"
+    "mentor_id": "chef_nobu_matsuhisa",
+    "notes": null
   },
   {
     "id": "stop_745",
@@ -5424,7 +5840,8 @@
     "end_year": 2000,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_746",
@@ -5435,7 +5852,8 @@
     "end_year": 2010,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_747",
@@ -5446,7 +5864,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_748",
@@ -5457,7 +5876,8 @@
     "end_year": 2011,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_749",
@@ -5468,18 +5888,20 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_750",
     "chef_id": "chef_david_lefevre",
     "restaurant_id": "rest_charlie_trotters",
-    "position": "Sous Chef to Executive Sous Chef",
+    "position": "Sous Chef",
     "start_year": 1993,
     "end_year": 1999,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_charlie_trotter"
+    "mentor_id": "chef_charlie_trotter",
+    "notes": null
   },
   {
     "id": "stop_751",
@@ -5514,7 +5936,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_754",
@@ -5525,7 +5948,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_755",
@@ -5536,7 +5960,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_756",
@@ -5571,7 +5996,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_massimo_bottura"
+    "mentor_id": "chef_massimo_bottura",
+    "notes": null
   },
   {
     "id": "stop_759",
@@ -5582,7 +6008,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_760",
@@ -5593,7 +6020,8 @@
     "end_year": 2002,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_piero_selvaggio"
+    "mentor_id": "chef_piero_selvaggio",
+    "notes": null
   },
   {
     "id": "stop_761",
@@ -5604,7 +6032,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_762",
@@ -5627,7 +6056,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_764",
@@ -5650,7 +6080,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_766",
@@ -5661,7 +6092,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_alain_ducasse"
+    "mentor_id": "chef_alain_ducasse",
+    "notes": null
   },
   {
     "id": "stop_767",
@@ -5708,7 +6140,8 @@
     "end_year": 2024,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_771",
@@ -5719,7 +6152,8 @@
     "end_year": 2018,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_772",
@@ -5730,7 +6164,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_773",
@@ -5789,7 +6224,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_778",
@@ -5860,7 +6296,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_alain_passard"
+    "mentor_id": "chef_alain_passard",
+    "notes": null
   },
   {
     "id": "stop_784",
@@ -5871,7 +6308,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": "chef_alain_passard"
+    "mentor_id": "chef_alain_passard",
+    "notes": null
   },
   {
     "id": "stop_785",
@@ -5882,7 +6320,8 @@
     "end_year": null,
     "is_current": false,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_786",
@@ -5905,7 +6344,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_788",
@@ -5916,7 +6356,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_789",
@@ -5927,7 +6368,8 @@
     "end_year": null,
     "is_current": true,
     "verification": "unverified",
-    "mentor_id": null
+    "mentor_id": null,
+    "notes": null
   },
   {
     "id": "stop_790",
@@ -5935,6 +6377,2501 @@
     "restaurant_id": "rest_meals_by_genet",
     "position": "Chef & Owner",
     "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null,
+    "notes": null
+  },
+  {
+    "id": "stop_791",
+    "chef_id": "chef_david_bouley",
+    "restaurant_id": "rest_bouley",
+    "position": "Chef & Owner",
+    "start_year": 1987,
+    "end_year": 2017,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_792",
+    "chef_id": "chef_gray_kunz",
+    "restaurant_id": "rest_lespinasse",
+    "position": "Executive Chef",
+    "start_year": 1995,
+    "end_year": 2003,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_793",
+    "chef_id": "chef_jeangeorges_vongerichten",
+    "restaurant_id": "rest_jeangeorges",
+    "position": "Chef & Owner",
+    "start_year": 1997,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_794",
+    "chef_id": "chef_jeangeorges_vongerichten",
+    "restaurant_id": "rest_abc_kitchen",
+    "position": "Chef & Owner",
+    "start_year": 2010,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_795",
+    "chef_id": "chef_tom_colicchio",
+    "restaurant_id": "rest_gramercy_tavern",
+    "position": "Executive Chef & Partner",
+    "start_year": 1994,
+    "end_year": 2006,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_796",
+    "chef_id": "chef_tom_colicchio",
+    "restaurant_id": "rest_craft",
+    "position": "Chef & Owner",
+    "start_year": 2001,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_797",
+    "chef_id": "chef_daniel_humm",
+    "restaurant_id": "rest_eleven_madison_park",
+    "position": "Chef & Owner",
+    "start_year": 2006,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_798",
+    "chef_id": "chef_jeanfrançois_bruel",
+    "restaurant_id": "rest_daniel",
+    "position": "Executive Chef",
+    "start_year": 2004,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_799",
+    "chef_id": "chef_andrew_carmellini",
+    "restaurant_id": "rest_café_boulud",
+    "position": "Chef de Cuisine",
+    "start_year": 1999,
+    "end_year": 2003,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_800",
+    "chef_id": "chef_andrew_carmellini",
+    "restaurant_id": "rest_the_dutch",
+    "position": "Chef & Owner",
+    "start_year": 2011,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_801",
+    "chef_id": "chef_andrew_carmellini",
+    "restaurant_id": "rest_locanda_verde",
+    "position": "Chef & Owner",
+    "start_year": 2009,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_802",
+    "chef_id": "chef_alex_guarnaschelli",
+    "restaurant_id": "rest_daniel",
+    "position": "Sous Chef",
+    "start_year": 1998,
+    "end_year": 2003,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_803",
+    "chef_id": "chef_alex_guarnaschelli",
+    "restaurant_id": "rest_butter",
+    "position": "Executive Chef & Owner",
+    "start_year": 2003,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_804",
+    "chef_id": "chef_michael_anthony",
+    "restaurant_id": "rest_daniel",
+    "position": "Sous Chef",
+    "start_year": 2000,
+    "end_year": 2003,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_805",
+    "chef_id": "chef_michael_anthony",
+    "restaurant_id": "rest_blue_hill_stone_barns",
+    "position": "Chef de Cuisine",
+    "start_year": 2004,
+    "end_year": 2006,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_dan_barber"
+  },
+  {
+    "id": "stop_806",
+    "chef_id": "chef_michael_anthony",
+    "restaurant_id": "rest_gramercy_tavern",
+    "position": "Executive Chef",
+    "start_year": 2006,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null,
+    "notes": "Succeeded Tom Colicchio"
+  },
+  {
+    "id": "stop_807",
+    "chef_id": "chef_riad_nasr",
+    "restaurant_id": "rest_daniel",
+    "position": "Chef",
+    "start_year": 1999,
+    "end_year": 2004,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_808",
+    "chef_id": "chef_riad_nasr",
+    "restaurant_id": "rest_frenchette",
+    "position": "Chef & Co-Owner",
+    "start_year": 2018,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_809",
+    "chef_id": "chef_david_chang",
+    "restaurant_id": "rest_café_boulud",
+    "position": "Cook",
+    "start_year": 2001,
+    "end_year": 2002,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_810",
+    "chef_id": "chef_david_chang",
+    "restaurant_id": "rest_craft",
+    "position": "Line Cook",
+    "start_year": 2002,
+    "end_year": 2003,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_tom_colicchio"
+  },
+  {
+    "id": "stop_811",
+    "chef_id": "chef_david_chang",
+    "restaurant_id": "rest_momofuku_noodle_bar",
+    "position": "Chef & Founder",
+    "start_year": 2004,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_812",
+    "chef_id": "chef_david_chang",
+    "restaurant_id": "rest_momofuku_ko",
+    "position": "Chef & Founder",
+    "start_year": 2008,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_813",
+    "chef_id": "chef_wylie_dufresne",
+    "restaurant_id": "rest_jeangeorges",
+    "position": "Sous Chef",
+    "start_year": 1997,
+    "end_year": 1999,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_jeangeorges_vongerichten"
+  },
+  {
+    "id": "stop_814",
+    "chef_id": "chef_wylie_dufresne",
+    "restaurant_id": "rest_wd50",
+    "position": "Chef & Owner",
+    "start_year": 2003,
+    "end_year": 2014,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_815",
+    "chef_id": "chef_marco_canora",
+    "restaurant_id": "rest_gramercy_tavern",
+    "position": "Sous Chef",
+    "start_year": 1996,
+    "end_year": 2001,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_tom_colicchio"
+  },
+  {
+    "id": "stop_816",
+    "chef_id": "chef_marco_canora",
+    "restaurant_id": "rest_hearth",
+    "position": "Chef & Owner",
+    "start_year": 2003,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_817",
+    "chef_id": "chef_marcus_samuelsson",
+    "restaurant_id": "rest_aquavit",
+    "position": "Executive Chef",
+    "start_year": 1995,
+    "end_year": 2003,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_818",
+    "chef_id": "chef_marcus_samuelsson",
+    "restaurant_id": "rest_red_rooster",
+    "position": "Chef & Owner",
+    "start_year": 2010,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_819",
+    "chef_id": "chef_floyd_cardoz",
+    "restaurant_id": "rest_lespinasse",
+    "position": "Sous Chef",
+    "start_year": 1996,
+    "end_year": 1998,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_gray_kunz"
+  },
+  {
+    "id": "stop_820",
+    "chef_id": "chef_floyd_cardoz",
+    "restaurant_id": "rest_tabla",
+    "position": "Executive Chef",
+    "start_year": 1998,
+    "end_year": 2010,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_821",
+    "chef_id": "chef_mario_carbone",
+    "restaurant_id": "rest_café_boulud",
+    "position": "Cook",
+    "start_year": 2005,
+    "end_year": 2007,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_822",
+    "chef_id": "chef_mario_carbone",
+    "restaurant_id": "rest_carbone",
+    "position": "Chef & Co-Owner",
+    "start_year": 2013,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_823",
+    "chef_id": "chef_mario_carbone",
+    "restaurant_id": "rest_the_grill",
+    "position": "Chef & Co-Owner",
+    "start_year": 2017,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_824",
+    "chef_id": "chef_rich_torrisi",
+    "restaurant_id": "rest_café_boulud",
+    "position": "Cook",
+    "start_year": 2005,
+    "end_year": 2007,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_825",
+    "chef_id": "chef_rich_torrisi",
+    "restaurant_id": "rest_carbone",
+    "position": "Chef & Co-Owner",
+    "start_year": 2013,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_826",
+    "chef_id": "chef_james_kent",
+    "restaurant_id": "rest_eleven_madison_park",
+    "position": "Sous Chef",
+    "start_year": 2010,
+    "end_year": 2014,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_humm"
+  },
+  {
+    "id": "stop_827",
+    "chef_id": "chef_james_kent",
+    "restaurant_id": "rest_crown_shy",
+    "position": "Chef & Owner",
+    "start_year": 2019,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_828",
+    "chef_id": "chef_james_kent",
+    "restaurant_id": "rest_saga",
+    "position": "Chef & Owner",
+    "start_year": 2020,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_829",
+    "chef_id": "chef_kwame_onwuachi",
+    "restaurant_id": "rest_per_se",
+    "position": "Commis",
+    "start_year": 2011,
+    "end_year": 2012,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_thomas_keller"
+  },
+  {
+    "id": "stop_830",
+    "chef_id": "chef_kwame_onwuachi",
+    "restaurant_id": "rest_tatiana",
+    "position": "Chef & Owner",
+    "start_year": 2022,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_831",
+    "chef_id": "chef_ignacio_mattos",
+    "restaurant_id": "rest_robertas",
+    "position": "Chef",
+    "start_year": 2008,
+    "end_year": 2010,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_832",
+    "chef_id": "chef_ignacio_mattos",
+    "restaurant_id": "rest_estela",
+    "position": "Chef & Owner",
+    "start_year": 2013,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_833",
+    "chef_id": "chef_missy_robbins",
+    "restaurant_id": "rest_lilia",
+    "position": "Chef & Owner",
+    "start_year": 2016,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_834",
+    "chef_id": "chef_gabriel_kreuther",
+    "restaurant_id": "rest_the_modern",
+    "position": "Executive Chef",
+    "start_year": 2004,
+    "end_year": 2015,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_835",
+    "chef_id": "chef_gabriel_kreuther",
+    "restaurant_id": "rest_gabriel_kreuther",
+    "position": "Chef & Owner",
+    "start_year": 2015,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_836",
+    "chef_id": "chef_césar_ramirez",
+    "restaurant_id": "rest_chefs_table_at_brooklyn_fare",
+    "position": "Chef & Owner",
+    "start_year": 2009,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_837",
+    "chef_id": "chef_emma_bengtsson",
+    "restaurant_id": "rest_aquavit",
+    "position": "Executive Chef",
+    "start_year": 2014,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_838",
+    "chef_id": "chef_gabrielle_hamilton",
+    "restaurant_id": "rest_prune",
+    "position": "Chef & Owner",
+    "start_year": 1999,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_839",
+    "chef_id": "chef_daisuke_nakazawa",
+    "restaurant_id": "rest_sushi_nakazawa",
+    "position": "Chef & Owner",
+    "start_year": 2013,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_840",
+    "chef_id": "chef_simon_kim",
+    "restaurant_id": "rest_cote",
+    "position": "Chef & Owner",
+    "start_year": 2017,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_841",
+    "chef_id": "chef_amanda_cohen",
+    "restaurant_id": "rest_dirt_candy",
+    "position": "Chef & Owner",
+    "start_year": 2008,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_842",
+    "chef_id": "chef_jungsik_yim",
+    "restaurant_id": "rest_jungsik",
+    "position": "Chef & Owner",
+    "start_year": 2011,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_843",
+    "chef_id": "chef_junghyun_park",
+    "restaurant_id": "rest_atomix",
+    "position": "Chef & Owner",
+    "start_year": 2018,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_844",
+    "chef_id": "chef_gordon_ramsay",
+    "restaurant_id": "rest_restaurant_gordon_ramsay",
+    "position": "Chef/Owner",
+    "start_year": 1998,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_845",
+    "chef_id": "chef_martin_berasategui",
+    "restaurant_id": "rest_martin_berasategui",
+    "position": "Chef/Owner",
+    "start_year": 1993,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_846",
+    "chef_id": "chef_thomas_allan",
+    "restaurant_id": "rest_blue_smoke",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_847",
+    "chef_id": "chef_thomas_allan",
+    "restaurant_id": "rest_eleven_madison_park",
+    "position": "Sous Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_humm"
+  },
+  {
+    "id": "stop_848",
+    "chef_id": "chef_thomas_allan",
+    "restaurant_id": "rest_per_se",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_thomas_keller"
+  },
+  {
+    "id": "stop_849",
+    "chef_id": "chef_thomas_allan",
+    "restaurant_id": "rest_le_meurice",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_850",
+    "chef_id": "chef_thomas_allan",
+    "restaurant_id": "rest_the_modern",
+    "position": "Executive Chef",
+    "start_year": 2020,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_851",
+    "chef_id": "chef_christina_tosi",
+    "restaurant_id": "rest_bouley",
+    "position": "Pastry Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_david_bouley"
+  },
+  {
+    "id": "stop_852",
+    "chef_id": "chef_christina_tosi",
+    "restaurant_id": "rest_wd50",
+    "position": "Pastry Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_wylie_dufresne"
+  },
+  {
+    "id": "stop_853",
+    "chef_id": "chef_christina_tosi",
+    "restaurant_id": "rest_momofuku_noodle_bar",
+    "position": "Pastry Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_david_chang"
+  },
+  {
+    "id": "stop_854",
+    "chef_id": "chef_christina_tosi",
+    "restaurant_id": "rest_milk_bar",
+    "position": "Founder & CEO",
+    "start_year": 2008,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_855",
+    "chef_id": "chef_buddha_lo",
+    "restaurant_id": "rest_restaurant_gordon_ramsay",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_gordon_ramsay"
+  },
+  {
+    "id": "stop_856",
+    "chef_id": "chef_buddha_lo",
+    "restaurant_id": "rest_eleven_madison_park",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_humm"
+  },
+  {
+    "id": "stop_857",
+    "chef_id": "chef_buddha_lo",
+    "restaurant_id": "rest_huso",
+    "position": "Chef/Owner",
+    "start_year": 2024,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_858",
+    "chef_id": "chef_sungchul_shim",
+    "restaurant_id": "rest_le_bernardin",
+    "position": "Extern",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_eric_ripert"
+  },
+  {
+    "id": "stop_859",
+    "chef_id": "chef_sungchul_shim",
+    "restaurant_id": "rest_aureole",
+    "position": "Line Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_860",
+    "chef_id": "chef_sungchul_shim",
+    "restaurant_id": "rest_per_se",
+    "position": "Cook",
+    "start_year": 2009,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_thomas_keller"
+  },
+  {
+    "id": "stop_861",
+    "chef_id": "chef_sungchul_shim",
+    "restaurant_id": "rest_neta",
+    "position": "Executive Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_862",
+    "chef_id": "chef_sungchul_shim",
+    "restaurant_id": "rest_kochi",
+    "position": "Chef/Owner",
+    "start_year": 2019,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_863",
+    "chef_id": "chef_sungchul_shim",
+    "restaurant_id": "rest_mari",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_864",
+    "chef_id": "chef_paul_carmichael",
+    "restaurant_id": "rest_wd50",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_wylie_dufresne"
+  },
+  {
+    "id": "stop_865",
+    "chef_id": "chef_paul_carmichael",
+    "restaurant_id": "rest_aquavit",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_marcus_samuelsson"
+  },
+  {
+    "id": "stop_866",
+    "chef_id": "chef_paul_carmichael",
+    "restaurant_id": "rest_momofuku_ma_peche",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_867",
+    "chef_id": "chef_paul_carmichael",
+    "restaurant_id": "rest_kabawa",
+    "position": "Executive Chef",
+    "start_year": 2024,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": "chef_david_chang"
+  },
+  {
+    "id": "stop_868",
+    "chef_id": "chef_hooni_kim",
+    "restaurant_id": "rest_daniel",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_869",
+    "chef_id": "chef_hooni_kim",
+    "restaurant_id": "rest_masa",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_masa_takayama"
+  },
+  {
+    "id": "stop_870",
+    "chef_id": "chef_hooni_kim",
+    "restaurant_id": "rest_danji",
+    "position": "Chef/Owner",
+    "start_year": 2010,
+    "end_year": 2021,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_871",
+    "chef_id": "chef_hooni_kim",
+    "restaurant_id": "rest_meju",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_872",
+    "chef_id": "chef_dae_kim",
+    "restaurant_id": "rest_per_se",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_thomas_keller"
+  },
+  {
+    "id": "stop_873",
+    "chef_id": "chef_dae_kim",
+    "restaurant_id": "rest_daniel",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_874",
+    "chef_id": "chef_dae_kim",
+    "restaurant_id": "rest_atomix",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_junghyun_park"
+  },
+  {
+    "id": "stop_875",
+    "chef_id": "chef_dae_kim",
+    "restaurant_id": "rest_noksu",
+    "position": "Chef/Owner",
+    "start_year": 2023,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_876",
+    "chef_id": "chef_stefano_secchi",
+    "restaurant_id": "rest_osteria_francescana",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_massimo_bottura"
+  },
+  {
+    "id": "stop_877",
+    "chef_id": "chef_stefano_secchi",
+    "restaurant_id": "rest_rezdora",
+    "position": "Chef/Owner",
+    "start_year": 2019,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_878",
+    "chef_id": "chef_fidel_caballero",
+    "restaurant_id": "rest_martin_berasategui",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_martin_berasategui"
+  },
+  {
+    "id": "stop_879",
+    "chef_id": "chef_fidel_caballero",
+    "restaurant_id": "rest_contra",
+    "position": "Sous Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_880",
+    "chef_id": "chef_fidel_caballero",
+    "restaurant_id": "rest_corima",
+    "position": "Chef/Owner",
+    "start_year": 2024,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_881",
+    "chef_id": "chef_douglas_kim",
+    "restaurant_id": "rest_bouley",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_david_bouley"
+  },
+  {
+    "id": "stop_882",
+    "chef_id": "chef_douglas_kim",
+    "restaurant_id": "rest_per_se",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_thomas_keller"
+  },
+  {
+    "id": "stop_883",
+    "chef_id": "chef_douglas_kim",
+    "restaurant_id": "rest_chefs_table_at_brooklyn_fare",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_884",
+    "chef_id": "chef_douglas_kim",
+    "restaurant_id": "rest_jeju_noodle_bar",
+    "position": "Chef/Owner",
+    "start_year": 2017,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_885",
+    "chef_id": "chef_vikas_khanna",
+    "restaurant_id": "rest_daniel",
+    "position": "Apprentice",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_886",
+    "chef_id": "chef_vikas_khanna",
+    "restaurant_id": "rest_junoon",
+    "position": "Executive Chef",
+    "start_year": 2010,
+    "end_year": 2019,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_887",
+    "chef_id": "chef_vikas_khanna",
+    "restaurant_id": "rest_bungalow",
+    "position": "Chef/Owner",
+    "start_year": 2024,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_888",
+    "chef_id": "chef_april_bloomfield",
+    "restaurant_id": "rest_the_river_cafe",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_889",
+    "chef_id": "chef_april_bloomfield",
+    "restaurant_id": "rest_chez_panisse",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_alice_waters"
+  },
+  {
+    "id": "stop_890",
+    "chef_id": "chef_april_bloomfield",
+    "restaurant_id": "rest_the_spotted_pig",
+    "position": "Chef/Partner",
+    "start_year": 2004,
+    "end_year": 2019,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_891",
+    "chef_id": "chef_april_bloomfield",
+    "restaurant_id": "rest_the_breslin",
+    "position": "Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_892",
+    "chef_id": "chef_april_bloomfield",
+    "restaurant_id": "rest_sailor",
+    "position": "Chef",
+    "start_year": 2023,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_893",
+    "chef_id": "chef_masaharu_morimoto",
+    "restaurant_id": "rest_nobu",
+    "position": "Executive Chef",
+    "start_year": 1994,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_nobu_matsuhisa"
+  },
+  {
+    "id": "stop_894",
+    "chef_id": "chef_masaharu_morimoto",
+    "restaurant_id": "rest_morimoto",
+    "position": "Chef/Owner",
+    "start_year": 2001,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_895",
+    "chef_id": "chef_masaharu_morimoto",
+    "restaurant_id": "rest_momosan_ramen_sake",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_896",
+    "chef_id": "chef_rene_redzepi",
+    "restaurant_id": "rest_noma",
+    "position": "Chef/Co-Founder",
+    "start_year": 2003,
+    "end_year": 2024,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_897",
+    "chef_id": "chef_laurent_tourondel",
+    "restaurant_id": "rest_troisgros",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_898",
+    "chef_id": "chef_laurent_tourondel",
+    "restaurant_id": "rest_le_chantecler",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_899",
+    "chef_id": "chef_laurent_tourondel",
+    "restaurant_id": "rest_cello",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_900",
+    "chef_id": "chef_laurent_tourondel",
+    "restaurant_id": "rest_blt_steak",
+    "position": "Chef/Owner",
+    "start_year": 2004,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_901",
+    "chef_id": "chef_hoyoung_kim",
+    "restaurant_id": "rest_jungsik",
+    "position": "Line Cook",
+    "start_year": 2009,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_jungsik_yim",
+    "notes": "Started at Jung Sik Dang Seoul, came to NYC with Yim in 2011"
+  },
+  {
+    "id": "stop_902",
+    "chef_id": "chef_hoyoung_kim",
+    "restaurant_id": "rest_jungsik",
+    "position": "Executive Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_jungsik_yim",
+    "notes": "Promoted to exec chef after Paris training"
+  },
+  {
+    "id": "stop_903",
+    "chef_id": "chef_hoyoung_kim",
+    "restaurant_id": "rest_jua",
+    "position": "Chef/Owner",
+    "start_year": 2020,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_904",
+    "chef_id": "chef_sam_lawrence",
+    "restaurant_id": "rest_the_nomad",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_905",
+    "chef_id": "chef_sam_lawrence",
+    "restaurant_id": "rest_estela",
+    "position": "Lead Chef / Culinary Director",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_ignacio_mattos",
+    "notes": "Oversaw Estela, Lodi, and Altro Paradiso"
+  },
+  {
+    "id": "stop_906",
+    "chef_id": "chef_sam_lawrence",
+    "restaurant_id": "rest_bridges",
+    "position": "Chef/Owner",
+    "start_year": 2024,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_907",
+    "chef_id": "chef_nick_curtola",
+    "restaurant_id": "rest_noma",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_rene_redzepi"
+  },
+  {
+    "id": "stop_908",
+    "chef_id": "chef_nick_curtola",
+    "restaurant_id": "rest_the_four_horsemen",
+    "position": "Executive Chef",
+    "start_year": 2015,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_909",
+    "chef_id": "chef_sunny_lee",
+    "restaurant_id": "rest_eleven_madison_park",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_humm"
+  },
+  {
+    "id": "stop_910",
+    "chef_id": "chef_sunny_lee",
+    "restaurant_id": "rest_blue_hill_stone_barns",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_dan_barber"
+  },
+  {
+    "id": "stop_911",
+    "chef_id": "chef_sunny_lee",
+    "restaurant_id": "rest_sunns",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_912",
+    "chef_id": "chef_greg_baxtrom",
+    "restaurant_id": "rest_alinea",
+    "position": "Sous Chef",
+    "start_year": 2010,
+    "end_year": 2013,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_grant_achatz"
+  },
+  {
+    "id": "stop_913",
+    "chef_id": "chef_greg_baxtrom",
+    "restaurant_id": "rest_per_se",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_thomas_keller"
+  },
+  {
+    "id": "stop_914",
+    "chef_id": "chef_greg_baxtrom",
+    "restaurant_id": "rest_blue_hill_stone_barns",
+    "position": "Chef de Cuisine",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_dan_barber"
+  },
+  {
+    "id": "stop_915",
+    "chef_id": "chef_greg_baxtrom",
+    "restaurant_id": "rest_olmsted",
+    "position": "Chef/Owner",
+    "start_year": 2016,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_916",
+    "chef_id": "chef_gregory_gourdet",
+    "restaurant_id": "rest_jeangeorges",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_jeangeorges_vongerichten",
+    "notes": "First CIA intern at JG. 7 years across 3 restaurants, rose to chef de cuisine"
+  },
+  {
+    "id": "stop_917",
+    "chef_id": "chef_gregory_gourdet",
+    "restaurant_id": "rest_kann",
+    "position": "Chef/Owner",
+    "start_year": 2022,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_918",
+    "chef_id": "chef_gregory_gourdet",
+    "restaurant_id": "rest_maison_passerelle",
+    "position": "Chef/Owner",
+    "start_year": 2025,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_919",
+    "chef_id": "chef_geoffrey_zakarian",
+    "restaurant_id": "rest_le_cirque",
+    "position": "Chef de Cuisine",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null,
+    "notes": "4 years under Alain Sailhac, started by volunteering"
+  },
+  {
+    "id": "stop_920",
+    "chef_id": "chef_geoffrey_zakarian",
+    "restaurant_id": "rest_le_chantecler",
+    "position": "Stage",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_921",
+    "chef_id": "chef_geoffrey_zakarian",
+    "restaurant_id": "rest_town",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_922",
+    "chef_id": "chef_geoffrey_zakarian",
+    "restaurant_id": "rest_country",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_923",
+    "chef_id": "chef_geoffrey_zakarian",
+    "restaurant_id": "rest_the_lambs_club",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_924",
+    "chef_id": "chef_dale_talde",
+    "restaurant_id": "rest_vong",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_jeangeorges_vongerichten"
+  },
+  {
+    "id": "stop_925",
+    "chef_id": "chef_dale_talde",
+    "restaurant_id": "rest_morimoto",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_masaharu_morimoto"
+  },
+  {
+    "id": "stop_926",
+    "chef_id": "chef_dale_talde",
+    "restaurant_id": "rest_buddakan",
+    "position": "Chef de Cuisine",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_927",
+    "chef_id": "chef_dale_talde",
+    "restaurant_id": "rest_goosefeather",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_928",
+    "chef_id": "chef_melissa_rodriguez",
+    "restaurant_id": "rest_daniel",
+    "position": "Sous Chef",
+    "start_year": 2006,
+    "end_year": 2011,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_boulud"
+  },
+  {
+    "id": "stop_929",
+    "chef_id": "chef_melissa_rodriguez",
+    "restaurant_id": "rest_del_posto",
+    "position": "Executive Chef",
+    "start_year": 2017,
+    "end_year": 2021,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_930",
+    "chef_id": "chef_melissa_rodriguez",
+    "restaurant_id": "rest_crane_club",
+    "position": "Chef",
+    "start_year": 2023,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_931",
+    "chef_id": "chef_daniel_rose",
+    "restaurant_id": "rest_bruneau",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_932",
+    "chef_id": "chef_daniel_rose",
+    "restaurant_id": "rest_le_meurice",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_933",
+    "chef_id": "chef_daniel_rose",
+    "restaurant_id": "rest_spring_paris",
+    "position": "Chef/Owner",
+    "start_year": 2006,
+    "end_year": 2017,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_934",
+    "chef_id": "chef_daniel_rose",
+    "restaurant_id": "rest_le_coucou",
+    "position": "Chef",
+    "start_year": 2016,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_935",
+    "chef_id": "chef_isao_yamada",
+    "restaurant_id": "rest_kitcho",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_936",
+    "chef_id": "chef_isao_yamada",
+    "restaurant_id": "rest_brushstroke",
+    "position": "Executive Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_david_bouley"
+  },
+  {
+    "id": "stop_937",
+    "chef_id": "chef_isao_yamada",
+    "restaurant_id": "rest_yamada",
+    "position": "Chef/Owner",
+    "start_year": 2025,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_938",
+    "chef_id": "chef_brian_kim",
+    "restaurant_id": "rest_bouley",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_david_bouley"
+  },
+  {
+    "id": "stop_939",
+    "chef_id": "chef_brian_kim",
+    "restaurant_id": "rest_oiji",
+    "position": "Chef/Owner",
+    "start_year": 2015,
+    "end_year": 2022,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_940",
+    "chef_id": "chef_brian_kim",
+    "restaurant_id": "rest_oiji_mi",
+    "position": "Chef/Owner",
+    "start_year": 2022,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_941",
+    "chef_id": "chef_joshua_pinsky",
+    "restaurant_id": "rest_momofuku_ko",
+    "position": "Sous Chef / Corporate Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_david_chang",
+    "notes": "10 years at Momofuku, sous chef to corporate chef"
+  },
+  {
+    "id": "stop_942",
+    "chef_id": "chef_joshua_pinsky",
+    "restaurant_id": "rest_claud",
+    "position": "Chef/Owner",
+    "start_year": 2022,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_943",
+    "chef_id": "chef_joshua_pinsky",
+    "restaurant_id": "rest_penny",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_944",
+    "chef_id": "chef_fariyal_abdullahi",
+    "restaurant_id": "rest_noma",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_rene_redzepi"
+  },
+  {
+    "id": "stop_945",
+    "chef_id": "chef_fariyal_abdullahi",
+    "restaurant_id": "rest_hav_mar",
+    "position": "Executive Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": "chef_marcus_samuelsson"
+  },
+  {
+    "id": "stop_946",
+    "chef_id": "chef_aretah_ettarh",
+    "restaurant_id": "rest_jeangeorges",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_jeangeorges_vongerichten"
+  },
+  {
+    "id": "stop_947",
+    "chef_id": "chef_aretah_ettarh",
+    "restaurant_id": "rest_gramercy_tavern",
+    "position": "Chef de Cuisine",
+    "start_year": 2016,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": "chef_michael_anthony",
+    "notes": "3rd chef de cuisine in the restaurant's 30-year history"
+  },
+  {
+    "id": "stop_948",
+    "chef_id": "chef_justin_bazdarich",
+    "restaurant_id": "rest_jeangeorges",
+    "position": "Sous Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_jeangeorges_vongerichten",
+    "notes": "Intern to sous chef to opening chef of Perry Street in 3 years"
+  },
+  {
+    "id": "stop_949",
+    "chef_id": "chef_justin_bazdarich",
+    "restaurant_id": "rest_perry_street",
+    "position": "Opening Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_jeangeorges_vongerichten"
+  },
+  {
+    "id": "stop_950",
+    "chef_id": "chef_justin_bazdarich",
+    "restaurant_id": "rest_oxomoco",
+    "position": "Chef/Owner",
+    "start_year": 2018,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_951",
+    "chef_id": "chef_marc_forgione",
+    "restaurant_id": "rest_an_american_place",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null,
+    "notes": "Father Larry Forgione's restaurant"
+  },
+  {
+    "id": "stop_952",
+    "chef_id": "chef_marc_forgione",
+    "restaurant_id": "rest_blt_steak",
+    "position": "Chef de Cuisine",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_laurent_tourondel"
+  },
+  {
+    "id": "stop_953",
+    "chef_id": "chef_marc_forgione",
+    "restaurant_id": "rest_restaurant_marc_forgione",
+    "position": "Chef/Owner",
+    "start_year": 2008,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_954",
+    "chef_id": "chef_alex_stupak",
+    "restaurant_id": "rest_alinea",
+    "position": "Pastry Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_grant_achatz"
+  },
+  {
+    "id": "stop_955",
+    "chef_id": "chef_alex_stupak",
+    "restaurant_id": "rest_wd50",
+    "position": "Pastry Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_wylie_dufresne"
+  },
+  {
+    "id": "stop_956",
+    "chef_id": "chef_alex_stupak",
+    "restaurant_id": "rest_empellon",
+    "position": "Chef/Owner",
+    "start_year": 2011,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_957",
+    "chef_id": "chef_keiji_nakazawa",
+    "restaurant_id": "rest_sushi_sho_tokyo",
+    "position": "Chef/Owner",
+    "start_year": 1989,
+    "end_year": 2019,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_958",
+    "chef_id": "chef_keiji_nakazawa",
+    "restaurant_id": "rest_sushi_sho",
+    "position": "Chef/Owner",
+    "start_year": 2024,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_959",
+    "chef_id": "chef_angie_rito",
+    "restaurant_id": "rest_torrisi_italian_specialties",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_rich_torrisi",
+    "notes": "Also worked under Mario Carbone"
+  },
+  {
+    "id": "stop_960",
+    "chef_id": "chef_angie_rito",
+    "restaurant_id": "rest_don_angie",
+    "position": "Chef/Partner",
+    "start_year": 2017,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_961",
+    "chef_id": "chef_angie_rito",
+    "restaurant_id": "rest_san_sabino",
+    "position": "Chef/Partner",
+    "start_year": 2024,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_962",
+    "chef_id": "chef_scott_tacinelli",
+    "restaurant_id": "rest_quality_meats",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_963",
+    "chef_id": "chef_scott_tacinelli",
+    "restaurant_id": "rest_don_angie",
+    "position": "Chef/Partner",
+    "start_year": 2017,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_964",
+    "chef_id": "chef_scott_tacinelli",
+    "restaurant_id": "rest_san_sabino",
+    "position": "Chef/Partner",
+    "start_year": 2024,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_965",
+    "chef_id": "chef_mads_refslund",
+    "restaurant_id": "rest_noma",
+    "position": "Chef/Co-Founder",
+    "start_year": 2003,
+    "end_year": 2005,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_rene_redzepi",
+    "notes": "Co-founded Noma with Redzepi and Claus Meyer, left early"
+  },
+  {
+    "id": "stop_966",
+    "chef_id": "chef_mads_refslund",
+    "restaurant_id": "rest_ilis",
+    "position": "Chef/Owner",
+    "start_year": 2023,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_967",
+    "chef_id": "chef_leah_cohen",
+    "restaurant_id": "rest_eleven_madison_park",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_humm"
+  },
+  {
+    "id": "stop_968",
+    "chef_id": "chef_leah_cohen",
+    "restaurant_id": "rest_pig_khao",
+    "position": "Chef/Owner",
+    "start_year": 2012,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_969",
+    "chef_id": "chef_sohui_kim",
+    "restaurant_id": "rest_blue_hill",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_dan_barber"
+  },
+  {
+    "id": "stop_970",
+    "chef_id": "chef_sohui_kim",
+    "restaurant_id": "rest_the_good_fork",
+    "position": "Chef/Owner",
+    "start_year": 2005,
+    "end_year": 2019,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_971",
+    "chef_id": "chef_sohui_kim",
+    "restaurant_id": "rest_insa",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_972",
+    "chef_id": "chef_sohui_kim",
+    "restaurant_id": "rest_gage_tollner",
+    "position": "Chef/Partner",
+    "start_year": 2021,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_973",
+    "chef_id": "chef_ayesha_nurdjaja",
+    "restaurant_id": "rest_felidia",
+    "position": "Extern / Sous Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null,
+    "notes": "Under Lidia Bastianich"
+  },
+  {
+    "id": "stop_974",
+    "chef_id": "chef_ayesha_nurdjaja",
+    "restaurant_id": "rest_a_voce",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_missy_robbins"
+  },
+  {
+    "id": "stop_975",
+    "chef_id": "chef_ayesha_nurdjaja",
+    "restaurant_id": "rest_shuka",
+    "position": "Chef/Partner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_976",
+    "chef_id": "chef_ayesha_nurdjaja",
+    "restaurant_id": "rest_shukette",
+    "position": "Chef/Partner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_977",
+    "chef_id": "chef_vijay_kumar",
+    "restaurant_id": "rest_semma",
+    "position": "Executive Chef",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_978",
+    "chef_id": "chef_chintan_pandya",
+    "restaurant_id": "rest_adda",
+    "position": "Chef/Partner",
+    "start_year": 2018,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_979",
+    "chef_id": "chef_chintan_pandya",
+    "restaurant_id": "rest_dhamaka",
+    "position": "Chef/Partner",
+    "start_year": 2021,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_980",
+    "chef_id": "chef_ruth_rogers",
+    "restaurant_id": "rest_the_river_cafe",
+    "position": "Chef/Co-Founder",
+    "start_year": 1987,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_981",
+    "chef_id": "chef_mitsunobu_nagae",
+    "restaurant_id": "rest_chateau_restaurant_joel_robuchon",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null,
+    "notes": "Under Alain Verzeroli. 3 Michelin stars."
+  },
+  {
+    "id": "stop_982",
+    "chef_id": "chef_mitsunobu_nagae",
+    "restaurant_id": "rest_latelier_de_joel_robuchon",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_983",
+    "chef_id": "chef_mitsunobu_nagae",
+    "restaurant_id": "rest_labeille",
+    "position": "Chef/Owner",
+    "start_year": 2022,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_984",
+    "chef_id": "chef_manabu_asanuma",
+    "restaurant_id": "rest_sushi_ichimura",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_985",
+    "chef_id": "chef_manabu_asanuma",
+    "restaurant_id": "rest_muku",
+    "position": "Chef/Owner",
+    "start_year": 2025,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_986",
+    "chef_id": "chef_cheng_lin",
+    "restaurant_id": "rest_hatsuhana",
+    "position": "Trainee",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_987",
+    "chef_id": "chef_cheng_lin",
+    "restaurant_id": "rest_sushi_seki",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_988",
+    "chef_id": "chef_cheng_lin",
+    "restaurant_id": "rest_blue_ribbon",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_989",
+    "chef_id": "chef_cheng_lin",
+    "restaurant_id": "rest_shota_omakase",
+    "position": "Chef/Owner",
+    "start_year": 2023,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_990",
+    "chef_id": "chef_telly_justice",
+    "restaurant_id": "rest_contra",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null,
+    "notes": "Trained under Fabian von Hauske and Jeremiah Stone"
+  },
+  {
+    "id": "stop_991",
+    "chef_id": "chef_telly_justice",
+    "restaurant_id": "rest_hags",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_992",
+    "chef_id": "chef_changho_shin",
+    "restaurant_id": "rest_joo_ok",
+    "position": "Chef/Owner",
+    "start_year": 2024,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null,
+    "notes": "Relocated from Seoul (2016-2024, 2 Michelin stars) to NYC"
+  },
+  {
+    "id": "stop_993",
+    "chef_id": "chef_takanori_akiyama",
+    "restaurant_id": "rest_sakamai",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_994",
+    "chef_id": "chef_takanori_akiyama",
+    "restaurant_id": "rest_bar_moga",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_995",
+    "chef_id": "chef_takanori_akiyama",
+    "restaurant_id": "rest_tsukimi",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_996",
+    "chef_id": "chef_ayo_balogun",
+    "restaurant_id": "rest_dept_of_culture",
+    "position": "Chef/Owner",
+    "start_year": 2022,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_997",
+    "chef_id": "chef_jody_williams",
+    "restaurant_id": "rest_buvette",
+    "position": "Chef/Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_998",
+    "chef_id": "chef_jody_williams",
+    "restaurant_id": "rest_via_carota",
+    "position": "Chef/Co-Owner",
+    "start_year": 2014,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_999",
+    "chef_id": "chef_rita_sodi",
+    "restaurant_id": "rest_i_sodi",
+    "position": "Chef/Owner",
+    "start_year": 2008,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_1000",
+    "chef_id": "chef_rita_sodi",
+    "restaurant_id": "rest_via_carota",
+    "position": "Chef/Co-Owner",
+    "start_year": 2014,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_1001",
+    "chef_id": "chef_patty_lee",
+    "restaurant_id": "rest_mission_chinese_food",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_1002",
+    "chef_id": "chef_patty_lee",
+    "restaurant_id": "rest_lei",
+    "position": "Chef",
+    "start_year": 2025,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_1003",
+    "chef_id": "chef_ann_redding",
+    "restaurant_id": "rest_per_se",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_thomas_keller"
+  },
+  {
+    "id": "stop_1004",
+    "chef_id": "chef_ann_redding",
+    "restaurant_id": "rest_uncle_boons",
+    "position": "Chef/Owner",
+    "start_year": 2013,
+    "end_year": 2020,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_1005",
+    "chef_id": "chef_ann_redding",
+    "restaurant_id": "rest_thai_diner",
+    "position": "Chef/Owner",
+    "start_year": 2020,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_1006",
+    "chef_id": "chef_george_ruan",
+    "restaurant_id": "rest_masa",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_masa_takayama",
+    "notes": "Nearly 2 decades, server to grill to sushi"
+  },
+  {
+    "id": "stop_1007",
+    "chef_id": "chef_george_ruan",
+    "restaurant_id": "rest_joji",
+    "position": "Chef/Co-Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null,
+    "notes": "Inside One Vanderbilt"
+  },
+  {
+    "id": "stop_1008",
+    "chef_id": "chef_wayne_cheng",
+    "restaurant_id": "rest_masa",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_masa_takayama"
+  },
+  {
+    "id": "stop_1009",
+    "chef_id": "chef_wayne_cheng",
+    "restaurant_id": "rest_eleven_madison_park",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_daniel_humm"
+  },
+  {
+    "id": "stop_1010",
+    "chef_id": "chef_wayne_cheng",
+    "restaurant_id": "rest_joji",
+    "position": "Chef/Co-Owner",
+    "start_year": null,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_1011",
+    "chef_id": "chef_sherry_cardoso",
+    "restaurant_id": "rest_le_cirque",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_1012",
+    "chef_id": "chef_sherry_cardoso",
+    "restaurant_id": "rest_per_se",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_thomas_keller",
+    "notes": "4 years"
+  },
+  {
+    "id": "stop_1013",
+    "chef_id": "chef_sherry_cardoso",
+    "restaurant_id": "rest_cynthia",
+    "position": "Chef/Owner",
+    "start_year": 2026,
+    "end_year": null,
+    "is_current": true,
+    "verification": "unverified",
+    "mentor_id": null
+  },
+  {
+    "id": "stop_1014",
+    "chef_id": "chef_dan_barber",
+    "restaurant_id": "rest_chez_panisse",
+    "position": "Cook",
+    "start_year": null,
+    "end_year": null,
+    "is_current": false,
+    "verification": "unverified",
+    "mentor_id": "chef_alice_waters"
+  },
+  {
+    "id": "stop_1015",
+    "chef_id": "chef_dan_barber",
+    "restaurant_id": "rest_blue_hill",
+    "position": "Chef/Owner",
+    "start_year": 2000,
     "end_year": null,
     "is_current": true,
     "verification": "unverified",

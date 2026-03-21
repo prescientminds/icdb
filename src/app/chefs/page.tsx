@@ -1,9 +1,16 @@
+"use client";
 import Link from "next/link";
-import { chefs, stops, restaurants, getProtegeCount, getMentors } from "@/lib/data";
+import { chefs, stops, restaurants, getProtegeCount, getMentors, getCityForChef } from "@/lib/data";
+import { useCity } from "@/components/CityContext";
 
 export default function ChefsPage() {
-  // Sort: lineage chefs with most connections first, then notable, then alphabetical
-  const sorted = [...chefs].sort((a, b) => {
+  const { selectedCity } = useCity();
+
+  const filtered = selectedCity
+    ? chefs.filter((c) => getCityForChef(c.id) === selectedCity)
+    : chefs;
+
+  const sorted = [...filtered].sort((a, b) => {
     const aTier = (a as Record<string, unknown>).tier === "lineage" ? 0 : 1;
     const bTier = (b as Record<string, unknown>).tier === "lineage" ? 0 : 1;
     if (aTier !== bTier) return aTier - bTier;
@@ -20,7 +27,7 @@ export default function ChefsPage() {
           Chefs
         </h1>
         <p className="text-sm text-stone-500">
-          {chefs.length} profiles · sorted by network influence
+          {filtered.length} profiles · sorted by network influence
         </p>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -32,7 +39,6 @@ export default function ChefsPage() {
           const mentors = getMentors(chef.id);
           const tier = (chef as Record<string, unknown>).tier;
 
-          // Build signal line
           const signalParts: string[] = [];
           if (protegeCount > 0) signalParts.push(`${protegeCount} protégé${protegeCount > 1 ? "s" : ""}`);
           if (mentors.length > 0) {

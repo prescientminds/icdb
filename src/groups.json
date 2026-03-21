@@ -848,5 +848,184 @@
     "total_locations": 10,
     "notable_alumni": [],
     "website": null
+  },
+  {
+    "id": "group_ushg",
+    "name": "Union Square Hospitality Group",
+    "type": "hospitality-group",
+    "key_people": [
+      "Danny Meyer"
+    ],
+    "city": "New York",
+    "portfolio": [
+      "rest_gramercy_tavern",
+      "rest_the_modern"
+    ],
+    "description": "Danny Meyer's restaurant and hospitality empire. Founded Union Square Cafe (1985), Gramercy Tavern (1994), The Modern (2004), Shake Shack. Meyer pioneered \"enlightened hospitality\" — one of the most influential restaurateurs in American dining.",
+    "active": true,
+    "founded_year": 1985,
+    "model": "restaurateur",
+    "total_locations": 20,
+    "notable_alumni": [
+      "chef_tom_colicchio",
+      "chef_michael_anthony",
+      "chef_floyd_cardoz",
+      "chef_gabriel_kreuther"
+    ],
+    "website": null,
+    "notes": null
+  },
+  {
+    "id": "group_major_food",
+    "name": "Major Food Group",
+    "type": "restaurant-group",
+    "key_people": [
+      "Mario Carbone",
+      "Rich Torrisi",
+      "Jeff Zalaznick"
+    ],
+    "city": "New York",
+    "portfolio": [
+      "rest_carbone",
+      "rest_the_grill"
+    ],
+    "description": "Italian-American fine dining empire. Carbone and Torrisi trained at Café Boulud. Built Carbone into the most influential NYC Italian restaurant of the 2010s. Expanded to The Grill, ZZ's Clam Bar, Parm, Sadelle's. Global expansion underway.",
+    "active": true,
+    "founded_year": 2013,
+    "model": "chef-partner",
+    "total_locations": 15,
+    "notable_alumni": [],
+    "website": null,
+    "notes": null
+  },
+  {
+    "id": "group_noho_hospitality",
+    "name": "NoHo Hospitality Group",
+    "type": "restaurant-group",
+    "key_people": [
+      "Andrew Carmellini",
+      "Luke Ostrom",
+      "Josh Pickard"
+    ],
+    "city": "New York",
+    "portfolio": [
+      "rest_the_dutch",
+      "rest_locanda_verde"
+    ],
+    "description": "Andrew Carmellini's restaurant group. Built after his JBF Rising Star win at Café Boulud. Locanda Verde (TriBeCa), The Dutch (SoHo), Bar Primi, Lodi.",
+    "active": true,
+    "founded_year": 2009,
+    "model": "chef-owned",
+    "total_locations": 6,
+    "notable_alumni": [],
+    "website": null,
+    "notes": null
+  },
+  {
+    "id": "group_dinex",
+    "name": "The Dinex Group",
+    "type": "restaurant-group",
+    "key_people": [
+      "Daniel Boulud"
+    ],
+    "city": "New York",
+    "portfolio": [
+      "rest_daniel",
+      "rest_café_boulud"
+    ],
+    "description": "Daniel Boulud's restaurant group. Daniel (2 Michelin stars), Café Boulud, Le Pavillon. The most prolific mentor tree in NYC dining — alumni include Chang, Carmellini, Carbone, Torrisi, Anthony, Guarnaschelli, Nasr.",
+    "active": true,
+    "founded_year": 1993,
+    "model": "chef-owned",
+    "total_locations": 8,
+    "notable_alumni": [
+      "chef_andrew_carmellini",
+      "chef_david_chang",
+      "chef_mario_carbone",
+      "chef_rich_torrisi",
+      "chef_michael_anthony",
+      "chef_alex_guarnaschelli",
+      "chef_riad_nasr"
+    ],
+    "website": null,
+    "notes": null
+  },
+  {
+    "id": "group_sung_shim",
+    "name": "Sung Shim Food Group",
+    "type": "chef-owned",
+    "founder": "Sungchul Shim",
+    "founded_year": 2019,
+    "city": "New York",
+    "portfolio": [
+      "rest_kochi",
+      "rest_mari"
+    ],
+    "model": "Korean fine dining multi-concept",
+    "active": true,
+    "total_locations": 4,
+    "notable_alumni": []
+  },
+  {
+    "id": "group_unapologetic_foods",
+    "name": "Unapologetic Foods",
+    "type": "chef-partner",
+    "founder": "Roni Mazumdar & Chintan Pandya",
+    "founded_year": 2018,
+    "city": "New York",
+    "portfolio": [
+      "rest_adda",
+      "rest_dhamaka",
+      "rest_semma"
+    ],
+    "model": "Indian regional cuisine restaurants with different chefs",
+    "active": true,
+    "total_locations": 5,
+    "notable_alumni": []
+  },
+  {
+    "id": "group_marlow_collective",
+    "name": "The Marlow Collective",
+    "type": "restaurateur",
+    "founder": "Andrew Tarlow",
+    "founded_year": 1998,
+    "city": "New York",
+    "portfolio": [],
+    "model": "Brooklyn farm-to-table pioneer. Diner, Marlow & Sons, Roman's, She Wolf Bakery.",
+    "active": true,
+    "total_locations": 7,
+    "notable_alumni": []
+  },
+  {
+    "id": "group_officina_1397",
+    "name": "Officina 1397",
+    "type": "chef-owned",
+    "founder": "Jody Williams & Rita Sodi",
+    "founded_year": 2008,
+    "city": "New York",
+    "portfolio": [
+      "rest_i_sodi",
+      "rest_buvette",
+      "rest_via_carota"
+    ],
+    "model": "Self-financed West Village Italian empire",
+    "active": true,
+    "total_locations": 5,
+    "notable_alumni": []
+  },
+  {
+    "id": "group_baxtrom_hospitality",
+    "name": "Baxtrom Hospitality",
+    "type": "chef-owned",
+    "founder": "Greg Baxtrom",
+    "founded_year": 2016,
+    "city": "New York",
+    "portfolio": [
+      "rest_olmsted"
+    ],
+    "model": "Brooklyn neighborhood restaurants",
+    "active": true,
+    "total_locations": 4,
+    "notable_alumni": []
   }
 ]
